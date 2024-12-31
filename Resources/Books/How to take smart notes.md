@@ -1,0 +1,6 @@
+---
+skills: 
+externalLink: 
+isCompleted:
+---
+#resource 

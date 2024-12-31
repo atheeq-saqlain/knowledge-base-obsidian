@@ -1,7 +1,0 @@
-#concept
-
-# Definition
-
-
-
-# Explanation
