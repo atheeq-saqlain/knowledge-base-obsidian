@@ -31,6 +31,26 @@
 [[In-order traversal]]
 [[post-order traversal]]
 
+
 ### Other 
 [[Dijkstra's Algorithm]]
 [[Bellman-Ford Algorithm]]
+
+## Alo Patterns
+[[Prefix Sum]]
+[[Two Pointers]]
+[[Sliding window]]
+[[Fast and slow pointers]]
+[[Linked list in place reversal]]
+[[Monotonic Stack]]
+[[Top K elements]]
+[[Overlapping intervals]]
+[[Modified Binary Search]]
+[[DFS]]
+[[BFS]]
+[[Matrix Traversal]]
+[[Backtracking]]
+[[Dynamic programing]]
+
+
+
