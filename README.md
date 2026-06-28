@@ -1,38 +1,75 @@
+# Knowledge Base (Obsidian)
 
-This is a project made with the [[Obsidian]] tool based on the [[Concepts/Zettelkasten]] method of note taking 
+Visual workspace for designing the **Knowledge Tracker** catalog. Draft concepts and questions here, explore relationships in graph/backlinks, then **enter content manually** in the moderator UI.
 
-# Contents of this project
-In the root folder are the main groupings of the types of notes that are stored 
-Each group has a Template associated with it, in the Templates folder. The notes are defined into the following groups : 
-### Concepts
-The concept notes must hold a single idea defined in a concise manner. Only the definition of the concept must contain links to other notes. 
-###### Definition
-The definition is the most important part of the concept as it encapsulates the whole idea and gives clarity to it. Mark the property `isDefinitionComplete` as checked (`true`)
-###### Explanation
-This can have an elaboration of the above stated definition of the concept including examples, illustrations and any kind of tool necessary for better understanding of the concept.  *This part must not contain links to other notes*
+**There is no automated sync** between this vault and the application database. Obsidian is for authoring and visualization only; the DB is the runtime source of truth for learning.
 
-### Skills
-This in this current context can be defined as a group of concepts required to achieve something of value.
+## What you're modeling
 
-### Tools
-Things developed to enhance skills, example : the tool **Obsidian** is used for **zettelkasten**
+- **Concepts** — reusable skills, linked by prerequisites (DAG)
+- **Questions** — assessable items with a checklist; each row maps to concepts
 
-### People
-These notes generally contain short biography and links to the ideas they have contributed towards
+## Layout
 
-### Countries
-This has been added to provide an be linked to the people and some notes related to history
+```text
+Concepts/          # one note per concept (human-readable file name = display name)
+Questions/         # one note per question
+Templates/
+  Concept.md
+  Question.md
+```
 
-### Resources
-Any kind of book, course, online video, article can be a resource.
+## Slug = published indicator
 
-# Plugins and configurations
-# Process of adding notes
-TLDR ; Follow the top down approach - **Skill** --> **Resource**  --> **Concept** 
+**Slugs are auto-generated** when you create a concept or question in Knowledge Tracker (from name / statement if not supplied).
 
-Add a skill that you want to learn and start listing down the concepts required.
+In Obsidian frontmatter, leave `slug` **empty** while drafting. After you add the item in the app, **copy the generated slug back** into the note. A filled `slug` means that item exists in the database.
 
-Add resource note using template in the **Resources** folder and start adding concepts learnt in the note.
+Do not change slugs in the app after publish.
 
-Create the concepts noted in the resource note by replacing the text to links and creating a new note in the concepts folder. These can grouped in the proper folders at the same time or later on
+## Concept notes
 
+| Section | Purpose |
+|---------|---------|
+| **Note title** | Human-readable name → `Concept.name` in tracker |
+| **Definition** | One precise, generic statement of what the concept *is*. Prefer standalone; add `[[wikilinks]]` only when another concept is **required** to state the definition. Use those links when picking `preRequisitConcepts` in the app |
+| **Description** | Elaboration, examples, contexts — **no wikilinks** |
+
+Set any remaining **prerequisites** in Knowledge Tracker when publishing if they are not already linked in the definition.
+
+## Question notes
+
+| Section | Purpose |
+|---------|---------|
+| **Note title** | Human-readable title |
+| **Statement** | What the learner sees |
+| **Description** | Examples, constraints, context (optional) |
+| **Correct Answer** | Reference solution (optional) |
+| **Core Concept** | Single `[[wikilink]]` → `Question.coreConcept` in tracker |
+| **Assessment Checklist** | Table: `label`, `weight`, `required`, `role` |
+
+Embed concepts in checklist **labels** with `[[wikilinks]]` for the graph view. In the app, use **plain-text labels** and map concepts in ChecklistEditor to match.
+
+**Checklist options:** `weight` 1 · 2 · 3 · `required` true · false · `role` primary · supporting
+
+## Manual publish workflow
+
+1. Draft in Obsidian (`slug` empty); check graph view for links.
+2. Add **concepts** in Knowledge Tracker → copy returned slug into the concept note.
+3. Add **questions** in the tracker → copy slug into the question note.
+4. Run graph validate after a batch: `POST /knowledge/graph/validate`.
+
+## Templates
+
+Enable **Templates** in Obsidian (folder: `Templates`). See [[Templates/Concept]] and [[Templates/Question]].
+
+## Before adding to the tracker
+
+- [ ] Prerequisites form a DAG (no cycles)
+- [ ] Every checklist row links to at least one concept; same mapping in ChecklistEditor
+- [ ] Checklist labels are observable and specific
+
+## Related
+
+- **knowledge-tracker-server** — API, graph validation (`docs/ARCHITECTURE.md`, `M1.md`)
+- **knowledge-tracker-web-client** — ConceptForm, QuestionForm, ChecklistEditor

@@ -1,14 +1,13 @@
 ---
-isDefinitionComplete: false
+slug:
 ---
-#concept
-# Definition
 
+## Definition
 
+<!-- One precise, generic sentence. Link [[Other Concept]] only if required to define this one. -->
 
-# Explanation
+## Description
 
+<!-- Examples and contexts. No wikilinks. -->
 
-
-# Read More
-External links :
+<!-- After publishing to Knowledge Tracker: paste the auto-generated slug above. Empty slug = not yet in the app. -->
