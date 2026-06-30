@@ -1,6 +1,8 @@
 ---
 slug:
 ---
+# {{title}}
+
 
 ## Definition
 
