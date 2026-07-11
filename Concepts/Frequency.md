@@ -1,5 +1,5 @@
 ---
-slug:
+slug: frequency
 ---
 
 ## Definition
@@ -15,10 +15,10 @@ Frequencies can be listed, sorted, or compared without any particular data struc
 **Example tallies:**
 
 | Value | Frequency |
-|-------|-----------|
-| 1 | 1 |
-| 2 | 1 |
-| 3 | 3 |
+| ----- | --------- |
+| 1     | 1         |
+| 2     | 1         |
+| 3     | 3         |
 
 Common uses across domains:
 

@@ -12,4 +12,4 @@ slug:
 
 <!-- Examples and contexts. No wikilinks. -->
 
-<!-- After publishing to Knowledge Tracker: paste the auto-generated slug above. Empty slug = not yet in the app. -->
+<!-- Set slug when creating the note (from file name / folder / content). Keep it stable after publish. -->

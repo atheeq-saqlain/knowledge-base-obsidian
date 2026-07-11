@@ -1,5 +1,5 @@
 ---
-slug:
+slug: dsa-for-loop
 ---
 
 ## Definition

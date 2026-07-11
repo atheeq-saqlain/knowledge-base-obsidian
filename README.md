@@ -19,13 +19,19 @@ Templates/
   Question.md
 ```
 
-## Slug = published indicator
+## Slugs
 
-**Slugs are auto-generated** when you create a concept or question in Knowledge Tracker (from name / statement if not supplied).
+Every concept and question note has a **slug** in frontmatter. Set it when you create the note (manually or via an AI agent).
 
-In Obsidian frontmatter, leave `slug` **empty** while drafting. After you add the item in the app, **copy the generated slug back** into the note. A filled `slug` means that item exists in the database.
+**Generation logic** (for agents or manual authoring):
 
-Do not change slugs in the app after publish.
+1. Start from the **file name** (without `.md`) — e.g. `Contains Duplicates` → `contains-duplicates`
+2. Optionally prefix with a **folder / domain** segment — e.g. under `Concepts/Software/` → `software-contains-duplicates` only if you use domain prefixes; otherwise keep the name-based slug
+3. Use lowercase kebab-case: trim, lowercase, replace spaces/underscores with `-`, strip punctuation
+4. Prefer uniqueness across the vault; if a collision exists, append a short disambiguator from content (e.g. `-2`, or a distinguishing word from the definition/statement)
+5. Keep the slug **stable** after the note is published to Knowledge Tracker — do not rename it later
+
+Copy the same slug into the app when you create the concept or question so Obsidian and the DB stay aligned.
 
 ## Concept notes
 
@@ -54,9 +60,9 @@ Embed concepts in checklist **labels** with `[[wikilinks]]` for the graph view. 
 
 ## Manual publish workflow
 
-1. Draft in Obsidian (`slug` empty); check graph view for links.
-2. Add **concepts** in Knowledge Tracker → copy returned slug into the concept note.
-3. Add **questions** in the tracker → copy slug into the question note.
+1. Create notes in Obsidian with a **slug** already set; check graph view for links.
+2. Add **concepts** in Knowledge Tracker using the same slug, name, definition, description, and prerequisites.
+3. Add **questions** using the same slug, statement, core concept, and checklist mappings.
 4. Run graph validate after a batch: `POST /knowledge/graph/validate`.
 
 ## Templates
@@ -65,6 +71,7 @@ Enable **Templates** in Obsidian (folder: `Templates`). See [[Templates/Concept]
 
 ## Before adding to the tracker
 
+- [ ] Slug is set and unique
 - [ ] Prerequisites form a DAG (no cycles)
 - [ ] Every checklist row links to at least one concept; same mapping in ChecklistEditor
 - [ ] Checklist labels are observable and specific

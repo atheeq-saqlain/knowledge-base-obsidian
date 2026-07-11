@@ -1,8 +1,6 @@
 ---
-slug:
+slug: dsa-contains-duplicates
 questionType:
-coreConcept: "[[]]"
-referredConcepts: []
 ---
 
 # Contains Duplicates

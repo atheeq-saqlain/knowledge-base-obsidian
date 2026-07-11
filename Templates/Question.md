@@ -28,4 +28,4 @@ roles : primary | supporting
 |       |      1 |  false   | primary |
 
 <!-- Link concepts in labels with [[wikilinks]]. role: primary | supporting -->
-<!-- After publishing to Knowledge Tracker: paste the auto-generated slug in frontmatter. Empty slug = not yet in the app. -->
+<!-- Set slug when creating the note (from file name / folder / content). Keep it stable after publish. -->
