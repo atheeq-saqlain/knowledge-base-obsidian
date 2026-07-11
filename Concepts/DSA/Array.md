@@ -4,7 +4,7 @@ slug: dsa-array
 
 ## Definition
 
-A finite, **ordered sequence** of elements where each position is identified by a numeric **index**.
+A finite, **ordered sequence** of elements where each position is identified by a numeric **index**. Test [[For Loop]]
 
 ## Description
 
