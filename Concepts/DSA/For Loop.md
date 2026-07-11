@@ -4,7 +4,7 @@ slug: dsa-for-loop
 
 ## Definition
 
-A **control construct** that executes a block of code repeatedly, once per step in a predetermined range or sequence. Test  [[Frequency]]
+A **control construct** that executes a block of code repeatedly, once per step in a predetermined range or sequence.
 
 ## Description
 

@@ -4,7 +4,7 @@ slug: frequency
 
 ## Definition
 
-The **frequency** of a value or event is the **count** of how many times it occurs within a set of observations. Test [[Array]]
+The **frequency** of a value or event is the **count** of how many times it occurs within a set of observations.
 
 ## Description
 
