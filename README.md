@@ -14,9 +14,11 @@ Obsidian is the authoring / visualization layer. The DB is the runtime source of
 ```text
 Concepts/          # one note per concept (human-readable file name = display name)
 Questions/         # one note per question
+Syllabi/           # learning paths (ordered chapters → sections → concepts/questions)
 Templates/
   Concept.md
   Question.md
+  Syllabus.md
 ```
 
 ## Slugs
@@ -33,26 +35,42 @@ Every concept and question note has a **slug** in frontmatter. Set it when you c
 
 ## Concept notes
 
-| Section | Purpose |
-|---------|---------|
-| **Note title** | Human-readable name → `Concept.name` |
-| **Definition** | Precise, generic statement. Prefer standalone; add `[[wikilinks]]` only when another concept is **required**. Those links become `preRequisitConcepts` on sync |
-| **Description** | Elaboration and examples — **no wikilinks** |
+| Section         | Purpose                                                                                                                                                        |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Note title**  | Human-readable name → `Concept.name`                                                                                                                           |
+| **Definition**  | Precise, generic statement. Prefer standalone; add `[[wikilinks]]` only when another concept is **required**. Those links become `preRequisitConcepts` on sync |
+| **Description** | Elaboration and examples — **no wikilinks**                                                                                                                    |
 
 ## Question notes
 
-| Section | Purpose |
-|---------|---------|
-| **Note title** | Human-readable title |
-| **Statement** | What the learner sees |
-| **Description** | Examples, constraints, context (optional) |
-| **Correct Answer** | Reference solution (optional) |
-| **Core Concept** | Single `[[wikilink]]` → `Question.coreConcept` |
-| **Assessment Checklist** | Table: `label`, `weight`, `required`, `role` |
+| Section                  | Purpose                                        |
+| ------------------------ | ---------------------------------------------- |
+| **Note title**           | Human-readable title                           |
+| **Statement**            | What the learner sees                          |
+| **Description**          | Examples, constraints, context (optional)      |
+| **Correct Answer**       | Reference solution (optional)                  |
+| **Core Concept**         | Single `[[wikilink]]` → `Question.coreConcept` |
+| **Assessment Checklist** | Table: `label`, `weight`, `required`, `role`   |
 
 Embed concepts in checklist **labels** with `[[wikilinks]]`. On sync, links become `assessmentChecklist[].concepts`; labels are stored as plain text (wikilinks stripped). `referredConcepts` is derived from checklist concepts minus core.
 
 **Checklist options:** `weight` 1 · 2 · 3 · `required` true · false · `role` primary · supporting
+
+## Syllabus notes
+
+Institutional learning paths (board/grade ordering). Not part of the knowledge catalog graph — they order existing concepts and questions for enrollment / next-question ranking.
+
+| Section / field | Purpose                                                                                         |
+| --------------- | ----------------------------------------------------------------------------------------------- |
+| **Note title**  | → `Syllabus.name`                                                                               |
+| **slug**        | Stable join key (e.g. `dsa-blind-75`)                                                           |
+| **label**       | Short code                                                                                      |
+| **grade**       | Grade / audience label                                                                          |
+| **status**      | `draft` \| `active`                                                                             |
+| **Summary**     | Description of the path                                                                         |
+| **Chapters**    | `### Chapter` → `#### Section` → optional **Concepts** / **Questions** lists of `[[wikilinks]]` |
+
+Order within each section is learning order. Prerequisites still come from the concept graph.
 
 ## Sync to Knowledge Tracker
 
@@ -63,7 +81,7 @@ From `knowledge-tracker-server`:
 OBSIDIAN_VAULT_PATH=D:/obsidian/knowledge-base-obsidian
 
 npm run sync-obsidian:dry   # preview
-npm run sync-obsidian       # upsert concepts + questions by slug
+npm run sync-obsidian       # upsert concepts + questions + syllabi by slug
 ```
 
 Or:
@@ -75,16 +93,17 @@ node scripts/sync-obsidian-vault.js --vault "D:/obsidian/knowledge-base-obsidian
 **What sync does:**
 
 1. Upsert all `Concepts/**/*.md` by `slug` (name, definition, description)
-2. Convert Markdown sections → **HTML** for RichTextEditor (`definition`, `description`, `statement`, `correctAnswer`)
+2. Convert Markdown sections → **HTML** for RichTextEditor (`definition`, `description`, `statement`, `correctAnswer`, syllabus `description`)
 3. Set `preRequisitConcepts` from `[[wikilinks]]` in Definition
 4. Upsert all `Questions/**/*.md` by `slug` (statement, description, correctAnswer, coreConcept, checklist)
-5. Run graph validation
+5. Upsert all `Syllabi/**/*.md` by `slug` (name, label, grade, status, chapters → section concepts/questions via wikilinks)
+6. Run graph validation
 
 Checklist labels stay plain text (wikilinks stripped) for ChecklistEditor. Rich fields use the same Markdown→HTML path as pasting into the editor.
 
 ## Templates
 
-Enable **Templates** in Obsidian (folder: `Templates`). See [[Templates/Concept]] and [[Templates/Question]].
+Enable **Templates** in Obsidian (folder: `Templates`). See [[Templates/Concept]], [[Templates/Question]], and [[Templates/Syllabus]].
 
 ## Before syncing
 
@@ -92,6 +111,7 @@ Enable **Templates** in Obsidian (folder: `Templates`). See [[Templates/Concept]
 - [ ] Prerequisites form a DAG (no cycles)
 - [ ] Every checklist row links to at least one concept
 - [ ] Checklist labels are observable and specific
+- [ ] Syllabus chapter/section wikilinks resolve to existing concept/question notes
 
 ## Related
 

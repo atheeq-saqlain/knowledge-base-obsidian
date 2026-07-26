@@ -1,0 +1,56 @@
+---
+slug: dsa-meeting-rooms
+questionType: medium
+---
+
+# Meeting Rooms
+
+## Statement
+
+Given an array of meeting time interval objects consisting of start and end times `[[start_1,end_1],[start_2,end_2],...] (start_i < end_i)`, determine if a person could add all meetings to their schedule without any conflicts. The intervals may be provided in any order.
+
+**Note:** (0,8),(8,10) is not considered a conflict at 8
+
+## Description
+
+**Example 1:**
+
+```java
+Input: intervals = [(0,30),(5,10),(15,20)]
+
+Output: false
+```
+
+Explanation:
+
+- `(0,30)` and `(5,10)` will conflict
+- `(0,30)` and `(15,20)` will conflict
+
+**Example 2:**
+
+```java
+Input: intervals = [(5,8),(9,15)]
+
+Output: true
+```
+
+**Constraints:**
+
+- `0 <= intervals.length <= 500`
+- `0 <= intervals[i].start < intervals[i].end <= 1,000,000`
+
+## Correct Answer
+
+<!-- Add a reference solution after solving. -->
+
+## Core Concept
+
+[[Interval]]
+
+## Assessment Checklist
+
+| label | weight | required | role |
+| ----- | -----: | :------: | ---- |
+| Identify that this problem is solved with [[Interval]] | 1 | true | primary |
+| Implement the core [[Interval]] approach correctly on the input | 2 | true | primary |
+| Handle edge cases (empty input, single element, or boundary values) | 1 | false | supporting |
