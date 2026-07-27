@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "DateOfBirth": "date",
+    "Country": "text",
+    "fromDate": "date",
+    "toDate": "date",
+    "skills": "multitext",
+    "isDefined": "checkbox",
+    "isCompleted": "checkbox"
+  }
+}

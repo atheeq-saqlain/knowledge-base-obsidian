@@ -1,1 +1,7 @@
-.obsidian
+# .obsidian# Obsidian — keep settings, skip local UI state and plugin binaries
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/various-complements/histories.json
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
