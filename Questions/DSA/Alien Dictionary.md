@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Alien Dictionary
+
 There is a new alien language that uses the English alphabet, but the order of the letters is unknown.
 
 You are given a list of strings `words` from the alien language's dictionary. It is claimed that the strings in `words` are sorted lexicographically by the rules of this new language.

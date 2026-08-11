@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Unique Paths
+
 A robot on an `m x n` grid can only move right or down. Return paths from top-left to bottom-right.
 
 ## Description

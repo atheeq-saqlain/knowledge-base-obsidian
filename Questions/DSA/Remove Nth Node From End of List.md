@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Remove Nth Node From End of List
+
 Given the `head` of a linked list and an integer `n`, remove the `nth` node from the end of the list and return its head.
 
 ## Description

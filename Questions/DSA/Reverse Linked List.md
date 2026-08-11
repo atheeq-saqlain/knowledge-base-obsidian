@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Reverse Linked List
+
 Reverse a singly linked list and return the new head.
 
 ## Description

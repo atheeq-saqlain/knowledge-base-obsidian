@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Valid Palindrome
+
 Given a string `s`, return `true` if it is a palindrome after converting to lowercase and removing non-alphanumeric characters.
 
 ## Description

@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Insert Interval
+
 You are given an array of non-overlapping intervals `intervals` where `intervals[i] = [start_i, end_i]` represents the start and the end time of the `ith` interval. `intervals` is initially sorted in ascending order by `start_i`.
 
 You are given another interval `newInterval = [start, end]`.

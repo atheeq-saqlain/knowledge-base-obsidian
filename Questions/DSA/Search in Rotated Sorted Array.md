@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Search in Rotated Sorted Array
+
 Search for `target` in a rotated sorted array of unique integers. Return its index or `-1`.
 
 ## Description

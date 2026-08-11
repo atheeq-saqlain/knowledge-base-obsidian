@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Jump Game
+
 You are given an integer array `nums` where each element `nums[i]` indicates your maximum jump length at that position.
 
 Return `true` if you can reach the last index starting from index `0`, or `false` otherwise.

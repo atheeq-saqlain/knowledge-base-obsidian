@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Best Time to Buy and Sell Stock
+
 You are given an integer array `prices` where `prices[i]` is the price of Coin on the `ith` day.
 
 You may choose a **single day** to buy one Coin and choose a **different day in the future** to sell it.

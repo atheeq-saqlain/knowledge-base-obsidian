@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Implement Trie
+
 A **prefix tree** (also known as a trie) is a tree data structure used to efficiently store and retrieve keys in a set of strings. Some applications of this data structure include auto-complete and spell checker systems.
 
 Implement the PrefixTree class:

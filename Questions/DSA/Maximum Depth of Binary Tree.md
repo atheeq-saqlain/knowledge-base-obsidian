@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Maximum Depth of Binary Tree
+
 Return the maximum depth of a binary tree.
 
 ## Description

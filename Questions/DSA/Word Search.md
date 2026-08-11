@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Word Search
+
 Given a board and a word, return whether the word exists in the grid via adjacent cells (no reuse).
 
 ## Description

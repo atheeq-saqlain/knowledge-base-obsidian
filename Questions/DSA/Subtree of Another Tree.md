@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Subtree of Another Tree
+
 Return whether tree `subRoot` is a subtree of tree `root` (same structure and values).
 
 ## Description

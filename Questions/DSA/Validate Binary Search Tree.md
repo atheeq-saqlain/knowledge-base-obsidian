@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Validate Binary Search Tree
+
 Determine if a binary tree is a valid BST.
 
 ## Description

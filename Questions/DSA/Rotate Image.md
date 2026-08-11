@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Rotate Image
+
 Rotate an `n x n` matrix 90° clockwise in-place.
 
 ## Description

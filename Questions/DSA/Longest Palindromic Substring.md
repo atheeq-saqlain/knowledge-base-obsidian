@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Longest Palindromic Substring
+
 Given a string `s`, return the longest substring of `s` that is a [[Palindrome]].
 
 ## Description

@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Same Tree
+
 Return whether two binary trees are structurally identical with the same node values.
 
 ## Description

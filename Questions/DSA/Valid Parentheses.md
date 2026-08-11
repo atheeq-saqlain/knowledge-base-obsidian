@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Valid Parentheses
+
 Given a string containing only `()[]{}`, return whether the brackets are valid (correctly matched and nested).
 
 ## Description

@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Longest Increasing Subsequence
+
 Given an integer array `nums`, return the _length_ of the longest strictly _increasing_ subsequence.
 
 ## Description

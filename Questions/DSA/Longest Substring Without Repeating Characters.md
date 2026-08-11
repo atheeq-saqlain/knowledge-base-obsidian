@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Longest Substring Without Repeating Characters
+
 Given a string `s`, find the _length of the longest substring_ without duplicate characters.
 
 ## Description

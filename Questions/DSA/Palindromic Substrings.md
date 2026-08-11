@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Palindromic Substrings
+
 Given a string `s`, return the number of substrings within `s` that are palindromes.
 
 ## Description

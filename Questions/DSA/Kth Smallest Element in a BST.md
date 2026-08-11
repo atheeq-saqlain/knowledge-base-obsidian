@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Kth Smallest Element in a BST
+
 Given the `root` of a binary search tree, and an integer `k`, return the `kth` smallest value (**1-indexed**) in the tree.
 
 A **binary search tree** satisfies the following constraints:

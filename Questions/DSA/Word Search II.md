@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Word Search II
+
 Given a board and a word list, return all words that can be formed by adjacent cells (no reuse).
 
 ## Description

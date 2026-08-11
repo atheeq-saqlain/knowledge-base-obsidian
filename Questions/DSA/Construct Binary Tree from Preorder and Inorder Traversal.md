@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Construct Binary Tree from Preorder and Inorder Traversal
+
 You are given two integer arrays `preorder` and `inorder`.
 
 - `preorder` is the preorder traversal of a binary tree

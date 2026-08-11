@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Find Minimum in Rotated Sorted Array
+
 You are given an array of length `n` which was originally sorted in ascending order. It has now been **rotated** between `1` and `n` times. For example, the array `nums = [1,2,3,4,5,6]` might become:
 
 - `[3,4,5,6,1,2]` if it was rotated `4` times.

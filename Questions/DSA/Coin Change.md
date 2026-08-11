@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Coin Change
+
 You are given an integer array `coins` representing coins of different denominations (e.g. 1 dollar, 5 dollars, etc) and an integer `amount` representing a target amount of money.
 
 Return the fewest number of coins that you need to make up the _exact_ target amount. If it is impossible to make up the amount, return `-1`.

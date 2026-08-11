@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Serialize and Deserialize Binary Tree
+
 Design algorithms to serialize a binary tree to a string and deserialize it back.
 
 ## Description

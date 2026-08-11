@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Longest Common Subsequence
+
 Given two strings `text1` and `text2`, return the length of the _longest common subsequence_ between the two strings if one exists, otherwise return `0`.
 
 ## Description

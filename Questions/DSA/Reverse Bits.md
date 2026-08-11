@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Reverse Bits
+
 Reverse the bits of a 32-bit unsigned integer.
 
 ## Description

@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Word Break
+
 Return whether `s` can be segmented into a space-separated sequence of dictionary words.
 
 ## Description

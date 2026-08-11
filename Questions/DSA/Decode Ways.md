@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Decode Ways
+
 A string consisting of uppercase english characters can be encoded to a number using the following mapping:
 
 ```java

@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Design Add and Search Words Data Structure
+
 Design a data structure that supports adding new words and searching for existing words.
 
 Implement the `WordDictionary` class:

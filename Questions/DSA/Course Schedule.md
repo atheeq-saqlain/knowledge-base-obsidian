@@ -7,6 +7,8 @@ questionType: medium
 
 ## Statement
 
+### Course Schedule
+
 You are given an array `prerequisites` where `prerequisites[i] = [a, b]` indicates that you **must** take course `b` first if you want to take course `a`.
 
 The pair `[0, 1]`, indicates that must take course `1` before taking course `0`.
