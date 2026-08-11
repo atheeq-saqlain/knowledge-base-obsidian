@@ -56,11 +56,13 @@ print(res)
 ```
 
 ## Core Concept
-[[Hashmap]]
+
+[[Hashset Membership]]
 
 ## Assessment Checklist
-| label                                                                      | weight | required | role    |
-| -------------------------------------------------------------------------- | -----: | :------: | ------- |
-| Use [[Hashmap]] to store the [[Frequency]] of the numbers in the [[Array]] |      1 |   true   | primary |
-| Use [[For Loop]] to build the [[Hashmap]]                                  |      1 |   true   | primary |
-| Check and return the result if the frequency of any number is >1           |      1 |   true   |         |
+
+| label | weight | required | role |
+| ----- | -----: | :------: | ---- |
+| Recognize duplicate detection as [[Hashset Membership]] | 1 | true | primary |
+| Insert each [[Array]] value into a [[Hashset]] while scanning | 2 | true | primary |
+| Return true as soon as an insert finds the value already present | 1 | true | primary |

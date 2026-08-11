@@ -51,7 +51,7 @@ Output: false
 
 ## Core Concept
 
-[[Linked List]]
+[[Two Pointers]]
 
 ## Assessment Checklist
 

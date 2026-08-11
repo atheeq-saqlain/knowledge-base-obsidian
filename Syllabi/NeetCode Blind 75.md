@@ -11,7 +11,7 @@ status: active
 
 The [Blind 75](https://neetcode.io/practice/practice/blind75) list — a curated set of 75 algorithm interview problems organized by pattern (arrays & hashing, two pointers, sliding window, trees, graphs, DP, and more).
 
-This syllabus orders questions by NeetCode category. Section **Concepts** list the primary skills for that pattern; **Questions** are the practice items in learning order.
+Section **Concepts** list the primary **schemas** (and selected **principles**) for that chapter. Data-structure **representations** remain prerequisites on the concept graph and appear under progress → foundations.
 
 ## Chapters
 
@@ -21,13 +21,17 @@ This syllabus orders questions by NeetCode category. Section **Concepts** list t
 
 **Concepts**
 
-- [[Array]]
-- [[Hashmap]]
-- [[Hashset]]
-- [[Frequency]]
+- [[Hashset Membership]]
+- [[Complement Lookup]]
+- [[Frequency Count]]
+- [[Anagram Signature]]
 - [[Prefix Product]]
-- [[Length Prefix]]
-- [[Bucket Sort]]
+- [[Length Prefix Encoding]]
+- [[Bucket by Frequency]]
+- [[Pair-sum Complement Reduction]]
+- [[Contiguous Product Prefix Suffix]]
+- [[Top-k Count Buckets Tradeoff]]
+- [[Length-Prefix Framing]]
 
 **Questions**
 
@@ -47,8 +51,7 @@ This syllabus orders questions by NeetCode category. Section **Concepts** list t
 **Concepts**
 
 - [[Two Pointers]]
-- [[Array]]
-- [[String]]
+- [[Two Pointers Sorted Tradeoff]]
 
 **Questions**
 
@@ -63,8 +66,7 @@ This syllabus orders questions by NeetCode category. Section **Concepts** list t
 **Concepts**
 
 - [[Sliding Window]]
-- [[Hashmap]]
-- [[String]]
+- [[Window Validity Invariant]]
 
 **Questions**
 
@@ -92,7 +94,6 @@ This syllabus orders questions by NeetCode category. Section **Concepts** list t
 **Concepts**
 
 - [[Binary Search]]
-- [[Array]]
 
 **Questions**
 
@@ -106,6 +107,7 @@ This syllabus orders questions by NeetCode category. Section **Concepts** list t
 **Concepts**
 
 - [[Linked List]]
+- [[Two Pointers]]
 
 **Questions**
 
@@ -122,11 +124,10 @@ This syllabus orders questions by NeetCode category. Section **Concepts** list t
 
 **Concepts**
 
-- [[Binary Tree]]
-- [[Binary Search Tree]]
 - [[Depth First Search]]
 - [[Breadth First Search]]
-- [[Recursion]]
+- [[Binary Search Tree]]
+- [[Graph Traversal Choice]]
 
 **Questions**
 
@@ -175,7 +176,6 @@ This syllabus orders questions by NeetCode category. Section **Concepts** list t
 **Concepts**
 
 - [[Backtracking]]
-- [[Recursion]]
 
 **Questions**
 
@@ -188,11 +188,11 @@ This syllabus orders questions by NeetCode category. Section **Concepts** list t
 
 **Concepts**
 
-- [[Graph]]
 - [[Depth First Search]]
 - [[Breadth First Search]]
 - [[Union Find]]
 - [[Topological Sort]]
+- [[Graph Traversal Choice]]
 
 **Questions**
 
@@ -209,7 +209,6 @@ This syllabus orders questions by NeetCode category. Section **Concepts** list t
 
 **Concepts**
 
-- [[Graph]]
 - [[Topological Sort]]
 
 **Questions**
@@ -224,6 +223,7 @@ This syllabus orders questions by NeetCode category. Section **Concepts** list t
 
 - [[Dynamic Programming]]
 - [[Kadane Algorithm]]
+- [[Optimal Substructure]]
 
 **Questions**
 
@@ -245,7 +245,7 @@ This syllabus orders questions by NeetCode category. Section **Concepts** list t
 **Concepts**
 
 - [[Dynamic Programming]]
-- [[Matrix]]
+- [[Optimal Substructure]]
 
 **Questions**
 
@@ -260,7 +260,7 @@ This syllabus orders questions by NeetCode category. Section **Concepts** list t
 
 - [[Greedy]]
 - [[Kadane Algorithm]]
-- [[Array]]
+- [[Optimal Substructure]]
 
 **Questions**
 
@@ -291,7 +291,6 @@ This syllabus orders questions by NeetCode category. Section **Concepts** list t
 **Concepts**
 
 - [[Matrix]]
-- [[Array]]
 
 **Questions**
 

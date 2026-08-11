@@ -69,13 +69,12 @@ print(res)
 
 ## Core Concept
 
-[[Hashset]]
+[[Hashset Membership]]
 
 ## Assessment Checklist
 
-| label                                                                                              | weight | required | role    |
-| -------------------------------------------------------------------------------------------------- | -----: | :------: | ------- |
-| Store all [[Array]] values in a [[Hashset]] for O(1) membership checks                             |      1 |   true   | primary |
-| Start a sequence only when `n - 1` is not in the [[Hashset]]                                       |      1 |   true   | primary |
-| Use a [[For Loop]] (and inner walk) to extend each sequence while `n + length` is present          |      1 |   true   | primary |
-| Track and return the maximum sequence length                                                       |      1 |   true   |         |
+| label | weight | required | role |
+| ----- | -----: | :------: | ---- |
+| Use [[Hashset Membership]] to store all numbers | 2 | true | primary |
+| Only start a streak when `x-1` is not in the set | 2 | true | primary |
+| Extend the streak while `x+1` remains present; track max length | 1 | true | primary |

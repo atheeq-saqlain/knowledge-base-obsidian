@@ -1,5 +1,6 @@
 ---
 slug: dsa-trie
+kind: schema
 ---
 
 # Trie

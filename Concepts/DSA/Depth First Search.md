@@ -1,5 +1,6 @@
 ---
 slug: dsa-depth-first-search
+kind: schema
 ---
 
 # Depth First Search

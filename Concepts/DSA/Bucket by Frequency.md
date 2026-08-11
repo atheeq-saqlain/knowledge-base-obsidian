@@ -1,6 +1,8 @@
 ---
 slug: dsa-bucket-sort
+kind: schema
 ---
+# Bucket by Frequency
 
 ## Definition
 

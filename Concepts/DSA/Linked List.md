@@ -1,5 +1,6 @@
 ---
 slug: dsa-linked-list
+kind: schema
 ---
 
 # Linked List

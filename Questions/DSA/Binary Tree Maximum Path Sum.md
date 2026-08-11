@@ -50,7 +50,7 @@ Explanation: The path is 15 -> 20 -> 5 with a sum of 15 + 20 + 5 = 40.
 
 ## Core Concept
 
-[[Binary Tree]]
+[[Depth First Search]]
 
 ## Assessment Checklist
 

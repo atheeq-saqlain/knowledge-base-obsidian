@@ -1,5 +1,6 @@
 ---
 slug: dsa-dynamic-programming
+kind: schema
 ---
 
 # Dynamic Programming

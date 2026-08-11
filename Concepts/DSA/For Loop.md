@@ -1,5 +1,6 @@
 ---
 slug: dsa-for-loop
+kind: representation
 ---
 
 ## Definition

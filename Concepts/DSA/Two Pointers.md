@@ -1,5 +1,6 @@
 ---
 slug: dsa-two-pointers
+kind: schema
 ---
 
 # Two Pointers

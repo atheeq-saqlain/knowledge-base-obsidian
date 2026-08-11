@@ -1,5 +1,6 @@
 ---
 slug: dsa-topological-sort
+kind: schema
 ---
 
 # Topological Sort

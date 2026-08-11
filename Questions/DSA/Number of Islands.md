@@ -48,7 +48,7 @@ Output: 4
 
 ## Core Concept
 
-[[Graph]]
+[[Depth First Search]]
 
 ## Assessment Checklist
 

@@ -1,5 +1,6 @@
 ---
 slug: dsa-sliding-window
+kind: schema
 ---
 
 # Sliding Window

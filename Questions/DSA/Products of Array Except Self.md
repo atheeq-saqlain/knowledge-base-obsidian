@@ -71,9 +71,8 @@ print(res)
 
 ## Assessment Checklist
 
-| label                                                                                                    | weight | required | role    |
-| -------------------------------------------------------------------------------------------------------- | -----: | :------: | ------- |
-| Compute a left [[Prefix Product]] for each index of the [[Array]]                                        |      1 |   true   | primary |
-| Compute a right (suffix) [[Prefix Product]] for each index of the [[Array]]                              |      1 |   true   | primary |
-| Set each output value to left product × right product without using division                             |      1 |   true   | primary |
-| Use [[For Loop]]s to build the products in O(n) time                                                     |      1 |   true   | primary |
+| label | weight | required | role |
+| ----- | -----: | :------: | ---- |
+| Apply [[Prefix Product]] (and suffix) without division | 2 | true | primary |
+| Combine left and right products per index | 2 | true | primary |
+| State the [[Contiguous Product Prefix Suffix]] idea | 1 | false | supporting |

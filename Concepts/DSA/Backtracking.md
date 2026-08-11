@@ -1,5 +1,6 @@
 ---
 slug: dsa-backtracking
+kind: schema
 ---
 
 # Backtracking

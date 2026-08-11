@@ -50,7 +50,7 @@ Output: []
 
 ## Core Concept
 
-[[Binary Tree]]
+[[Depth First Search]]
 
 ## Assessment Checklist
 

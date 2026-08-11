@@ -64,13 +64,12 @@ print(res)
 
 ## Core Concept
 
-[[Frequency]]
+[[Frequency Count]]
 
 ## Assessment Checklist
 
-| label                                                                                      | weight | required | role       |
-| ------------------------------------------------------------------------------------------ | -----: | :------: | ---------- |
-| Return false early when the two [[String]]s have different lengths                         |      1 |   true   | supporting |
-| Use a [[Hashmap]] to store the [[Frequency]] of each character                             |      1 |   true   | primary    |
-| Use a [[For Loop]] to count characters from both [[String]]s into the [[Hashmap]]          |      1 |   true   | primary    |
-| Return true only when both [[String]]s have the same character [[Frequency]]               |      1 |   true   | primary    |
+| label | weight | required | role |
+| ----- | -----: | :------: | ---- |
+| Build a character [[Frequency Count]] for both [[String]]s | 2 | true | primary |
+| Compare frequencies (or a single count map with increments/decrements) | 2 | true | primary |
+| Use a [[Hashmap]] (or fixed alphabet array) to store counts | 1 | false | supporting |

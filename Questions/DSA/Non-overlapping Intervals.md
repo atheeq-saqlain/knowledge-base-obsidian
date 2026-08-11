@@ -43,7 +43,7 @@ Output: 0
 
 ## Core Concept
 
-[[Interval]]
+[[Greedy]]
 
 ## Assessment Checklist
 

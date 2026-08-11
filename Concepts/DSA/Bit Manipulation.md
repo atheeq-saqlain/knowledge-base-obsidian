@@ -1,5 +1,6 @@
 ---
 slug: dsa-bit-manipulation
+kind: schema
 ---
 
 # Bit Manipulation

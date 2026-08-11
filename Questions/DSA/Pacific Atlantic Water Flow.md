@@ -50,7 +50,7 @@ Output: [[0,0],[1,0]]
 
 ## Core Concept
 
-[[Graph]]
+[[Depth First Search]]
 
 ## Assessment Checklist
 

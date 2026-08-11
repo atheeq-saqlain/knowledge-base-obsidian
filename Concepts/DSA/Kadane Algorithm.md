@@ -1,5 +1,6 @@
 ---
 slug: dsa-kadane-algorithm
+kind: schema
 ---
 
 # Kadane Algorithm

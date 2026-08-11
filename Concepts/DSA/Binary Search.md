@@ -1,5 +1,6 @@
 ---
 slug: dsa-binary-search
+kind: schema
 ---
 
 # Binary Search

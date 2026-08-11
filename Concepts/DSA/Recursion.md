@@ -1,5 +1,6 @@
 ---
 slug: dsa-recursion
+kind: operation
 ---
 
 # Recursion

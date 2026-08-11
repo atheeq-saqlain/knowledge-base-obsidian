@@ -64,13 +64,13 @@ print(res)
 
 ## Core Concept
 
-[[Hashmap]]
+[[Anagram Signature]]
 
 ## Assessment Checklist
 
-| label                                                                                         | weight | required | role    |
-| --------------------------------------------------------------------------------------------- | -----: | :------: | ------- |
-| Build a character [[Frequency]] signature for each [[String]]                                 |      1 |   true   | primary |
-| Use a [[Hashmap]] to group [[String]]s that share the same [[Frequency]] signature            |      1 |   true   | primary |
-| Use a [[For Loop]] to process each [[String]] in the [[Array]]                                |      1 |   true   | primary |
-| Return the grouped sublists from the [[Hashmap]] values                                       |      1 |   true   |         |
+| label | weight | required | role |
+| ----- | -----: | :------: | ---- |
+| Identify grouping by [[Anagram Signature]] | 1 | true | primary |
+| Build a signature (sorted chars or count tuple) per [[String]] | 2 | true | primary |
+| Bucket strings in a [[Hashmap]] keyed by signature | 2 | true | primary |
+| Return the grouped lists | 1 | true | supporting |

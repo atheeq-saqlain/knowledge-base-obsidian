@@ -48,7 +48,7 @@ Output: [2]
 
 ## Core Concept
 
-[[Linked List]]
+[[Two Pointers]]
 
 ## Assessment Checklist
 

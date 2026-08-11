@@ -1,5 +1,6 @@
 ---
 slug: dsa-greedy
+kind: schema
 ---
 
 # Greedy

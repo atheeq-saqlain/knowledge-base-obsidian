@@ -48,7 +48,6 @@ Output: 1
 
 | label | weight | required | role |
 | ----- | -----: | :------: | ---- |
-| Identify that this problem is solved with [[Sliding Window]] | 1 | true | primary |
-| Implement the core [[Sliding Window]] approach correctly on the input | 2 | true | primary |
-| Handle edge cases (empty input, single element, or boundary values) | 1 | false | supporting |
-| Maintain window bounds and update a [[Hashmap]] / counts as needed | 1 | true | primary |
+| Identify [[Sliding Window]] as the approach | 1 | true | primary |
+| Expand/shrink while maintaining unique chars (often via [[Hashmap]]) | 2 | true | primary |
+| Preserve the [[Window Validity Invariant]] after each bound move | 1 | false | supporting |

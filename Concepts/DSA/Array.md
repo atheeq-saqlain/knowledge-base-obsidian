@@ -1,5 +1,6 @@
 ---
 slug: dsa-array
+kind: representation
 ---
 
 ## Definition

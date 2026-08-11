@@ -1,5 +1,6 @@
 ---
 slug: dsa-breadth-first-search
+kind: schema
 ---
 
 # Breadth First Search

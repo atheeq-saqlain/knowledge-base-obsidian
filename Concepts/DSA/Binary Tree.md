@@ -1,5 +1,6 @@
 ---
 slug: dsa-binary-tree
+kind: representation
 ---
 
 # Binary Tree

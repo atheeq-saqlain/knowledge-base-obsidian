@@ -68,13 +68,13 @@ print(res)
 
 ## Core Concept
 
-[[Frequency]]
+[[Frequency Count]]
 
 ## Assessment Checklist
 
-| label                                                                                              | weight | required | role       |
-| -------------------------------------------------------------------------------------------------- | -----: | :------: | ---------- |
-| Use a [[Hashmap]] to store the [[Frequency]] of each number in the [[Array]]                       |      1 |   true   | primary    |
-| Use a [[For Loop]] to build the [[Frequency]] counts                                               |      1 |   true   | primary    |
-| Place each number into a [[Bucket Sort]] bucket indexed by its [[Frequency]]                       |      1 |   true   | primary    |
-| Collect the top `k` values by scanning buckets from highest [[Frequency]] downward                 |      1 |   true   | primary    |
+| label | weight | required | role |
+| ----- | -----: | :------: | ---- |
+| Compute a [[Frequency Count]] for each number | 2 | true | primary |
+| Place numbers into [[Bucket by Frequency]] buckets indexed by count | 2 | true | primary |
+| Collect the top k from highest frequency downward | 1 | true | primary |
+| Discuss sort/heap vs buckets ([[Top-k Count Buckets Tradeoff]]) | 1 | false | supporting |

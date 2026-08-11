@@ -1,10 +1,13 @@
 ---
 slug: frequency
+kind: schema
 ---
+
+# Frequency Count
 
 ## Definition
 
-The **frequency** of a value or event is the **count** of how many times it occurs within a set of observations.
+A technique that builds a count of how many times each value occurs — typically with a [[Hashmap]] — then answers the problem from those counts. Requires: [[Hashmap]].
 
 ## Description
 

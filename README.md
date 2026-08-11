@@ -6,8 +6,30 @@ Obsidian is the authoring / visualization layer. The DB is the runtime source of
 
 ## What you're modeling
 
-- **Concepts** — reusable skills, linked by prerequisites (DAG)
+- **Concepts** — reusable knowledge units, linked by prerequisites (DAG), with an optional cognitive **`kind`**
 - **Questions** — assessable items with a checklist; each row maps to concepts
+- **Syllabi** — ordered learning paths (usually list **schemas**, not every foundation)
+
+### Concept kinds
+
+| `kind` | Meaning | DSA examples |
+|--------|---------|--------------|
+| `fact` | Declarative knowledge | Rare in Blind 75; optional |
+| `representation` | Data shape / mental model | Array, Hashmap, String, Binary Tree |
+| `operation` | Small executable move | Recursion |
+| `schema` | Reusable “when I see X, do Y” pattern — **prefer as question `coreConcept`** | Complement Lookup, Sliding Window, DFS |
+| `principle` | Why / when / tradeoffs | Pair-sum Complement Reduction, Window Validity Invariant |
+
+Frontmatter:
+
+```yaml
+---
+slug: dsa-sliding-window
+kind: schema
+---
+```
+
+BKT and frontier treat all kinds equally. Kinds are for authoring filters and progress labeling.
 
 ## Layout
 
@@ -35,11 +57,12 @@ Every concept and question note has a **slug** in frontmatter. Set it when you c
 
 ## Concept notes
 
-| Section         | Purpose                                                                                                                                                        |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Note title**  | Human-readable name → `Concept.name`                                                                                                                           |
+| Section / field | Purpose |
+| --------------- | ------- |
+| **Note title**  | Human-readable name → `Concept.name` |
+| **`kind`**      | See table above → `Concept.kind` |
 | **Definition**  | Precise, generic statement. Prefer standalone; add `[[wikilinks]]` only when another concept is **required**. Those links become `preRequisitConcepts` on sync |
-| **Description** | Elaboration and examples — **no wikilinks**                                                                                                                    |
+| **Description** | Elaboration and examples — **no wikilinks** |
 
 ## Question notes
 
@@ -49,12 +72,14 @@ Every concept and question note has a **slug** in frontmatter. Set it when you c
 | **Statement**            | What the learner sees                          |
 | **Description**          | Examples, constraints, context (optional)      |
 | **Correct Answer**       | Reference solution (optional)                  |
-| **Core Concept**         | Single `[[wikilink]]` → `Question.coreConcept` |
+| **Core Concept**         | Single `[[wikilink]]` → prefer a **schema**    |
 | **Assessment Checklist** | Table: `label`, `weight`, `required`, `role`   |
 
 Embed concepts in checklist **labels** with `[[wikilinks]]`. On sync, links become `assessmentChecklist[].concepts`; labels are stored as plain text (wikilinks stripped). `referredConcepts` is derived from checklist concepts minus core.
 
 **Checklist options:** `weight` 1 · 2 · 3 · `required` true · false · `role` primary · supporting
+
+Primary items should map mainly to the schema; representations/operations/principles as supporting when useful.
 
 ## Syllabus notes
 
@@ -70,7 +95,7 @@ Institutional learning paths (board/grade ordering). Not part of the knowledge c
 | **Summary**     | Description of the path                                                                         |
 | **Chapters**    | `### Chapter` → `#### Section` → optional **Concepts** / **Questions** lists of `[[wikilinks]]` |
 
-Order within each section is learning order. Prerequisites still come from the concept graph.
+Order within each section is learning order. Prerequisites still come from the concept graph. List **schemas** (and selected principles) under section Concepts; foundations show under progress → “Show foundations”.
 
 ## Sync to Knowledge Tracker
 
@@ -79,41 +104,9 @@ From `knowledge-tracker-server`:
 ```bash
 # .env
 OBSIDIAN_VAULT_PATH=D:/obsidian/knowledge-base-obsidian
+DATABASE_URL=...
 
-npm run sync-obsidian:dry   # preview
-npm run sync-obsidian       # upsert concepts + questions + syllabi by slug
+npm run sync-obsidian
 ```
 
-Or:
-
-```bash
-node scripts/sync-obsidian-vault.js --vault "D:/obsidian/knowledge-base-obsidian"
-```
-
-**What sync does:**
-
-1. Upsert all `Concepts/**/*.md` by `slug` (name, definition, description)
-2. Convert Markdown sections → **HTML** for RichTextEditor (`definition`, `description`, `statement`, `correctAnswer`, syllabus `description`)
-3. Set `preRequisitConcepts` from `[[wikilinks]]` in Definition
-4. Upsert all `Questions/**/*.md` by `slug` (statement, description, correctAnswer, coreConcept, checklist)
-5. Upsert all `Syllabi/**/*.md` by `slug` (name, label, grade, status, chapters → section concepts/questions via wikilinks)
-6. Run graph validation
-
-Checklist labels stay plain text (wikilinks stripped) for ChecklistEditor. Rich fields use the same Markdown→HTML path as pasting into the editor.
-
-## Templates
-
-Enable **Templates** in Obsidian (folder: `Templates`). See [[Templates/Concept]], [[Templates/Question]], and [[Templates/Syllabus]].
-
-## Before syncing
-
-- [ ] Slug is set and unique on every note
-- [ ] Prerequisites form a DAG (no cycles)
-- [ ] Every checklist row links to at least one concept
-- [ ] Checklist labels are observable and specific
-- [ ] Syllabus chapter/section wikilinks resolve to existing concept/question notes
-
-## Related
-
-- **knowledge-tracker-server** — `scripts/sync-obsidian-vault.js`, graph validation
-- **knowledge-tracker-web-client** — ConceptForm, QuestionForm, ChecklistEditor
+Optional one-shot retag helper (already applied for Blind 75): `node scripts/retag-blind75-kinds.js`

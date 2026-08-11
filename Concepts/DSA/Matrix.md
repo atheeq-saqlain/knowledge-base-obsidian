@@ -1,5 +1,6 @@
 ---
 slug: dsa-matrix
+kind: schema
 ---
 
 # Matrix

@@ -1,6 +1,8 @@
 ---
 slug: dsa-length-prefix
+kind: schema
 ---
+# Length Prefix Encoding
 
 ## Definition
 

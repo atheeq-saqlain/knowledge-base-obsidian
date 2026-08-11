@@ -1,5 +1,6 @@
 ---
 slug: dsa-interval
+kind: schema
 ---
 
 # Interval

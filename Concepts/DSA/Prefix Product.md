@@ -1,6 +1,8 @@
 ---
 slug: dsa-prefix-product
+kind: schema
 ---
+# Prefix Product
 
 ## Definition
 

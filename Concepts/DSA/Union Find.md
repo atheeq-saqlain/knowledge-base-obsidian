@@ -1,5 +1,6 @@
 ---
 slug: dsa-union-find
+kind: schema
 ---
 
 # Union Find

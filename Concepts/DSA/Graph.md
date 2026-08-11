@@ -1,5 +1,6 @@
 ---
 slug: dsa-graph
+kind: representation
 ---
 
 # Graph

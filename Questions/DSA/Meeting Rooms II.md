@@ -44,7 +44,7 @@ Output: 1
 
 ## Core Concept
 
-[[Interval]]
+[[Heap]]
 
 ## Assessment Checklist
 

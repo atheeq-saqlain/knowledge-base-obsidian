@@ -75,7 +75,7 @@ Explanation: The graph is empty.
 
 ## Core Concept
 
-[[Graph]]
+[[Depth First Search]]
 
 ## Assessment Checklist
 

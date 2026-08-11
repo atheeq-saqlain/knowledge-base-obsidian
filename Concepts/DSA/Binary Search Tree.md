@@ -1,5 +1,6 @@
 ---
 slug: dsa-binary-search-tree
+kind: schema
 ---
 
 # Binary Search Tree

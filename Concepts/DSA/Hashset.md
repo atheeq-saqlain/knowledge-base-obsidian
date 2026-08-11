@@ -1,6 +1,8 @@
 ---
 slug: dsa-hashset
+kind: representation
 ---
+
 
 ## Definition
 

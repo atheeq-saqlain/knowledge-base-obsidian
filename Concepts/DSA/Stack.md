@@ -1,5 +1,6 @@
 ---
 slug: dsa-stack
+kind: schema
 ---
 
 # Stack

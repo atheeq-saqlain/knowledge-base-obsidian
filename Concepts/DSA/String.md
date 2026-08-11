@@ -1,5 +1,6 @@
 ---
 slug: dsa-string
+kind: representation
 ---
 
 ## Definition

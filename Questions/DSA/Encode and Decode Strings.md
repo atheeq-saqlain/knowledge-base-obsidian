@@ -111,13 +111,12 @@ print(decoded)
 
 ## Core Concept
 
-[[Length Prefix]]
+[[Length Prefix Encoding]]
 
 ## Assessment Checklist
 
-| label                                                                                              | weight | required | role    |
-| -------------------------------------------------------------------------------------------------- | -----: | :------: | ------- |
-| Encode each [[String]] with a [[Length Prefix]] before its content                                 |      1 |   true   | primary |
-| Use a [[For Loop]] to encode every [[String]] in the input [[Array]] into one [[String]]           |      1 |   true   | primary |
-| Decode by reading each [[Length Prefix]], then slicing that many characters from the [[String]]    |      1 |   true   | primary |
-| Round-trip correctly for empty strings and payloads that contain the separator character           |      1 |   true   |         |
+| label | weight | required | role |
+| ----- | -----: | :------: | ---- |
+| Encode with [[Length Prefix Encoding]] before each payload | 2 | true | primary |
+| Decode by reading each length then slicing that many characters | 2 | true | primary |
+| Explain [[Length-Prefix Framing]] vs delimiter schemes | 1 | false | supporting |

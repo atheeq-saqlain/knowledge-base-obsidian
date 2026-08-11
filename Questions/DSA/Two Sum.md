@@ -63,14 +63,15 @@ print(res)
 
 ## Core Concept
 
-[[Hashmap]]
+[[Complement Lookup]]
 
 ## Assessment Checklist
 
-| label                                                                                                | weight | required | role       |
-| ---------------------------------------------------------------------------------------------------- | -----: | :------: | ---------- |
-| For each value, compute its [[Complement]] (`target - value`)                                        |      1 |   true   | primary    |
-| Use a [[Hashmap]] to map each [[Array]] value to its index                                           |      1 |   true   | primary    |
-| Use a [[For Loop]] to scan the [[Array]] once                                                        |      1 |   true   | primary    |
-| Look up whether the [[Complement]] already exists in the [[Hashmap]] before storing the current value |      1 |   true   | primary    |
-| Return the two indices with the smaller index first                                                  |      1 |   true   |            |
+| label | weight | required | role |
+| ----- | -----: | :------: | ---- |
+| Recognize this as a [[Complement Lookup]] (one-pass) problem | 1 | true | primary |
+| For each value, compute its complement (`target - value`) | 1 | true | primary |
+| Store value→index in a [[Hashmap]] and look up the complement before inserting | 2 | true | primary |
+| Scan the [[Array]] once | 1 | false | supporting |
+| Explain why nested loops are unnecessary ([[Pair-sum Complement Reduction]]) | 1 | false | supporting |
+| Return the two indices with the smaller index first | 1 | true | supporting |

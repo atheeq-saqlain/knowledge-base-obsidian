@@ -1,5 +1,6 @@
 ---
 slug: dsa-heap
+kind: schema
 ---
 
 # Heap

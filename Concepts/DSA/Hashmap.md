@@ -1,5 +1,6 @@
 ---
 slug: dsa-hashmap
+kind: representation
 ---
 
 ## Definition
