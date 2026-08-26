@@ -1,5 +1,5 @@
 ---
-slug: complement
+slug: dsa-complement-lookup
 kind: schema
 ---
 # Complement Lookup

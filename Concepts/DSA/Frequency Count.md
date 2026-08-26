@@ -1,5 +1,5 @@
 ---
-slug: frequency
+slug: dsa-frequency-count
 kind: schema
 ---
 

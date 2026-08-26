@@ -1,5 +1,5 @@
 ---
-slug:
+slug: networking-network-segmentation-and-subnets
 ---
 
 ## Definition
@@ -18,4 +18,4 @@ Instead of placing every server and workstation on one flat network, administrat
 
 Segmentation limits blast radius: if one subnet is compromised, attackers cannot automatically reach every other system. It also simplifies policy — for example, only the web tier needs inbound HTTP/HTTPS from the public internet.
 
-Subnets are defined by IP address ranges and subnet masks (e.g. `10.0.1.0/24`). [[Routing]] moves traffic between subnets; [[Firewalls]] enforce which cross-subnet traffic is allowed.
+Subnets are defined by IP address ranges and subnet masks (e.g. `10.0.1.0/24`). Routing moves traffic between subnets; Firewalls enforce which cross-subnet traffic is allowed.

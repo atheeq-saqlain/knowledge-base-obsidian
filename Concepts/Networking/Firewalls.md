@@ -1,5 +1,5 @@
 ---
-slug:
+slug: networking-firewalls
 ---
 
 ## Definition
@@ -8,14 +8,14 @@ A **firewall** inspects network traffic and permits or blocks it according to co
 
 ## Description
 
-Firewalls enforce policy: which sources may reach which destinations, on which [[Ports|ports]], using which protocols. They are the network equivalent of a guarded checkpoint.
+Firewalls enforce policy: which sources may reach which destinations, on which ports, using which protocols. They are the network equivalent of a guarded checkpoint.
 
 **Two common placements:**
 
 | Type | Scope |
 |------|-------|
 | **Host firewall** | Runs on an individual server; filters traffic to that machine |
-| **Network firewall** | Sits between [[Network Segmentation and Subnets|subnets]] or at the network edge; filters traffic crossing boundaries |
+| **Network firewall** | Sits between subnets or at the network edge; filters traffic crossing boundaries |
 
 **Example rules:**
 

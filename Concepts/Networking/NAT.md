@@ -1,5 +1,5 @@
 ---
-slug:
+slug: networking-nat
 ---
 
 ## Definition
@@ -19,4 +19,4 @@ Private ranges (e.g. `10.x.x.x`, `192.168.x.x`) are not routable on the public i
 
 NAT conserves scarce public IPv4 addresses and adds a layer of obscurity — internal hosts are not directly addressable from the internet unless port forwarding or similar rules are configured.
 
-NAT is common at network edges and works alongside [[Routing]] and [[Firewalls]]. It is distinct from DNS: NAT changes addresses in flight; DNS resolves names to addresses before a connection starts.
+NAT is common at network edges and works alongside Routing and Firewalls. It is distinct from DNS: NAT changes addresses in flight; DNS resolves names to addresses before a connection starts.

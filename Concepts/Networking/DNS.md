@@ -1,5 +1,5 @@
 ---
-slug:
+slug: networking-dns
 ---
 
 ## Definition
@@ -15,7 +15,7 @@ People remember names like `travelbody.com` more easily than numeric addresses. 
 1. Browser requests `travelbody.com`
 2. DNS resolver queries authoritative or cached records
 3. Resolver returns an IP address (e.g. `203.0.113.42`)
-4. The client opens a connection to that IP (often on a specific [[Ports|port]])
+4. The client opens a connection to that IP (often on a specific port)
 
 DNS is hierarchical. Root servers, TLD servers, and authoritative name servers cooperate to answer queries. Results are often cached at the OS, browser, or ISP level to reduce latency.
 

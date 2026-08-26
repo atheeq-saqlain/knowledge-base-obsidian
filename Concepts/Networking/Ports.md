@@ -1,5 +1,5 @@
 ---
-slug:
+slug: networking-ports
 ---
 
 ## Definition

@@ -1,5 +1,5 @@
 ---
-slug: dsa-bucket-sort
+slug: dsa-bucket-by-frequency
 kind: schema
 ---
 # Bucket by Frequency

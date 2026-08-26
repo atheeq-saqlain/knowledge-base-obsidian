@@ -1,5 +1,5 @@
 ---
-slug:
+slug: networking-ip-address
 ---
 
 ## Definition
@@ -24,4 +24,4 @@ Every phone, laptop, server, and router on a network needs an IP address. Withou
 2001:0db8:85a3:0000:0000:8a2e:0370:7334
 ```
 
-IP addresses are foundational to almost all internet communication. Higher-level systems — including [[DNS]], [[Routing]], and application protocols like HTTP — all assume devices can be reached at an IP address.
+IP addresses are foundational to almost all internet communication. Higher-level systems — including DNS, Routing, and application protocols like HTTP — all assume devices can be reached at an IP address.

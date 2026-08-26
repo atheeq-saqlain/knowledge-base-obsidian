@@ -11,7 +11,7 @@ status: draft
 
 Class 10 Mathematics per the Karnataka Textbook Society (KTBS) textbook, Part I ([10th-english-maths-1_compressed.pdf](../10th-english-maths-1_compressed.pdf)). Part I lists eight units: Arithmetic Progressions, Triangles, Pair of Linear Equations in Two Variables, Circles, Areas Related to Circles, Constructions, Coordinate Geometry, and Real Numbers.
 
-This draft covers all eight Part I units with concepts and selected textbook exercises.
+This draft covers all eight Part I units. Chapter 1 (Arithmetic Progressions) includes the full set of textbook exercises 1.1–1.4; later chapters still use selected exercises.
 
 ## Chapters
 
@@ -27,11 +27,14 @@ Textbook pages 1–24.
 
 - [[Arithmetic Progression]]
 - [[Common Difference]]
+- [[Arithmetic Mean]]
 
 **Questions**
 
 - [[Identify Arithmetic Progressions]]
 - [[First Four Terms of an AP]]
+- [[First Term and Common Difference of APs]]
+- [[Which Lists Form an AP]]
 
 #### Section 3 — nth Term of an AP
 
@@ -41,10 +44,27 @@ Textbook pages 1–24.
 
 **Questions**
 
+- [[Fill nth Term Table]]
 - [[30th Term of AP 10 7 4]]
+- [[11th Term of AP -3 Half 2]]
+- [[Missing Terms in an AP]]
 - [[Which Term of AP is 78]]
+- [[Number of Terms in APs]]
+- [[Check Whether -150 is a Term]]
+- [[31st Term from 11th and 16th]]
+- [[29th Term of 50-Term AP]]
+- [[Which Term of AP is Zero]]
+- [[17th Term Exceeds 10th by 7]]
+- [[Term 132 More Than 54th]]
+- [[Difference of 1000th Terms Same d]]
 - [[Three-Digit Numbers Divisible by 7]]
+- [[Multiples of 4 Between 10 and 250]]
+- [[When nth Terms of Two APs Equal]]
+- [[AP with Third Term 16]]
+- [[20th Term from Last of AP]]
+- [[First Three Terms from Term Sums]]
 - [[Subba Rao Salary Reach 7000]]
+- [[Ramkali Weekly Savings]]
 
 #### Section 4 — Sum of First n Terms of an AP
 
@@ -55,8 +75,38 @@ Textbook pages 1–24.
 **Questions**
 
 - [[Sum of AP 2 7 12 to 10 Terms]]
+- [[Sum of APs to Given Number of Terms]]
+- [[Sums of APs with Last Term]]
+- [[Find Missing AP Quantities]]
 - [[Terms Needed for Sum 636]]
 - [[First Last Term Sum 400]]
+- [[First Last Terms d 9 Count and Sum]]
+- [[Sum of First 22 Terms d 7]]
+- [[Sum of First 51 Terms]]
+- [[Sum of First n Terms from S7 S17]]
+- [[Sequences Defined by nth Term are APs]]
+- [[Terms from Sum 4n Minus n Squared]]
+- [[Sum of First 40 Multiples of 6]]
+- [[Sum of First 15 Multiples of 8]]
+- [[Sum of Odd Numbers Between 0 and 50]]
+- [[Construction Penalty 30 Days]]
+- [[Seven Cash Prizes Sum 700]]
+- [[Trees Planted by Twelve Classes]]
+- [[Semicircle Spiral Length]]
+- [[Log Stack 200 Logs]]
+- [[Potato Race Distance]]
+
+#### Section 5 — Optional Exercises
+
+Not from the examination point of view (Exercise 1.4).
+
+**Questions**
+
+- [[First Negative Term of AP 121 117]]
+- [[Third and Seventh Terms Product 8]]
+- [[Ladder Rungs Wood Length]]
+- [[House Numbers Preceding Following]]
+- [[Concrete Steps Terrace Volume]]
 
 ### Chapter 2 — Triangles
 

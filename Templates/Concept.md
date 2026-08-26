@@ -19,5 +19,5 @@ kind: fact | representation | operation | schema | principle
   representation / operation = foundations
   principle    = why / when / tradeoffs
   fact         = declarative knowledge
-Set slug when creating the note. Keep it stable after publish.
+Set slug from the path under Concepts/ (subject-domain-subdomain-title). See README. Keep it aligned with the path if you move the note.
 -->

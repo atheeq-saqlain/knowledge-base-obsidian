@@ -1,5 +1,5 @@
 ---
-slug:
+slug: networking-routing
 ---
 
 ## Definition
@@ -22,4 +22,4 @@ Laptop (192.168.1.5)
 
 Routers operate at Layer 3. They do not terminate application connections themselves; they forward packets based on network topology and policy.
 
-Routing connects segmented networks: traffic from a public web subnet may be routed into a private application subnet, subject to [[Firewalls|firewall]] rules. Without routing, isolated subnets could not communicate even when policy allows it.
+Routing connects segmented networks: traffic from a public web subnet may be routed into a private application subnet, subject to firewall rules. Without routing, isolated subnets could not communicate even when policy allows it.

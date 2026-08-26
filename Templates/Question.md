@@ -28,4 +28,4 @@ roles : primary | supporting
 |       |      1 |  false   | primary |
 
 <!-- Link concepts in labels with [[wikilinks]]. role: primary | supporting -->
-<!-- Set slug when creating the note (from file name / folder / content). Keep it stable after publish. -->
+<!-- Set slug from the path under Questions/ (subject-domain-subdomain-title). Place the file in the same topic folder as the Core Concept. See README. -->
