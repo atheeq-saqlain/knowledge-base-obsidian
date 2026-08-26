@@ -6,17 +6,20 @@ questionType: exercise
 
 ## Statement
 
-Find the distance between the points (2, 3) and (4, 1).
+Find the distance between the following pairs of points:
+(i) (2, 3) and (4, 1);
+(ii) (−5, 7) and (−1, 3);
+(iii) (a, b) and (−a, −b).
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.1, Question 1(i).
+Source: KTBS Class 10 Maths Part I, Exercise 7.1, Question 1.
 
 ## Correct Answer
 
-2√2 units
-
-√[(4−2)² + (1−3)²] = √[4 + 4] = √8 = 2√2.
+(i) 2√2.
+(ii) 4√2.
+(iii) 2√(a² + b²).
 
 ## Core Concept
 

@@ -6,17 +6,23 @@ questionType: exercise
 
 ## Statement
 
-Which of the following pairs has a unique solution, no solution, or infinitely many solutions? If unique, find it by cross-multiplication:
+Which of the following pairs of linear equations has a unique solution, no solution, or infinitely many solutions? In case there is a unique solution, find it by using cross-multiplication:
 
+(i) x − 3y − 3 = 0 ; 3x − 9y − 2 = 0
 (ii) 2x + y = 5 ; 3x + 2y = 8
+(iii) 3x − 5y = 20 ; 6x − 10y = 40
+(iv) x − 3y − 7 = 0 ; 3x − 3y − 15 = 0
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.5, Question 1(ii).
+Source: KTBS Class 10 Maths Part I, Exercise 3.5, Question 1.
 
 ## Correct Answer
 
-Unique solution; x = 2, y = 1.
+(i) No solution (parallel).
+(ii) Unique; x = 2, y = 1.
+(iii) Infinitely many (dependent).
+(iv) Unique; x = 4, y = −1.
 
 ## Core Concept
 
@@ -26,5 +32,5 @@ Unique solution; x = 2, y = 1.
 
 | label | weight | required | role |
 | ----- | -----: | :------: | ---- |
-| Check [[Consistency of Linear Equations]] before solving | 1 | true | supporting |
-| Apply [[Cross-Multiplication Method]] for the unique case | 2 | true | primary |
+| Classify each pair with [[Consistency of Linear Equations]] | 2 | true | supporting |
+| Apply [[Cross-Multiplication Method]] when unique | 2 | true | primary |

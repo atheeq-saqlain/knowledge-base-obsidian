@@ -6,8 +6,8 @@ kind: representation
 
 ## Definition
 
-A segment is the region enclosed between a chord and its corresponding arc.
+A segment is the portion of a circular disk enclosed between a chord and its corresponding arc.
 
 ## Description
 
-Minor segment lies with the minor arc; major with the major arc. Area of a segment = area of corresponding sector − area of the triangle formed by the two radii and the chord.
+The minor segment lies with the minor arc; the major segment with the major arc. Area work uses sector area minus (or plus, for the major segment) the triangle formed by the two radii and the chord.

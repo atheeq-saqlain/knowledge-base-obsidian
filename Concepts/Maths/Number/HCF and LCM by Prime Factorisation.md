@@ -6,10 +6,8 @@ kind: schema
 
 ## Definition
 
-After prime factorisation, HCF is the product of the smallest powers of each common prime; LCM is the product of the greatest powers of each prime appearing in either number.
+After writing each integer in prime-power form: HCF is the product of the smallest power of every common prime; LCM is the product of the greatest power of every prime that appears. For two positive integers a and b, HCF(a, b) × LCM(a, b) = a × b (this product identity need not hold for three or more numbers).
 
 ## Description
 
-For three numbers, take common primes with minimum/maximum exponents similarly. Example: 26 = 2×13, 91 = 7×13 → HCF = 13, LCM = 2×7×13 = 182; check 182×13 = 26×91.
-
-Used in problems about when two people meet again on a circular track (LCM of lap times).
+For three integers, take minimum exponents for HCF and maximum for LCM over all primes involved. Example: 6 = 2 × 3, 20 = 2² × 5 → HCF = 2, LCM = 60. Meeting-again problems on a circular track use LCM of the lap times.

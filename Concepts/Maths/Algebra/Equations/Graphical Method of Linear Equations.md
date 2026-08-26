@@ -6,8 +6,8 @@ kind: schema
 
 ## Definition
 
-Solve a [[Pair of Linear Equations]] by drawing both lines on the same axes; their intersection point(s) give the solution(s), using [[Consistency of Linear Equations]] to interpret intersecting, parallel, or coincident graphs.
+Solve a [[Pair of Linear Equations]] by drawing both lines on the same axes; intersection points are solutions, interpreted with [[Consistency of Linear Equations]] (intersecting, parallel, or coincident).
 
 ## Description
 
-Plot each equation (find intercepts or two points). One intersection → unique solution; no intersection (parallel) → inconsistent; same line → infinitely many solutions. Awkward when coordinates are non-integral — prefer algebraic methods then.
+Plot each line from two points (often intercepts). One intersection → unique solution; no intersection → inconsistent; the same line drawn twice → infinitely many solutions. Prefer algebraic methods when coordinates are fractional or awkward to read from a graph.

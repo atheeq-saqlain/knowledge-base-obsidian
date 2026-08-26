@@ -6,23 +6,27 @@ questionType: exercise
 
 ## Statement
 
-Without performing long division, state whether the following have a terminating or non-terminating repeating decimal expansion:
+Without actually performing the long division, state whether the following rational numbers will have a terminating decimal expansion or a non-terminating repeating decimal expansion:
 
-(i) 13/3125  
-(ii) 17/8  
-(iii) 64/455  
+(i) 13/3125
+(ii) 17/8
+(iii) 64/455
 (iv) 15/1600
+(v) 29/343
+(vi) 23/(2³5²)
+(vii) 129/(2²5⁷7⁵)
+(viii) 6/15
+(ix) 35/50
+(x) 77/210
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.4, Question 1 (parts i–iv).
+Source: KTBS Class 10 Maths Part I, Exercise 8.4, Question 1.
 
 ## Correct Answer
 
-(i) Terminating — 3125 = 5⁵  
-(ii) Terminating — 8 = 2³  
-(iii) Non-terminating repeating — 455 = 5×7×13  
-(iv) Terminating — 1600 = 2⁶×5²
+Terminating: (i), (ii), (iv), (vi), (viii), (ix) — after reducing, denominator is of the form 2ⁿ5ᵐ.
+Non-terminating repeating: (iii), (v), (vii), (x).
 
 ## Core Concept
 

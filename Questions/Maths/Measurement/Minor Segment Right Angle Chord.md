@@ -6,17 +6,21 @@ questionType: exercise
 
 ## Statement
 
-A chord of a circle of radius 10 cm subtends a right angle at the centre. Find the area of the corresponding minor segment. (Use π = 3.14.)
+A chord of a circle of radius 10 cm subtends a right angle at the centre. Find the area of the corresponding:
+
+(i) minor segment
+(ii) major sector
+
+(Use π = 3.14.)
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.2, Question 4(i).
+Source: KTBS Class 10 Maths Part I, Exercise 5.2, Question 4.
 
 ## Correct Answer
 
-28.5 cm²
-
-Sector area = (90/360)π(10)² = 78.5. Triangle area = (1/2)×10×10 = 50. Segment = 78.5 − 50 = 28.5 cm².
+(i) 28.5 cm² — sector (90°) = 78.5; triangle = 50; segment = 28.5.
+(ii) Major sector (270°) = (270/360)π(10)² = 235.5 cm².
 
 ## Core Concept
 
@@ -26,5 +30,5 @@ Sector area = (90/360)π(10)² = 78.5. Triangle area = (1/2)×10×10 = 50. Segme
 
 | label | weight | required | role |
 | ----- | -----: | :------: | ---- |
-| Compute sector then subtract triangle ([[Area of a Segment]]) | 2 | true | primary |
-| Use [[Area of a Sector]] for the 90° sector | 1 | true | supporting |
+| Compute sector then subtract triangle for the minor segment ([[Area of a Segment]]) | 2 | true | primary |
+| Find the major sector area ([[Area of a Sector]]) | 2 | true | primary |

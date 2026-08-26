@@ -24,11 +24,11 @@ Source: KTBS Class 10 Maths Part I, Exercise 2.2, Question 2.
 
 ## Core Concept
 
-[[Basic Proportionality Theorem]]
+[[Converse of Basic Proportionality Theorem]]
 
 ## Assessment Checklist
 
 | label | weight | required | role |
 | ----- | -----: | :------: | ---- |
-| Apply converse of [[Basic Proportionality Theorem]] (equal ratios ⇒ parallel) | 2 | true | primary |
+| Apply [[Converse of Basic Proportionality Theorem]] (equal ratios ⇒ parallel) | 2 | true | primary |
 | Compare the correct segment ratios on both sides | 2 | true | primary |

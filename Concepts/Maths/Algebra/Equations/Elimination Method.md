@@ -6,8 +6,8 @@ kind: schema
 
 ## Definition
 
-Solve a [[Pair of Linear Equations]] by multiplying equations by suitable constants so one variable has equal coefficients, then adding or subtracting to eliminate that variable and solve for the other.
+Solve a [[Pair of Linear Equations]] by multiplying one or both equations by non-zero constants so one variable has equal coefficients, then adding or subtracting to eliminate that variable.
 
 ## Description
 
-Steps: equalize one coefficient; add/subtract to eliminate; solve for the remaining variable; substitute back. A true/false statement with no variable again signals infinitely many solutions or inconsistency.
+Steps: equalize one coefficient; add or subtract; solve for the remaining variable; substitute back. An identity after elimination means infinitely many solutions; a false statement means no solution. Often convenient when coefficients are already nearly equal or when clearing fractions.

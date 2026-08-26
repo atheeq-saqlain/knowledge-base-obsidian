@@ -6,10 +6,8 @@ kind: principle
 
 ## Definition
 
-A rational number p/q (in lowest terms) has a terminating decimal expansion if and only if the prime factorisation of q is of the form 2ⁿ5ᵐ for non-negative integers n and m.
+A rational x = p/q in lowest terms has a terminating decimal expansion if and only if the prime factorisation of q is of the form 2ⁿ5ᵐ (n, m ≥ 0). Otherwise the decimal is non-terminating repeating.
 
 ## Description
 
-Equivalently, q can be written as a power of 10 after scaling. Examples: 13/3125 terminates (3125 = 5⁵); 17/8 terminates (8 = 2³); 64/455 does not (455 = 5×7×13).
-
-If q has any prime factor other than 2 or 5, the decimal is non-terminating repeating.
+Equivalently, after cancelling common factors, the denominator’s only prime factors are 2 and/or 5. Examples: 13/3125 and 17/8 terminate; 64/455 (denominator has 7 and 13) does not. A terminating decimal (or eventually repeating one) is rational; a non-terminating non-repeating decimal is irrational.

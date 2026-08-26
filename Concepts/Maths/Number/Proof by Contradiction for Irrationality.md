@@ -6,10 +6,8 @@ kind: schema
 
 ## Definition
 
-To prove a number is irrational, assume it equals p/q in lowest terms, manipulate to show a prime divides both p and q, contradicting coprimality — hence the number is irrational.
+To prove a real number is irrational: assume it equals a/b in lowest terms (a, b integers, b ≠ 0, gcd(a, b) = 1), deduce that some prime divides both a and b, contradicting coprimality — hence the number is irrational. A key lemma: if a prime p divides a², then p divides a ([[Fundamental Theorem of Arithmetic]]).
 
 ## Description
 
-Standard proof for √2, √3, √5 uses Fundamental Theorem of Arithmetic (if p | a² then p | a). Also used for expressions like 5 − 3√3 and 3√2 by reducing to known irrationals.
-
-A number is irrational if it cannot be written as p/q with integers p, q and q ≠ 0.
+Standard proofs for √2, √3, √5 follow this pattern. For expressions such as 5 − √3, 3√2, or 3 + 2√5, assume rationality and rearrange to conclude that a known irrational (e.g. √3 or √5) would be rational, again a contradiction.

@@ -6,17 +6,20 @@ questionType: exercise
 
 ## Statement
 
-Use Euclid's division algorithm to find the HCF of 135 and 225.
+Use Euclid's division algorithm to find the HCF of:
+(i) 135 and 225
+(ii) 196 and 38220
+(iii) 867 and 255
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.1, Question 1(i).
+Source: KTBS Class 10 Maths Part I, Exercise 8.1, Question 1.
 
 ## Correct Answer
 
-45
-
-225 = 135×1 + 90; 135 = 90×1 + 45; 90 = 45×2 + 0. HCF = 45.
+(i) 45
+(ii) 196 (38220 = 196 × 195 + 0)
+(iii) 51
 
 ## Core Concept
 

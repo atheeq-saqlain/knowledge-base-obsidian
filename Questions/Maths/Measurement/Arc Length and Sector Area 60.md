@@ -8,20 +8,23 @@ questionType: exercise
 
 In a circle of radius 21 cm, an arc subtends an angle of 60° at the centre. Find:
 
-(i) the length of the arc  
+(i) the length of the arc
 (ii) area of the sector formed by the arc
+(iii) the area of the segment formed by the corresponding chord
 
 (Use π = 22/7.)
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.2, Question 5(i)–(ii).
+Source: KTBS Class 10 Maths Part I, Exercise 5.2, Question 5.
 
 ## Correct Answer
 
-(i) 22 cm (ii) 231 cm²
+(i) 22 cm
+(ii) 231 cm²
+(iii) 231 − (441√3)/4 cm²
 
-Arc = (60/360)×2π×21 = 22. Sector = (60/360)π(21)² = 231.
+Arc = (60/360)×2π×21 = 22. Sector = (60/360)π(21)² = 231. Segment = sector − equilateral triangle area.
 
 ## Core Concept
 
@@ -33,3 +36,4 @@ Arc = (60/360)×2π×21 = 22. Sector = (60/360)π(21)² = 231.
 | ----- | -----: | :------: | ---- |
 | Use arc length (θ/360)2πr ([[Area of a Sector]]) | 2 | true | primary |
 | Use sector area (θ/360)πr² | 2 | true | primary |
+| Find segment as sector minus triangle ([[Area of a Segment]]) | 2 | true | primary |

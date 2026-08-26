@@ -6,17 +6,18 @@ questionType: exercise
 
 ## Statement
 
-Find the area of the triangle whose vertices are (2, 3), (−1, 0) and (2, −4).
+Find the area of the triangle whose vertices are:
+(i) (2, 3), (−1, 0) and (2, −4);
+(ii) (−5, −1), (3, −5) and (5, 2).
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.3, Question 1(i).
+Source: KTBS Class 10 Maths Part I, Exercise 7.3, Question 1.
 
 ## Correct Answer
 
-21/2 sq units
-
-(1/2)|2(0+4) + (−1)(−4−3) + 2(3−0)| = (1/2)|8 + 7 + 6| = 21/2.
+(i) 21/2 sq units.
+(ii) 32 sq units.
 
 ## Core Concept
 

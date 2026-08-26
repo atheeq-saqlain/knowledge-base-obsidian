@@ -6,15 +6,24 @@ questionType: exercise
 
 ## Statement
 
-Express 140 as a product of its prime factors.
+Express each number as a product of its prime factors:
+(i) 140
+(ii) 156
+(iii) 3825
+(iv) 5005
+(v) 7429
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.2, Question 1(i).
+Source: KTBS Class 10 Maths Part I, Exercise 8.2, Question 1.
 
 ## Correct Answer
 
-140 = 2² × 5 × 7
+(i) 140 = 2² × 5 × 7
+(ii) 156 = 2² × 3 × 13
+(iii) 3825 = 3² × 5² × 17
+(iv) 5005 = 5 × 7 × 11 × 13
+(v) 7429 = 17 × 19 × 23
 
 ## Core Concept
 

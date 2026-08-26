@@ -6,10 +6,8 @@ kind: schema
 
 ## Definition
 
-From an external point P to a circle with centre O, join PO, bisect PO at M, draw a circle with centre M and radius MO cutting the given circle at Q and R; then PQ and PR are the required tangents.
+From an external point P to a circle with centre O: join OP and bisect it at M; draw the circle with centre M and radius MO (or MP); let it meet the given circle at Q and R; then PQ and PR are the two tangents from P. Each is a [[Tangent to a Circle]] because the radius is perpendicular to it ([[Tangent Perpendicular to Radius]]).
 
 ## Description
 
-Justification: ∠PQO = 90° (angle in a semicircle), so PQ ⊥ OQ and PQ is a tangent to a circle. Measure tangent length with the radius-perpendicular property: PQ = √(OP² − r²).
-
-From a point on the circle there is one tangent; from inside, none; from outside, exactly two.
+∠OQP = 90° as an angle in a semicircle of the helper circle, so OQ ⊥ PQ. Similarly for PR. Tangent length = √(OP² − r²). From a point on the circle there is one tangent (the line perpendicular to the radius); from an interior point, none.

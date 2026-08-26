@@ -6,10 +6,10 @@ kind: schema
 
 ## Definition
 
-If P(x, y) divides the segment joining A(x₁, y₁) and B(x₂, y₂) internally in the ratio m₁ : m₂, then x = (m₁x₂ + m₂x₁)/(m₁ + m₂) and y = (m₁y₂ + m₂y₁)/(m₁ + m₂).
+If P(x, y) divides the segment joining A(x₁, y₁) and B(x₂, y₂) internally in the positive ratio m₁ : m₂, then
+x = (m₁x₂ + m₂x₁)/(m₁ + m₂) and y = (m₁y₂ + m₂y₁)/(m₁ + m₂).
+The midpoint (ratio 1 : 1) is ((x₁ + x₂)/2, (y₁ + y₂)/2). Justified by [[AA Similarity Criterion]] on the similar right triangles formed by dropping perpendiculars to an axis.
 
 ## Description
 
-When m₁ = m₂ = 1, P is the midpoint: ((x₁ + x₂)/2, (y₁ + y₂)/2). Derived using similar triangles and AA Similarity Criterion. Ratio PA : PB = m₁ : m₂.
-
-Example: dividing (−1, 7) and (4, −3) in 2 : 3 gives (1, 3).
+PA : PB = m₁ : m₂. To find an unknown ratio, set P’s known coordinates equal to the section expressions with m₁ : m₂ = k : 1 and solve for k. Applications include points of trisection, dividing a segment into n equal parts, centres as midpoints of diameters, and vertices of parallelograms (diagonals bisect each other).

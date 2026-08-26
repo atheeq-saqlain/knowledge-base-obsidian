@@ -6,17 +6,18 @@ questionType: exercise
 
 ## Statement
 
-Find the value of k for which the points (7, −2), (5, 1) and (3, k) are collinear.
+In each of the following find the value of k for which the points are collinear:
+(i) (7, −2), (5, 1) and (3, k);
+(ii) (8, 1), (k, −4) and (2, −5).
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.3, Question 2(i).
+Source: KTBS Class 10 Maths Part I, Exercise 7.3, Question 2.
 
 ## Correct Answer
 
-k = 4
-
-Area = 0 or equal slopes: (1+2)/(5−7) = (k−1)/(3−5) ⇒ −3/2 = (k−1)/−2 ⇒ k = 4.
+(i) k = 4.
+(ii) k = 3.
 
 ## Core Concept
 

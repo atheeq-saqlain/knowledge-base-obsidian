@@ -6,8 +6,8 @@ kind: schema
 
 ## Definition
 
-If one angle of a triangle equals one angle of another triangle and the sides including those angles are proportional, then the triangles are similar.
+If one angle of a triangle equals one angle of another triangle and the sides including those angles are proportional, then the triangles are [[Similar Triangles]].
 
 ## Description
 
-If ∠A = ∠P and AB/PQ = AC/PR (sides including the equal angles), then ΔABC ~ ΔPQR. The proportional sides must be the ones that enclose the equal angle.
+If ∠A = ∠P and AB/PQ = AC/PR (the sides that enclose the equal angles), then ΔABC ~ ΔPQR. The proportional sides must be the ones that include the equal angle — not a side opposite that angle.

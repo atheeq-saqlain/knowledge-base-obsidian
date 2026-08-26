@@ -6,10 +6,10 @@ kind: schema
 
 ## Definition
 
-For vertices A(x₁, y₁), B(x₂, y₂), C(x₃, y₃), the area of ΔABC is (1/2)|x₁(y₂ − y₃) + x₂(y₃ − y₁) + x₃(y₁ − y₂)|.
+For non-collinear vertices A(x₁, y₁), B(x₂, y₂), C(x₃, y₃), the area of ΔABC is
+(1/2)|x₁(y₂ − y₃) + x₂(y₃ − y₁) + x₃(y₁ − y₂)|.
+If the three points are collinear, the expression is zero (they do not form a triangle).
 
 ## Description
 
-Area zero means the points are collinear. Can find areas of quadrilaterals by splitting into triangles. Mid-point triangle has area 1/4 of the original when joining midpoints of sides.
-
-Example: vertices (2, 3), (−1, 0), (2, −4) give area 21/2 sq units.
+One derivation projects the vertices to the x-axis and combines areas of trapezia. Absolute value ensures a positive area regardless of vertex order. Use area = 0 to find an unknown coordinate that makes three points collinear. Quadrilateral areas follow by splitting into two triangles; a median divides a triangle into two triangles of equal area.
