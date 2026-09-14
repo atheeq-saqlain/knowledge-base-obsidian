@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-degree-of-a-polynomial
+code: c_soQhk9PRMa
 kind: schema
 ---
 # Degree of a Polynomial

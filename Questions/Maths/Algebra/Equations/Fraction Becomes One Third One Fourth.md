@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-fraction-becomes-one-third-one-fourth
+code: q_LfO5PAc6Wa
 questionType: exercise
 ---
 # Fraction Becomes One Third One Fourth

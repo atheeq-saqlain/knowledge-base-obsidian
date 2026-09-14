@@ -1,5 +1,5 @@
 ---
-slug: maths-number-terminating-or-repeating-decimal
+code: q_HsUvZXdEot
 questionType: exercise
 ---
 # Terminating or Repeating Decimal

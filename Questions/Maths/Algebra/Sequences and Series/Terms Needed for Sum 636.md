@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-terms-needed-for-sum-636
+code: q_LHGnpf18LD
 questionType: exercise
 ---
 # Terms Needed for Sum 636

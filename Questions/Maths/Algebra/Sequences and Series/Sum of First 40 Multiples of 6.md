@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-sum-of-first-40-multiples-of-6
+code: q_HZaPztXRwf
 questionType: exercise
 ---
 # Sum of First 40 Multiples of 6

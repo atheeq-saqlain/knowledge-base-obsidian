@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-represent-situations-as-quadratic-equations
+code: q_aEZdUfivMH
 questionType: exercise
 ---
 # Represent Situations as Quadratic Equations

@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-women-men-embroidery-work-days
+code: q_V0ymb4SO36
 questionType: exercise
 ---
 # Women Men Embroidery Work Days

@@ -1,5 +1,5 @@
 ---
-slug: dsa-kth-smallest-element-in-a-bst
+code: q_HwECbHWMim
 questionType: medium
 ---
 

@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-first-four-terms-of-an-ap
+code: q_YyBJtL4b7V
 questionType: exercise
 ---
 # First Four Terms of an AP

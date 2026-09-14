@@ -1,5 +1,5 @@
 ---
-slug: dsa-palindromic-substrings
+code: q_vuQTWv95MI
 questionType: medium
 ---
 

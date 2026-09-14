@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-silver-coins-melted-to-cuboid
+code: q_A8Uh8nciT0
 questionType: exercise
 ---
 # Silver Coins Melted to Cuboid

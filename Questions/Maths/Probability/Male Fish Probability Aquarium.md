@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-male-fish-probability-aquarium
+code: q_egEWoUnuud
 questionType: exercise
 ---
 # Male Fish Probability Aquarium

@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-die-thrown-twice-five-probabilities
+code: q_Ipdwup6V3Y
 questionType: exercise
 ---
 # Die Thrown Twice Five Probabilities

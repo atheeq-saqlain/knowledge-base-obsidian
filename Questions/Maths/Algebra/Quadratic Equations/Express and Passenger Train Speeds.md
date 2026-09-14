@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-express-and-passenger-train-speeds
+code: q_jXYydzSf53
 questionType: exercise
 ---
 # Express and Passenger Train Speeds

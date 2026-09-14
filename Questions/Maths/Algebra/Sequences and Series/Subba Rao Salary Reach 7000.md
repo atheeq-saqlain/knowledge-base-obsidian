@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-subba-rao-salary-reach-7000
+code: q_QgdagL9TCd
 questionType: exercise
 ---
 # Subba Rao Salary Reach 7000

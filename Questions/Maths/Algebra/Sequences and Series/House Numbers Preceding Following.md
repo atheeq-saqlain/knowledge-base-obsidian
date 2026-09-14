@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-house-numbers-preceding-following
+code: q_c5Hsa0wGW9
 questionType: exercise
 ---
 # House Numbers Preceding Following

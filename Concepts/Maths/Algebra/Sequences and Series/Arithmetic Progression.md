@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-arithmetic-progression
+code: c_zYepoQYbzW
 kind: representation
 ---
 # Arithmetic Progression

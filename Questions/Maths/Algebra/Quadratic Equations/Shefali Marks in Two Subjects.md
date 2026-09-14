@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-shefali-marks-in-two-subjects
+code: q_uBGauXWVXW
 questionType: exercise
 ---
 # Shefali Marks in Two Subjects

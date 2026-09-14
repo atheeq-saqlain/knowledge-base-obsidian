@@ -1,5 +1,5 @@
 ---
-slug: dsa-climbing-stairs
+code: q_lqznHbkCLn
 questionType: medium
 ---
 

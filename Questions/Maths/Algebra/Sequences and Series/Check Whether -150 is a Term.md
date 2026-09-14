@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-check-whether-150-is-a-term
+code: q_6zVBvpgP3g
 questionType: exercise
 ---
 # Check Whether -150 is a Term

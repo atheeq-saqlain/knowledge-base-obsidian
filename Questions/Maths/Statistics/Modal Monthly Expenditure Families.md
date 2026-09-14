@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-modal-monthly-expenditure-families
+code: q_uvghoOtY5C
 questionType: exercise
 ---
 # Modal Monthly Expenditure Families

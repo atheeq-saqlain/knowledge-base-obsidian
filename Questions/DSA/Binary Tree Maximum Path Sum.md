@@ -1,5 +1,5 @@
 ---
-slug: dsa-binary-tree-maximum-path-sum
+code: q_RZBWWj6UGH
 questionType: medium
 ---
 

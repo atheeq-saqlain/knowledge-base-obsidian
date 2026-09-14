@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-equilateral-altitude-side-2a
+code: q_8pHoqc1CzO
 questionType: exercise
 ---
 # Equilateral Altitude Side 2a

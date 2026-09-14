@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-surface-area-of-combination-of-solids
+code: c_fFKGWoNbl9
 kind: schema
 ---
 # Surface Area of Combination of Solids

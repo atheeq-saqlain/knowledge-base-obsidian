@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-segment-of-a-circle
+code: c_z3ej6Tf6kJ
 kind: representation
 ---
 # Segment of a Circle

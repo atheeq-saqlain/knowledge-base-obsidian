@@ -1,5 +1,5 @@
 ---
-slug: dsa-set-matrix-zeroes
+code: q_0QR4wHrq3Y
 questionType: medium
 ---
 

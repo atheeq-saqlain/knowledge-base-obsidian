@@ -1,5 +1,5 @@
 ---
-slug: dsa-merge-intervals
+code: q_kYCz3MFJM5
 questionType: medium
 ---
 

@@ -1,5 +1,5 @@
 ---
-slug: dsa-number-of-1-bits
+code: q_eNV8m0DwnK
 questionType: medium
 ---
 

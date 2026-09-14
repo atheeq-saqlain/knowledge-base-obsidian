@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-altitudes-intersect-similarity
+code: q_mQQG3yblfw
 questionType: exercise
 ---
 # Altitudes Intersect Similarity

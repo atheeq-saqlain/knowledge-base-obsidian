@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-linear-equation-in-two-variables
+code: c_zEVGPRILaw
 kind: representation
 ---
 # Linear Equation in Two Variables

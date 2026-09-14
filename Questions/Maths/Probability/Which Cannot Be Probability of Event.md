@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-which-cannot-be-probability-of-event
+code: q_IcxpBfjpwT
 questionType: exercise
 ---
 # Which Cannot Be Probability of Event

@@ -1,5 +1,5 @@
 ---
-slug: maths-number-euclid-division-lemma
+code: c_vzbSqlCMgU
 kind: fact
 ---
 # Euclid Division Lemma

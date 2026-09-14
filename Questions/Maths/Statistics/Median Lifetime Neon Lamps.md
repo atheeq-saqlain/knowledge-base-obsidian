@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-median-lifetime-neon-lamps
+code: q_KZpqBonVg5
 questionType: exercise
 ---
 # Median Lifetime Neon Lamps

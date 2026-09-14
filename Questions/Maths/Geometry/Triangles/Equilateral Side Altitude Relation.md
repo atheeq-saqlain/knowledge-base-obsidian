@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-equilateral-side-altitude-relation
+code: q_Dk4Wy9bosT
 questionType: exercise
 ---
 # Equilateral Side Altitude Relation

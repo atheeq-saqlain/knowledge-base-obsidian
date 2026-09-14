@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-height-of-tower-from-shadow
+code: q_PoggfK5u82
 questionType: exercise
 ---
 # Height of Tower from Shadow

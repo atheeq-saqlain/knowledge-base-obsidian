@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-equilateral-circles-at-vertices-shaded
+code: q_YwsEXRftSd
 questionType: exercise
 ---
 # Equilateral Circles at Vertices Shaded

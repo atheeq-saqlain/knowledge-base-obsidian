@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-ball-pens-buy-probability-defective
+code: q_JYgkGjdNgt
 questionType: exercise
 ---
 # Ball Pens Buy Probability Defective

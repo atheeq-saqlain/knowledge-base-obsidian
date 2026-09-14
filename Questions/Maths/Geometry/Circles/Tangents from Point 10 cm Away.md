@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-tangents-from-point-10-cm-away
+code: q_iSDYeHz7Q4
 questionType: exercise
 ---
 # Tangents from Point 10 cm Away

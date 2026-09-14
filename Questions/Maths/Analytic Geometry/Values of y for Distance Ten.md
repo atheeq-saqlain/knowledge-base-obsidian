@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-values-of-y-for-distance-ten
+code: q_sVQZ4TgpCk
 questionType: exercise
 ---
 # Values of y for Distance Ten

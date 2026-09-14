@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-line-of-sight
+code: c_LRLtmGfVTj
 kind: schema
 ---
 # Line of Sight

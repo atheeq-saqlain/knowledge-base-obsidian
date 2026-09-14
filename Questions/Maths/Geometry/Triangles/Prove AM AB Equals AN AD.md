@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-prove-am-ab-equals-an-ad
+code: q_GiIks4HQGI
 questionType: exercise
 ---
 # Prove AM AB Equals AN AD

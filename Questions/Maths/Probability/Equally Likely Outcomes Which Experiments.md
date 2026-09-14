@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-equally-likely-outcomes-which-experiments
+code: q_5g7qfA5nHc
 questionType: exercise
 ---
 # Equally Likely Outcomes Which Experiments

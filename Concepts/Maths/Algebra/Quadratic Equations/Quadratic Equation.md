@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-quadratic-equation
+code: c_MchULkYzo5
 kind: schema
 ---
 # Quadratic Equation

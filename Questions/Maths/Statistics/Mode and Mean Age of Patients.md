@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-mode-and-mean-age-of-patients
+code: q_2tcQu9Bske
 questionType: exercise
 ---
 # Mode and Mean Age of Patients

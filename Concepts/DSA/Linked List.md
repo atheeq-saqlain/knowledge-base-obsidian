@@ -1,5 +1,5 @@
 ---
-slug: dsa-linked-list
+code: c_fA9vlnO8SV
 kind: schema
 ---
 

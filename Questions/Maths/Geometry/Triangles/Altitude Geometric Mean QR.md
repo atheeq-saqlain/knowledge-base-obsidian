@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-altitude-geometric-mean-qr
+code: q_kwiyMjIedn
 questionType: exercise
 ---
 # Altitude Geometric Mean QR

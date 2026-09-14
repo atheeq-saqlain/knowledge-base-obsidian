@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-less-than-ogive-student-weights-median
+code: q_V6dubdgm5A
 questionType: exercise
 ---
 # Less Than Ogive Student Weights Median

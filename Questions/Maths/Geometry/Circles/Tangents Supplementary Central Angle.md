@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-tangents-supplementary-central-angle
+code: q_Z62cvhB6SI
 questionType: exercise
 ---
 # Tangents Supplementary Central Angle

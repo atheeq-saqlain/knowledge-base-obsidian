@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-speeds-of-two-cars
+code: q_sb4oRFSxim
 questionType: exercise
 ---
 # Speeds of Two Cars

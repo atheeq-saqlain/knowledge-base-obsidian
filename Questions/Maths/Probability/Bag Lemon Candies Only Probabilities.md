@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-bag-lemon-candies-only-probabilities
+code: q_zc3t5wbDPF
 questionType: exercise
 ---
 # Bag Lemon Candies Only Probabilities

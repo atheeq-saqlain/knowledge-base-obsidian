@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-sss-similarity-criterion
+code: c_3ZFxX119qy
 kind: schema
 ---
 # SSS Similarity Criterion

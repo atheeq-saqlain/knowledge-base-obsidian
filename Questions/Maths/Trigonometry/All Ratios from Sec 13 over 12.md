@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-all-ratios-from-sec-13-over-12
+code: q_AD1zWGO1Yx
 questionType: exercise
 ---
 # All Ratios from Sec 13 over 12

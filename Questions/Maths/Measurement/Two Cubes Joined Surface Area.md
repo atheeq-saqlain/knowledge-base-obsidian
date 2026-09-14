@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-two-cubes-joined-surface-area
+code: q_EBRRysHTNO
 questionType: exercise
 ---
 # Two Cubes Joined Surface Area

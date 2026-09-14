@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-proportional-sides-median-similarity
+code: q_UkQupYR7YB
 questionType: exercise
 ---
 # Proportional Sides Median Similarity

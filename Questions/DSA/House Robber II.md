@@ -1,5 +1,5 @@
 ---
-slug: dsa-house-robber-ii
+code: q_NPIr89aJdp
 questionType: medium
 ---
 

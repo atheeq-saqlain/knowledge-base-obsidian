@@ -1,5 +1,5 @@
 ---
-slug: dsa-meeting-rooms
+code: q_uPnAKC6Md3
 questionType: medium
 ---
 

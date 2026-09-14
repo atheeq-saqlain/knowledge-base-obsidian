@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-hostel-fixed-charge-food-per-day
+code: q_vhUapg5HxA
 questionType: exercise
 ---
 # Hostel Fixed Charge Food Per Day

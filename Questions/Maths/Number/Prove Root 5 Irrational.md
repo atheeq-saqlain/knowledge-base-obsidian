@@ -1,5 +1,5 @@
 ---
-slug: maths-number-prove-root-5-irrational
+code: q_yLucHw8Pt6
 questionType: exercise
 ---
 # Prove Root 5 Irrational

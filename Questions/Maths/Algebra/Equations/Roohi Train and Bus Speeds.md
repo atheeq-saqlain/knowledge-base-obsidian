@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-roohi-train-and-bus-speeds
+code: q_kf4wR0e5mz
 questionType: exercise
 ---
 # Roohi Train and Bus Speeds

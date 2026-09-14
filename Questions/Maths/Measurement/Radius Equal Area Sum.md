@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-radius-equal-area-sum
+code: q_392zkfM7VC
 questionType: exercise
 ---
 # Radius Equal Area Sum

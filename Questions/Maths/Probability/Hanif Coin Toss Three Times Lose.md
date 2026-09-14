@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-hanif-coin-toss-three-times-lose
+code: q_KIH78ORbIv
 questionType: exercise
 ---
 # Hanif Coin Toss Three Times Lose

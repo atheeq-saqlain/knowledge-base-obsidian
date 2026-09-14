@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-median-mean-mode-electricity-consumption
+code: q_f1cQjBQLp2
 questionType: exercise
 ---
 # Median Mean Mode Electricity Consumption

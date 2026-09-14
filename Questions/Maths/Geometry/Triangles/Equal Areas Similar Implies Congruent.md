@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-equal-areas-similar-implies-congruent
+code: q_pnp0JFg9N2
 questionType: exercise
 ---
 # Equal Areas Similar Implies Congruent

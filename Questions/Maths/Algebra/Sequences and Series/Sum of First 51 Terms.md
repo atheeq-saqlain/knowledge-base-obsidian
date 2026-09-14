@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-sum-of-first-51-terms
+code: q_a2NZOgf1Jw
 questionType: exercise
 ---
 # Sum of First 51 Terms

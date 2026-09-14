@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-oil-funnel-tin-sheet-area
+code: q_XffWQMSxSl
 questionType: exercise
 ---
 # Oil Funnel Tin Sheet Area

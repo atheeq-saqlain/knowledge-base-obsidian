@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-defective-bulbs-draw-without-replacement
+code: q_nHidDYWutm
 questionType: exercise
 ---
 # Defective Bulbs Draw Without Replacement

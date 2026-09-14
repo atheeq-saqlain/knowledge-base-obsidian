@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-area-of-rhombus-from-vertices
+code: q_0EfAAaD5gw
 questionType: exercise
 ---
 # Area of Rhombus from Vertices

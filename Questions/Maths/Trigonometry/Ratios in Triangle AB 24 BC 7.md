@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-ratios-in-triangle-ab-24-bc-7
+code: q_G2c3A7u10T
 questionType: exercise
 ---
 # Ratios in Triangle AB 24 BC 7

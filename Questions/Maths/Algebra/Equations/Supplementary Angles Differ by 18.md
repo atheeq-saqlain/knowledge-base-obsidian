@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-supplementary-angles-differ-by-18
+code: q_RElHhfRQup
 questionType: exercise
 ---
 # Supplementary Angles Differ by 18

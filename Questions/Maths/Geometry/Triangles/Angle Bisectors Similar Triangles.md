@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-angle-bisectors-similar-triangles
+code: q_qth0JzRW0G
 questionType: exercise
 ---
 # Angle Bisectors Similar Triangles

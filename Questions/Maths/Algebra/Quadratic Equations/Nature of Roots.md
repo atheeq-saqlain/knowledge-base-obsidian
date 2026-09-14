@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-nature-of-roots
+code: q_Q3JctmbNUA
 questionType: exercise
 ---
 # Nature of Roots

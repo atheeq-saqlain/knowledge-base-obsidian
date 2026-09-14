@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-identify-arithmetic-progressions
+code: q_H8o9mGuUc2
 questionType: exercise
 ---
 # Identify Arithmetic Progressions

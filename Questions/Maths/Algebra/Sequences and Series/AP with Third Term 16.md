@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-ap-with-third-term-16
+code: q_1UClvhtSZG
 questionType: exercise
 ---
 # AP with Third Term 16

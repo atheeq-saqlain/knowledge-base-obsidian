@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-theoretical-probability
+code: c_pb7AeJgxY6
 kind: schema
 ---
 # Theoretical Probability

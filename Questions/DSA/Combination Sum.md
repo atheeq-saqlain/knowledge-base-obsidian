@@ -1,5 +1,5 @@
 ---
-slug: dsa-combination-sum
+code: q_2QXZkoJLod
 questionType: medium
 ---
 

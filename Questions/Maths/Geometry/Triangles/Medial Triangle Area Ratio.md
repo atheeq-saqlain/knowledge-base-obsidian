@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-medial-triangle-area-ratio
+code: q_X6nPSvWOVh
 questionType: exercise
 ---
 # Medial Triangle Area Ratio

@@ -1,5 +1,5 @@
 ---
-slug: dsa-best-time-to-buy-and-sell-stock
+code: q_XyGFH69vtJ
 questionType: medium
 ---
 

@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-building-and-tower-mutual-elevations
+code: q_6yXuw1PciY
 questionType: exercise
 ---
 # Building and Tower Mutual Elevations

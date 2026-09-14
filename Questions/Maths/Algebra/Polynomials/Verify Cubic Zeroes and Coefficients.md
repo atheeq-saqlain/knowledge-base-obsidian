@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-verify-cubic-zeroes-and-coefficients
+code: q_Sn8PRbiNb9
 questionType: exercise
 ---
 # Verify Cubic Zeroes and Coefficients

@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-die-once-prime-between-odd-probabilities
+code: q_GUWlbdg8R8
 questionType: exercise
 ---
 # Die Once Prime Between Odd Probabilities

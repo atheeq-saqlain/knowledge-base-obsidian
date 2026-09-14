@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-two-numbers-difference-26
+code: q_dRi9wwBBG1
 questionType: exercise
 ---
 # Two Numbers Difference 26

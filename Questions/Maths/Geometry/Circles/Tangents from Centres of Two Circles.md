@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-tangents-from-centres-of-two-circles
+code: q_H870hekSlj
 questionType: exercise
 ---
 # Tangents from Centres of Two Circles

@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-rhombus-sides-squares-diagonals
+code: q_usX10pIFYk
 questionType: exercise
 ---
 # Rhombus Sides Squares Diagonals

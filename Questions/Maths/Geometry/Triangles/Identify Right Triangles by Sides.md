@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-identify-right-triangles-by-sides
+code: q_nXpzOUBtNy
 questionType: exercise
 ---
 # Identify Right Triangles by Sides

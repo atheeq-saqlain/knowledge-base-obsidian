@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-sum-of-first-n-terms-from-s7-s17
+code: q_ynIUovwP2i
 questionType: exercise
 ---
 # Sum of First n Terms from S7 S17

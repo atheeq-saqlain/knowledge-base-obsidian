@@ -1,5 +1,5 @@
 ---
-slug: dsa-lowest-common-ancestor-of-a-bst
+code: q_oaJ7JyJcmp
 questionType: medium
 ---
 

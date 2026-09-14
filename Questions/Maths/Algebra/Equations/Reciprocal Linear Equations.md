@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-reciprocal-linear-equations
+code: q_wNUHeTaKOl
 questionType: exercise
 ---
 # Reciprocal Linear Equations

@@ -1,5 +1,5 @@
 ---
-slug: dsa-valid-palindrome
+code: q_KEpRJcVWbS
 questionType: medium
 ---
 

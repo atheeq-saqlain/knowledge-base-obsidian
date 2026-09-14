@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-sum-of-first-n-terms-of-an-ap
+code: c_ALlnt2mObP
 kind: schema
 ---
 # Sum of First n Terms of an AP

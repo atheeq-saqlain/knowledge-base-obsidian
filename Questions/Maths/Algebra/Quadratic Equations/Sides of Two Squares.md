@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-sides-of-two-squares
+code: q_2sa4dIUYdZ
 questionType: exercise
 ---
 # Sides of Two Squares

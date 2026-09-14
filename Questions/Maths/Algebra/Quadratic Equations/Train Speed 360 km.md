@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-train-speed-360-km
+code: q_a6kSjQPALZ
 questionType: exercise
 ---
 # Train Speed 360 km

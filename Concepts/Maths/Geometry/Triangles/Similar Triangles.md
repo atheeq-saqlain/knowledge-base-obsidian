@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-similar-triangles
+code: c_EugPH3Zpey
 kind: representation
 ---
 # Similar Triangles

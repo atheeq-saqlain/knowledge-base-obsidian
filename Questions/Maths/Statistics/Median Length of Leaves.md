@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-median-length-of-leaves
+code: q_IuZxNwhrKa
 questionType: exercise
 ---
 # Median Length of Leaves

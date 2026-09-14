@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-parallelogram-diagonals-squares
+code: q_HD9G5mSKXJ
 questionType: exercise
 ---
 # Parallelogram Diagonals Squares

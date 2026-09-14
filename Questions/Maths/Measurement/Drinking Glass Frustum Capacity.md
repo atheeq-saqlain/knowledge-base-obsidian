@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-drinking-glass-frustum-capacity
+code: q_RU2CiXvfP0
 questionType: exercise
 ---
 # Drinking Glass Frustum Capacity

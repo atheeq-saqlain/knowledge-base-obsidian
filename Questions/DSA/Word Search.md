@@ -1,5 +1,5 @@
 ---
-slug: dsa-word-search
+code: q_BHQa9aTZui
 questionType: medium
 ---
 

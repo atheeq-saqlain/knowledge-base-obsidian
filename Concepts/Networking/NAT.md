@@ -1,5 +1,5 @@
 ---
-slug: networking-nat
+code: c_fgkXu5c7Tm
 ---
 
 ## Definition

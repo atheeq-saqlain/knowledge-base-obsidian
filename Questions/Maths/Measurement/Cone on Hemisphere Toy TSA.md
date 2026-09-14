@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-cone-on-hemisphere-toy-tsa
+code: q_vdwOLVTRP0
 questionType: exercise
 ---
 # Cone on Hemisphere Toy TSA

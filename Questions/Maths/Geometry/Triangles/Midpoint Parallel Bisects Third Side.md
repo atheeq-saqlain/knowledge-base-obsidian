@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-midpoint-parallel-bisects-third-side
+code: q_NRwqS7DVm6
 questionType: exercise
 ---
 # Midpoint Parallel Bisects Third Side

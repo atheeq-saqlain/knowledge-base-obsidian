@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-isosceles-similar-triangle-scale-three-halves
+code: q_R4YV3KgF5C
 questionType: exercise
 ---
 # Isosceles Similar Triangle Scale Three Halves

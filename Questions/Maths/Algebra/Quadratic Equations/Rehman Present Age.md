@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-rehman-present-age
+code: q_FBQgl4Mk8O
 questionType: exercise
 ---
 # Rehman Present Age

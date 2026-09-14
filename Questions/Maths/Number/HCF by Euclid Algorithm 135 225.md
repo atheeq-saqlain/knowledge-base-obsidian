@@ -1,5 +1,5 @@
 ---
-slug: maths-number-hcf-by-euclid-algorithm-135-225
+code: q_NyFA5PGqs2
 questionType: exercise
 ---
 # HCF by Euclid Algorithm 135 225

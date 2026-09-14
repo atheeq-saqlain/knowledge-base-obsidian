@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-fill-nth-term-table
+code: q_9mAsPnIqk2
 questionType: exercise
 ---
 # Fill nth Term Table

@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-minor-major-segments-radius-15-angle-60
+code: q_bPMqbX28R2
 questionType: exercise
 ---
 # Minor Major Segments Radius 15 Angle 60

@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-roots-by-factorisation
+code: q_XEf75oDWs2
 questionType: exercise
 ---
 # Roots by Factorisation

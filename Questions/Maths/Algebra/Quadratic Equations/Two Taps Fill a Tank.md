@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-two-taps-fill-a-tank
+code: q_iXQyU1lWSE
 questionType: exercise
 ---
 # Two Taps Fill a Tank

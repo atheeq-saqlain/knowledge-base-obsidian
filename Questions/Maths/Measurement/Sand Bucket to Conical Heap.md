@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-sand-bucket-to-conical-heap
+code: q_LgGJ1x4ATG
 questionType: exercise
 ---
 # Sand Bucket to Conical Heap

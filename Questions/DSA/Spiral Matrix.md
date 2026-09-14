@@ -1,5 +1,5 @@
 ---
-slug: dsa-spiral-matrix
+code: q_yiIcfdLIPx
 questionType: medium
 ---
 

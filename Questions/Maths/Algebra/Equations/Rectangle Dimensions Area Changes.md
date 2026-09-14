@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-rectangle-dimensions-area-changes
+code: q_GeRdstKE4P
 questionType: exercise
 ---
 # Rectangle Dimensions Area Changes

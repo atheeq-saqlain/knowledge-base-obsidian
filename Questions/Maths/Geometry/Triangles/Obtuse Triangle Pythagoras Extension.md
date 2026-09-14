@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-obtuse-triangle-pythagoras-extension
+code: q_806miGLXPI
 questionType: exercise
 ---
 # Obtuse Triangle Pythagoras Extension

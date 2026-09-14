@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-substitution-method
+code: c_fPBijF8oSx
 kind: schema
 ---
 # Substitution Method

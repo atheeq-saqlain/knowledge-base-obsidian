@@ -1,5 +1,5 @@
 ---
-slug: dsa-valid-parentheses
+code: q_t4TMFxM7oO
 questionType: medium
 ---
 

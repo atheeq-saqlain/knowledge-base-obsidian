@@ -1,5 +1,5 @@
 ---
-slug: dsa-find-median-from-data-stream
+code: q_vt1A1aZrsF
 questionType: medium
 ---
 

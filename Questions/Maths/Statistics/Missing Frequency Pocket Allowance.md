@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-missing-frequency-pocket-allowance
+code: q_UKEh7rxYK1
 questionType: exercise
 ---
 # Missing Frequency Pocket Allowance

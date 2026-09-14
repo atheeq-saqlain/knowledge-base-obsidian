@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-five-diamond-cards-queen-then-second
+code: q_d1cg70RWpK
 questionType: exercise
 ---
 # Five Diamond Cards Queen Then Second

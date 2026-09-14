@@ -1,5 +1,5 @@
 ---
-slug: dsa-reorder-list
+code: q_dORRDoTm2S
 questionType: medium
 ---
 

@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-blue-marbles-given-green-probability-two-thirds
+code: q_ePNVDRPIRF
 questionType: exercise
 ---
 # Blue Marbles Given Green Probability Two Thirds

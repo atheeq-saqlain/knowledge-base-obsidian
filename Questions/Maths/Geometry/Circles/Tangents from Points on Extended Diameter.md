@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-tangents-from-points-on-extended-diameter
+code: q_xqOqJxQ39x
 questionType: exercise
 ---
 # Tangents from Points on Extended Diameter

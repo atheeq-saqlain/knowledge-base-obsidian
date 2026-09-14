@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-two-dice-sum-outcomes-argument
+code: q_dl800nVHpw
 questionType: exercise
 ---
 # Two Dice Sum Outcomes Argument

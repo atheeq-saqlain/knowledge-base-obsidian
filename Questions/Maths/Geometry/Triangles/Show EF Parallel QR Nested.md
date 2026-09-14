@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-show-ef-parallel-qr-nested
+code: q_jHT7MwvxBl
 questionType: exercise
 ---
 # Show EF Parallel QR Nested

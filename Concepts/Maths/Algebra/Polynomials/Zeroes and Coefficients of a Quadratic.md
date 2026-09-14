@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-zeroes-and-coefficients-of-a-quadratic
+code: c_XEMLi6LM0a
 kind: schema
 ---
 # Zeroes and Coefficients of a Quadratic

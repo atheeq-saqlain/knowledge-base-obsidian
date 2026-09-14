@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-ani-and-biju-ages
+code: q_FCoQRHQMDi
 questionType: exercise
 ---
 # Ani and Biju Ages

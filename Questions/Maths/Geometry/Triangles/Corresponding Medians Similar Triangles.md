@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-corresponding-medians-similar-triangles
+code: q_IbNZLUKGtf
 questionType: exercise
 ---
 # Corresponding Medians Similar Triangles

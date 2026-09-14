@@ -1,5 +1,5 @@
 ---
-slug: maths-number-lcm-from-given-hcf-306-657
+code: q_ljwq3jwb6v
 questionType: exercise
 ---
 # LCM from Given HCF 306 657

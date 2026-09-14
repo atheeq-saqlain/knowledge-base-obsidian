@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-rectangular-garden-dimensions
+code: q_tQptXlIefI
 questionType: exercise
 ---
 # Rectangular Garden Dimensions

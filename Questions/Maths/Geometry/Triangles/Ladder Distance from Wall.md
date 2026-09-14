@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-ladder-distance-from-wall
+code: q_WymooEMpjA
 questionType: exercise
 ---
 # Ladder Distance from Wall

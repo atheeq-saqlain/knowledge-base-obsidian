@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-quadratic-formula
+code: c_FfJHG73g7n
 kind: schema
 ---
 # Quadratic Formula

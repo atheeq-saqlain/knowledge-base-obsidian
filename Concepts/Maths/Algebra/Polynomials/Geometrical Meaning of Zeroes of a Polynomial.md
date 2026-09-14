@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-geometrical-meaning-of-zeroes-of-a-polynomial
+code: c_QssnTMIi9e
 kind: representation
 ---
 # Geometrical Meaning of Zeroes of a Polynomial

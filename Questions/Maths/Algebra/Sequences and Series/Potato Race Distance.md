@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-potato-race-distance
+code: q_GNRqHrCx8H
 questionType: exercise
 ---
 # Potato Race Distance

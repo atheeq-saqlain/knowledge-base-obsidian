@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-common-difference
+code: c_VvpZXz6sdc
 kind: fact
 ---
 # Common Difference

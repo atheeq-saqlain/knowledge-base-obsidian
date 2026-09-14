@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-solve-eight-x-five-y-by-two-methods
+code: q_Zfg0LucU95
 questionType: exercise
 ---
 # Solve Eight x Five y by Two Methods

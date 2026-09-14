@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-bijaganita-capitals-hundred-and-ten
+code: q_CiLZwxoST0
 questionType: exercise
 ---
 # Bijaganita Capitals Hundred and Ten

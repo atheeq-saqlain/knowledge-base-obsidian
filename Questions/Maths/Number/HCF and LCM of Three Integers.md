@@ -1,5 +1,5 @@
 ---
-slug: maths-number-hcf-and-lcm-of-three-integers
+code: q_LhdhxSUw0L
 questionType: exercise
 ---
 # HCF and LCM of Three Integers

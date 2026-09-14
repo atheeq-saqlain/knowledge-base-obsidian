@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-median-perpendicular-identities
+code: q_DAqVfV5zaT
 questionType: exercise
 ---
 # Median Perpendicular Identities

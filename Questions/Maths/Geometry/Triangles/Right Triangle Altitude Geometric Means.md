@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-right-triangle-altitude-geometric-means
+code: q_M8XhDk2Jn1
 questionType: exercise
 ---
 # Right Triangle Altitude Geometric Means

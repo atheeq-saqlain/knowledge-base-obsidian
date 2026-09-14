@@ -1,5 +1,5 @@
 ---
-slug: dsa-remove-nth-node-from-end-of-list
+code: q_uZVdRM5mvW
 questionType: medium
 ---
 

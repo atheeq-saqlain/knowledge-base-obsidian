@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-intersecting-chords-inside-circle
+code: q_uge53duund
 questionType: exercise
 ---
 # Intersecting Chords Inside Circle

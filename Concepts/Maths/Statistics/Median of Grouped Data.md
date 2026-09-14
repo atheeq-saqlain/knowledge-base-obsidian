@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-median-of-grouped-data
+code: c_TNriCELjjT
 kind: schema
 ---
 # Median of Grouped Data

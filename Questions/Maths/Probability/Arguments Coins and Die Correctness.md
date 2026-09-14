@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-arguments-coins-and-die-correctness
+code: q_102kP33qQZ
 questionType: exercise
 ---
 # Arguments Coins and Die Correctness

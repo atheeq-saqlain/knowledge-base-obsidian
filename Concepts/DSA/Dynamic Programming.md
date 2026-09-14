@@ -1,5 +1,5 @@
 ---
-slug: dsa-dynamic-programming
+code: c_GhV5JMARC3
 kind: schema
 ---
 

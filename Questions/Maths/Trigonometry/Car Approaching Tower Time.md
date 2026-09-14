@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-car-approaching-tower-time
+code: q_TskEM9ou8l
 questionType: exercise
 ---
 # Car Approaching Tower Time

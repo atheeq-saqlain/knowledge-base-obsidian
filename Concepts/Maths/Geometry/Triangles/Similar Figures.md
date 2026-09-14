@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-similar-figures
+code: c_YpTIFKhL1i
 kind: fact
 ---
 # Similar Figures

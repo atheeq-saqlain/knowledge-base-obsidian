@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-trigonometric-ratios-of-standard-angles
+code: c_XSpzTV0fSM
 kind: fact
 ---
 # Trigonometric Ratios of Standard Angles

@@ -1,5 +1,5 @@
 ---
-slug: dsa-find-minimum-in-rotated-sorted-array
+code: q_wOIrlFAqfZ
 questionType: medium
 ---
 

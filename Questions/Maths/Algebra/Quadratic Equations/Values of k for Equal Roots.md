@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-values-of-k-for-equal-roots
+code: q_AvYLqxm9Fv
 questionType: exercise
 ---
 # Values of k for Equal Roots

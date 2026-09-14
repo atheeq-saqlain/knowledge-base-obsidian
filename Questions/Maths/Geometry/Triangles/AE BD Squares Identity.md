@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-ae-bd-squares-identity
+code: q_Uhta71asq0
 questionType: exercise
 ---
 # AE BD Squares Identity

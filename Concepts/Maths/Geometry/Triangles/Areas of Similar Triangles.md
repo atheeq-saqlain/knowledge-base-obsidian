@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-areas-of-similar-triangles
+code: c_jEnWMNFsYd
 kind: schema
 ---
 # Areas of Similar Triangles

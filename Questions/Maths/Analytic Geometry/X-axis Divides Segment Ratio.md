@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-x-axis-divides-segment-ratio
+code: q_WwA8Wlf6nz
 questionType: exercise
 ---
 # X-axis Divides Segment Ratio

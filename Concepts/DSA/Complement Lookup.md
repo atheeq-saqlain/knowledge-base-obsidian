@@ -1,5 +1,5 @@
 ---
-slug: dsa-complement-lookup
+code: c_qnee2IMpi1
 kind: schema
 ---
 # Complement Lookup

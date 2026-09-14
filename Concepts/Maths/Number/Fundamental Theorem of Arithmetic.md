@@ -1,5 +1,5 @@
 ---
-slug: maths-number-fundamental-theorem-of-arithmetic
+code: c_mKbv96B0hH
 kind: fact
 ---
 # Fundamental Theorem of Arithmetic

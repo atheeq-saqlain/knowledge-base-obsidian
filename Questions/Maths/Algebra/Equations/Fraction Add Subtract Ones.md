@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-fraction-add-subtract-ones
+code: q_jqrPEfgBjT
 questionType: exercise
 ---
 # Fraction Add Subtract Ones

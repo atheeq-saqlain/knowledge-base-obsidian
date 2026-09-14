@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-area-of-triangle-from-coordinates
+code: c_ODXGJlakul
 kind: schema
 ---
 # Area of Triangle from Coordinates

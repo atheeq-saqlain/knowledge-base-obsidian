@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-kite-string-length-at-60-degrees
+code: q_ZCAz2vTwEo
 questionType: exercise
 ---
 # Kite String Length at 60 Degrees

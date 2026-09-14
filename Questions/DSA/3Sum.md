@@ -1,5 +1,5 @@
 ---
-slug: dsa-3sum
+code: q_35aafxJTBP
 questionType: medium
 ---
 

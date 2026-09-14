@@ -1,5 +1,5 @@
 ---
-slug: dsa-window-validity-invariant
+code: c_ZsiK9D32qg
 kind: principle
 ---
 # Window Validity Invariant

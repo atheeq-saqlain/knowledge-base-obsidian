@@ -1,5 +1,5 @@
 ---
-slug: dsa-longest-increasing-subsequence
+code: q_M4UZwoMJW7
 questionType: medium
 ---
 

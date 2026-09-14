@@ -1,5 +1,5 @@
 ---
-slug: dsa-search-in-rotated-sorted-array
+code: q_eCN6W8mTME
 questionType: medium
 ---
 

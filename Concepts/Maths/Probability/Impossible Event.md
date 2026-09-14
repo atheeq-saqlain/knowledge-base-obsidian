@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-impossible-event
+code: c_kIrtIADig5
 kind: schema
 ---
 # Impossible Event

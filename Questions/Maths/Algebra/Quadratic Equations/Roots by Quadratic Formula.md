@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-roots-by-quadratic-formula
+code: q_9bwQ5zh4qZ
 questionType: exercise
 ---
 # Roots by Quadratic Formula

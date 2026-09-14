@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-equilateral-bd-one-third-bc
+code: q_DRVNCBpIWX
 questionType: exercise
 ---
 # Equilateral BD One Third BC

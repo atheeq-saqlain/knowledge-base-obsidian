@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-isosceles-ab-squared-implies-right
+code: q_CBbr5PpQ0S
 questionType: exercise
 ---
 # Isosceles AB Squared Implies Right

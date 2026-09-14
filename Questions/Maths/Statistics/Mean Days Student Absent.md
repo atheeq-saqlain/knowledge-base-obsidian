@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-mean-days-student-absent
+code: q_Bhk3szRLNe
 questionType: exercise
 ---
 # Mean Days Student Absent

@@ -1,5 +1,5 @@
 ---
-slug: dsa-construct-binary-tree-from-preorder-and-inorder-traversal
+code: q_e70Zn7wVln
 questionType: medium
 ---
 

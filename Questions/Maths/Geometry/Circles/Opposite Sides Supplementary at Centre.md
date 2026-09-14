@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-opposite-sides-supplementary-at-centre
+code: q_dFnrUVznvW
 questionType: exercise
 ---
 # Opposite Sides Supplementary at Centre

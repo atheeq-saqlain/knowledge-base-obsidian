@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-converse-angle-bisector-theorem
+code: q_qqBqyFH7Xl
 questionType: exercise
 ---
 # Converse Angle Bisector Theorem

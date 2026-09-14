@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-similar-triangle-scale-factor-four-thirds
+code: q_8b2zI5s1qJ
 questionType: exercise
 ---
 # Similar Triangle Scale Factor Four Thirds

@@ -1,5 +1,5 @@
 ---
-slug: dsa-binary-search-tree
+code: c_IHYkKycgzV
 kind: schema
 ---
 

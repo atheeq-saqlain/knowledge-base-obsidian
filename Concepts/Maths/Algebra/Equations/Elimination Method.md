@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-elimination-method
+code: c_6CEMNm9bcM
 kind: schema
 ---
 # Elimination Method

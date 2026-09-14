@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-mean-plants-per-house
+code: q_n1l9YktVIL
 questionType: exercise
 ---
 # Mean Plants per House

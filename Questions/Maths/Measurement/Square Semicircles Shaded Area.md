@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-square-semicircles-shaded-area
+code: q_umKrxNuDde
 questionType: exercise
 ---
 # Square Semicircles Shaded Area

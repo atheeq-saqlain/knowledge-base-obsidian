@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-equidistant-find-x-qr-and-pr
+code: q_kr38jOgaed
 questionType: exercise
 ---
 # Equidistant Find x QR and PR

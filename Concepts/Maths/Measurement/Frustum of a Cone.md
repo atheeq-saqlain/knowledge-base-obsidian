@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-frustum-of-a-cone
+code: c_jCE54nyx3D
 kind: schema
 ---
 # Frustum of a Cone

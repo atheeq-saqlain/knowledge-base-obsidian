@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-transmission-tower-on-building
+code: q_7DlMW2W5Sb
 questionType: exercise
 ---
 # Transmission Tower on Building

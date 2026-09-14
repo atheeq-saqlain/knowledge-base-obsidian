@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-die-land-inside-circle-geometric-probability
+code: q_g7ER65uGFC
 questionType: exercise
 ---
 # Die Land Inside Circle Geometric Probability

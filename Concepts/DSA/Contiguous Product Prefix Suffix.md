@@ -1,5 +1,5 @@
 ---
-slug: dsa-contiguous-product-prefix-suffix
+code: c_ydASzgdlKM
 kind: principle
 ---
 # Contiguous Product Prefix Suffix

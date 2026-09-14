@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-term-132-more-than-54th
+code: q_tEAL6VflDD
 questionType: exercise
 ---
 # Term 132 More Than 54th

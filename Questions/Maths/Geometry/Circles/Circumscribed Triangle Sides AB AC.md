@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-circumscribed-triangle-sides-ab-ac
+code: q_vdp4R3KLHU
 questionType: exercise
 ---
 # Circumscribed Triangle Sides AB AC

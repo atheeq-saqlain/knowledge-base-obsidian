@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-ramkali-weekly-savings
+code: q_1pAGC9IxXG
 questionType: exercise
 ---
 # Ramkali Weekly Savings

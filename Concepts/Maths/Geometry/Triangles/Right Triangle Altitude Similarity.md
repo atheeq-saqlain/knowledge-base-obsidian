@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-right-triangle-altitude-similarity
+code: c_VzVPui2RnY
 kind: schema
 ---
 # Right Triangle Altitude Similarity

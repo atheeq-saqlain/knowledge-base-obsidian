@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-minor-segment-right-angle-chord
+code: q_Ji9VIqtTle
 questionType: exercise
 ---
 # Minor Segment Right Angle Chord

@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-sin-cos-tan-p-in-triangle-pr-plus-qr-25
+code: q_Sc48rfJ6Zu
 questionType: exercise
 ---
 # Sin Cos Tan P in Triangle PR Plus QR 25

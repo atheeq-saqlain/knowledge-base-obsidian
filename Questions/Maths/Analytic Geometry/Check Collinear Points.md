@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-check-collinear-points
+code: q_FsOaGePXnT
 questionType: exercise
 ---
 # Check Collinear Points

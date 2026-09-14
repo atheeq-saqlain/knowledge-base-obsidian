@@ -1,5 +1,5 @@
 ---
-slug: dsa-sum-of-two-integers
+code: q_O5cYkKoZsj
 questionType: medium
 ---
 

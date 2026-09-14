@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-taxi-fixed-charge-and-per-km
+code: q_6i1EciYueZ
 questionType: exercise
 ---
 # Taxi Fixed Charge and Per Km

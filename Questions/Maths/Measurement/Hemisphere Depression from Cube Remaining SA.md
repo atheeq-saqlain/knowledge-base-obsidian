@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-hemisphere-depression-from-cube-remaining-sa
+code: q_dj3sz2N5WN
 questionType: exercise
 ---
 # Hemisphere Depression from Cube Remaining SA

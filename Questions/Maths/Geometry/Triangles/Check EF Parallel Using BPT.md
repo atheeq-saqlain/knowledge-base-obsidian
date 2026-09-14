@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-check-ef-parallel-using-bpt
+code: q_ltOusJ5EFh
 questionType: exercise
 ---
 # Check EF Parallel Using BPT

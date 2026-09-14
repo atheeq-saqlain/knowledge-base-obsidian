@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-right-triangle-altitude-base-hypotenuse
+code: q_eQhVxOjUYt
 questionType: exercise
 ---
 # Right Triangle Altitude Base Hypotenuse

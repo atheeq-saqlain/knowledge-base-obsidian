@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-converse-of-basic-proportionality-theorem
+code: c_GzVunKHguZ
 kind: schema
 ---
 # Converse of Basic Proportionality Theorem

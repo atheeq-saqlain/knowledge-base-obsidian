@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-construction-of-tangents-from-external-point
+code: c_byDwQuAsew
 kind: schema
 ---
 # Construction of Tangents from External Point

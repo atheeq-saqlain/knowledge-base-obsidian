@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-show-bc-parallel-qr-nested
+code: q_D4qMypxEVy
 questionType: exercise
 ---
 # Show BC Parallel QR Nested

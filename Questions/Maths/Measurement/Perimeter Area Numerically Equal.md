@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-perimeter-area-numerically-equal
+code: q_MPYZWhC2zJ
 questionType: exercise
 ---
 # Perimeter Area Numerically Equal

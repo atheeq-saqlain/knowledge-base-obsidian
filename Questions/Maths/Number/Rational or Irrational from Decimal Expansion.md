@@ -1,5 +1,5 @@
 ---
-slug: maths-number-rational-or-irrational-from-decimal-expansion
+code: q_pvZpc7HxEI
 questionType: exercise
 ---
 # Rational or Irrational from Decimal Expansion

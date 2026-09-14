@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-solve-by-elimination-x-plus-y-5
+code: q_9jvoqojzEU
 questionType: exercise
 ---
 # Solve by Elimination x Plus y 5

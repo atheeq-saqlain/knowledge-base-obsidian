@@ -1,5 +1,5 @@
 ---
-slug: dsa-anagram-signature
+code: c_uOJ5dGbUun
 kind: schema
 ---
 # Anagram Signature

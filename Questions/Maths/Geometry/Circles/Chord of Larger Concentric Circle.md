@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-chord-of-larger-concentric-circle
+code: q_CzRAvPuMFo
 questionType: exercise
 ---
 # Chord of Larger Concentric Circle

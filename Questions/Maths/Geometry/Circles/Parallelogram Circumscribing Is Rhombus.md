@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-parallelogram-circumscribing-is-rhombus
+code: q_ifRpVgVMkA
 questionType: exercise
 ---
 # Parallelogram Circumscribing Is Rhombus

@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-check-identity-when-3-cot-a-equals-4
+code: q_vwn4BF5uqI
 questionType: exercise
 ---
 # Check Identity When 3 Cot A Equals 4

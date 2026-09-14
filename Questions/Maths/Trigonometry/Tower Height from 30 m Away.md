@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-tower-height-from-30-m-away
+code: q_dHqD0eAFEw
 questionType: exercise
 ---
 # Tower Height from 30 m Away

@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-ladder-rungs-wood-length
+code: q_d15UZlD6R0
 questionType: exercise
 ---
 # Ladder Rungs Wood Length

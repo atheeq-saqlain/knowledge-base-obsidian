@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-equilateral-on-side-vs-diagonal
+code: q_8yRe80Ucvk
 questionType: exercise
 ---
 # Equilateral on Side vs Diagonal

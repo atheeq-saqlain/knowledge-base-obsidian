@@ -1,5 +1,5 @@
 ---
-slug: dsa-hashset
+code: c_xYZ8AJ5M8P
 kind: representation
 ---
 

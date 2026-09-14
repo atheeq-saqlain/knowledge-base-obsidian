@@ -1,5 +1,5 @@
 ---
-slug: maths-number-why-these-expressions-are-composite
+code: q_3MQ5lvMyj7
 questionType: exercise
 ---
 # Why These Expressions Are Composite

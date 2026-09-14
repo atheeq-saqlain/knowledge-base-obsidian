@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-11th-term-of-ap-3-half-2
+code: q_UWiv6j4Jok
 questionType: exercise
 ---
 # 11th Term of AP -3 Half 2

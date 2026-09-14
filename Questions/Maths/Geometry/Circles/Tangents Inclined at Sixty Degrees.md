@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-tangents-inclined-at-sixty-degrees
+code: q_zRDAQ5ujdw
 questionType: exercise
 ---
 # Tangents Inclined at Sixty Degrees

@@ -1,5 +1,5 @@
 ---
-slug: dsa-reverse-bits
+code: q_JIoTusS7qh
 questionType: medium
 ---
 

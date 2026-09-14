@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-perpendicular-diameters-smaller-circle-shaded
+code: q_AVEqZNQi7K
 questionType: exercise
 ---
 # Perpendicular Diameters Smaller Circle Shaded

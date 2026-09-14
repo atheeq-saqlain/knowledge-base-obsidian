@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-check-whether-quadratic-equations
+code: q_iTYtQ6NQQj
 questionType: exercise
 ---
 # Check Whether Quadratic Equations

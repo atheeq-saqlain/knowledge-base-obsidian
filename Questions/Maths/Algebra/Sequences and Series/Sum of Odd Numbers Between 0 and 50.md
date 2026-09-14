@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-sum-of-odd-numbers-between-0-and-50
+code: q_1GoMOWf3Vb
 questionType: exercise
 ---
 # Sum of Odd Numbers Between 0 and 50

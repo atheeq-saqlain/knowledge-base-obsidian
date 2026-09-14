@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-find-divisor-from-quotient-and-remainder
+code: q_1EZT0zp8aY
 questionType: exercise
 ---
 # Find Divisor from Quotient and Remainder

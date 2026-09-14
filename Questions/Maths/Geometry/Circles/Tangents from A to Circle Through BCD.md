@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-tangents-from-a-to-circle-through-bcd
+code: q_fuE2XYYXb1
 questionType: exercise
 ---
 # Tangents from A to Circle Through BCD

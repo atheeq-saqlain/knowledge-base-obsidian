@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-which-term-of-ap-is-78
+code: q_4tSMGxYlh8
 questionType: exercise
 ---
 # Which Term of AP is 78

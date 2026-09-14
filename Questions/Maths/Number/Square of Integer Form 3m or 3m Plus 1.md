@@ -1,5 +1,5 @@
 ---
-slug: maths-number-square-of-integer-form-3m-or-3m-plus-1
+code: q_TjPHGQUQSE
 questionType: exercise
 ---
 # Square of Integer Form 3m or 3m Plus 1

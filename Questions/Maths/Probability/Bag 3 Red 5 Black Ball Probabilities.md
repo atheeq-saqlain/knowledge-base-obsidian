@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-bag-3-red-5-black-ball-probabilities
+code: q_o9QcUSK5RV
 questionType: exercise
 ---
 # Bag 3 Red 5 Black Ball Probabilities

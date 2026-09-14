@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-mode-cars-passing-a-spot
+code: q_AfGeiFVaFX
 questionType: exercise
 ---
 # Mode Cars Passing a Spot

@@ -1,5 +1,5 @@
 ---
-slug: dsa-graph-valid-tree
+code: q_qxaMW7A7Sr
 questionType: medium
 ---
 

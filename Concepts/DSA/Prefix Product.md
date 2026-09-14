@@ -1,5 +1,5 @@
 ---
-slug: dsa-prefix-product
+code: c_nmZDMv1jxy
 kind: schema
 ---
 # Prefix Product

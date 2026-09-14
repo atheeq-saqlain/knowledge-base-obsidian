@@ -1,5 +1,5 @@
 ---
-slug: maths-number-hcf-and-lcm-by-prime-factorisation
+code: c_tuVrygcyLT
 kind: schema
 ---
 # HCF and LCM by Prime Factorisation

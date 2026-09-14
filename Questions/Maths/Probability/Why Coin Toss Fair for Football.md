@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-why-coin-toss-fair-for-football
+code: q_FJVP4aUIkP
 questionType: exercise
 ---
 # Why Coin Toss Fair for Football

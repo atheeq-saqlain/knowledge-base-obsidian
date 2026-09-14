@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-sector-of-a-circle
+code: c_RXPKLyPakX
 kind: representation
 ---
 # Sector of a Circle

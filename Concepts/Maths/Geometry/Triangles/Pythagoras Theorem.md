@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-pythagoras-theorem
+code: c_51i4Is6ZBl
 kind: schema
 ---
 # Pythagoras Theorem

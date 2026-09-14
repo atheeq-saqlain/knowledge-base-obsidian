@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-other-vertices-of-square-opposite
+code: q_nbUAt02IXf
 questionType: exercise
 ---
 # Other Vertices of Square Opposite

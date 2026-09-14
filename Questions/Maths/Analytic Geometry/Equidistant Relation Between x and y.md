@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-equidistant-relation-between-x-and-y
+code: q_Lup1DTUyXZ
 questionType: exercise
 ---
 # Equidistant Relation Between x and y

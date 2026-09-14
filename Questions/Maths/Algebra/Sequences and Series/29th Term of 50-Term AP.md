@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-29th-term-of-50-term-ap
+code: q_zU7tckUIKr
 questionType: exercise
 ---
 # 29th Term of 50-Term AP

@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-modal-lifetime-electrical-components
+code: q_ejw3yid3D3
 questionType: exercise
 ---
 # Modal Lifetime Electrical Components

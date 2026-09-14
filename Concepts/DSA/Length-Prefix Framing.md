@@ -1,5 +1,5 @@
 ---
-slug: dsa-length-prefix-framing
+code: c_4CYo2JgoLZ
 kind: principle
 ---
 # Length-Prefix Framing

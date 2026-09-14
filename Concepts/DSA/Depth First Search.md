@@ -1,5 +1,5 @@
 ---
-slug: dsa-depth-first-search
+code: c_5zoXTWRZSo
 kind: schema
 ---
 

@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-sin-half-b-plus-c-equals-cos-half-a
+code: q_mlxTzsh1gF
 questionType: exercise
 ---
 # Sin Half B Plus C Equals Cos Half A

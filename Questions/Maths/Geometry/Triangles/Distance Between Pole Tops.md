@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-distance-between-pole-tops
+code: q_tIDVRBtvmp
 questionType: exercise
 ---
 # Distance Between Pole Tops

@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-rhombus-and-square-similarity
+code: q_bDNH41L4ST
 questionType: exercise
 ---
 # Rhombus and Square Similarity

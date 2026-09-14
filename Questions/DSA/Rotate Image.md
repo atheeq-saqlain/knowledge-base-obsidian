@@ -1,5 +1,5 @@
 ---
-slug: dsa-rotate-image
+code: q_YlcwCe5YmE
 questionType: medium
 ---
 

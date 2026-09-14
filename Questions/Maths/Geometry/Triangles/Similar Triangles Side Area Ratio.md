@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-similar-triangles-side-area-ratio
+code: q_qT0WDwHFv7
 questionType: exercise
 ---
 # Similar Triangles Side Area Ratio

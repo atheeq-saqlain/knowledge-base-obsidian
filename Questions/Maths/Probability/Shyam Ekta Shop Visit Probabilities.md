@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-shyam-ekta-shop-visit-probabilities
+code: q_OddpwTCMng
 questionType: exercise
 ---
 # Shyam Ekta Shop Visit Probabilities

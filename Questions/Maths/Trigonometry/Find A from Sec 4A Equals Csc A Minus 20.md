@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-find-a-from-sec-4a-equals-csc-a-minus-20
+code: q_tYs6AHMUF7
 questionType: exercise
 ---
 # Find A from Sec 4A Equals Csc A Minus 20

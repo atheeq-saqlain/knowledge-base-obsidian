@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-bc-from-similar-triangle-areas
+code: q_vs5aucCf1m
 questionType: exercise
 ---
 # BC from Similar Triangle Areas

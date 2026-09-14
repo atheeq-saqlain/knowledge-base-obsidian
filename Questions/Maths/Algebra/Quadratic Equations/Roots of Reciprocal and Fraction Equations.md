@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-roots-of-reciprocal-and-fraction-equations
+code: q_WCrmU4Rbfh
 questionType: exercise
 ---
 # Roots of Reciprocal and Fraction Equations

@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-two-equal-poles-across-a-road
+code: q_sydjh8SWcZ
 questionType: exercise
 ---
 # Two Equal Poles Across a Road

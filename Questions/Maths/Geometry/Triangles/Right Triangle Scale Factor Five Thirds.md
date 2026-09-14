@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-right-triangle-scale-factor-five-thirds
+code: q_YVa1cqw6Bd
 questionType: exercise
 ---
 # Right Triangle Scale Factor Five Thirds

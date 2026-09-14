@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-tangent-perpendicular-to-radius
+code: c_xbgMXUBvPe
 kind: schema
 ---
 # Tangent Perpendicular to Radius

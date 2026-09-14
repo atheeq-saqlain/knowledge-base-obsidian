@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-minute-hand-area-in-5-minutes
+code: q_LbPeO3E3yn
 questionType: exercise
 ---
 # Minute Hand Area in 5 Minutes

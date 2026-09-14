@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-midpoints-join-parallel-third-side
+code: q_6CBuRbOArf
 questionType: exercise
 ---
 # Midpoints Join Parallel Third Side

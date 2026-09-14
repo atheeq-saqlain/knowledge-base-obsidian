@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-parallelogram-vertices-find-x-and-y
+code: q_Iy1vpjl6Mv
 questionType: exercise
 ---
 # Parallelogram Vertices Find x and y

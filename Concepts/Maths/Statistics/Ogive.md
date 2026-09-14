@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-ogive
+code: c_LoW6CetY0u
 kind: representation
 ---
 # Ogive

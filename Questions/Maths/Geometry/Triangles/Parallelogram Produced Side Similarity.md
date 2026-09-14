@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-parallelogram-produced-side-similarity
+code: q_ns7FkwSUBJ
 questionType: exercise
 ---
 # Parallelogram Produced Side Similarity

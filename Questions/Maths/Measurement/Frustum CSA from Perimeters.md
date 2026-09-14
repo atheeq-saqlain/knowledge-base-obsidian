@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-frustum-csa-from-perimeters
+code: q_EAnFx2ToVM
 questionType: exercise
 ---
 # Frustum CSA from Perimeters

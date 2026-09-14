@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-section-formula-ratio-2-to-3
+code: q_ot2TsBjOBw
 questionType: exercise
 ---
 # Section Formula Ratio 2 to 3

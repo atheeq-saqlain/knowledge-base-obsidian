@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-rainfall-equivalent-three-rivers
+code: q_cIps2azJnk
 questionType: exercise
 ---
 # Rainfall Equivalent Three Rivers

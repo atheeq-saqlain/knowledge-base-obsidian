@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-volume-of-combination-of-solids
+code: c_EKLX2gVAP7
 kind: schema
 ---
 # Volume of Combination of Solids

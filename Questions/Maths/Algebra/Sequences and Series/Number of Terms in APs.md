@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-number-of-terms-in-aps
+code: q_TWmCWLzOnF
 questionType: exercise
 ---
 # Number of Terms in APs

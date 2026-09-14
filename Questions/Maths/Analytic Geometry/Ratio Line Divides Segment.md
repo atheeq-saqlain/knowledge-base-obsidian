@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-ratio-line-divides-segment
+code: q_0Uzztg99c6
 questionType: exercise
 ---
 # Ratio Line Divides Segment

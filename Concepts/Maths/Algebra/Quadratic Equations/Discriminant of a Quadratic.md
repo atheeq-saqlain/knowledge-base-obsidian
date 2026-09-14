@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-discriminant-of-a-quadratic
+code: c_QRC6jlgDUh
 kind: schema
 ---
 # Discriminant of a Quadratic

@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-20th-term-from-last-of-ap
+code: q_AL7dXHv3oD
 questionType: exercise
 ---
 # 20th Term from Last of AP

@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-examples-of-similar-and-non-similar-figures
+code: q_BQDuJnHuto
 questionType: exercise
 ---
 # Examples of Similar and Non-Similar Figures

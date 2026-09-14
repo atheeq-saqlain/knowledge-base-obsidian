@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-silver-brooch-wire-and-sectors
+code: q_3vpgLy9AGp
 questionType: exercise
 ---
 # Silver Brooch Wire and Sectors

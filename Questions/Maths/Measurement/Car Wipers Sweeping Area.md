@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-car-wipers-sweeping-area
+code: q_ipc8R4B7zb
 questionType: exercise
 ---
 # Car Wipers Sweeping Area

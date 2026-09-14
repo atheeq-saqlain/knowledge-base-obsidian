@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-area-of-sector-radius-6-angle-60
+code: q_MhOPRMcuPF
 questionType: exercise
 ---
 # Area of Sector Radius 6 Angle 60

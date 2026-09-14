@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-multiples-of-4-between-10-and-250
+code: q_fHtmt7Y0D0
 questionType: exercise
 ---
 # Multiples of 4 Between 10 and 250

@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-arithmetic-mean
+code: c_i7O4uhDSN2
 kind: schema
 ---
 # Arithmetic Mean

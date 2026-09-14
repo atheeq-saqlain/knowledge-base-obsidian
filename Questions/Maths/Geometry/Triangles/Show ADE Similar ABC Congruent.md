@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-show-ade-similar-abc-congruent
+code: q_cFykfDFPb3
 questionType: exercise
 ---
 # Show ADE Similar ABC Congruent

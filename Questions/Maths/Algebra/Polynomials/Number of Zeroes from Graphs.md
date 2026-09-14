@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-number-of-zeroes-from-graphs
+code: q_AUgOMjyE1a
 questionType: exercise
 ---
 # Number of Zeroes from Graphs

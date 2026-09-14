@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-other-zeroes-given-two-zeroes
+code: q_boX0BMrzyI
 questionType: exercise
 ---
 # Other Zeroes Given Two Zeroes

@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-first-negative-term-of-ap-121-117
+code: q_BcJGrEwGbw
 questionType: exercise
 ---
 # First Negative Term of AP 121 117

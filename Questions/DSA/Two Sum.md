@@ -1,5 +1,5 @@
 ---
-slug: dsa-two-sum
+code: q_j7Z1BEfUdQ
 questionType:
 ---
 # Two Sum

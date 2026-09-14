@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-midpoints-of-rectangle-form-rhombus
+code: q_9t5b62eL4I
 questionType: exercise
 ---
 # Midpoints of Rectangle Form Rhombus

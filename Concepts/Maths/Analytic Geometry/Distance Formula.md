@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-distance-formula
+code: c_797ptRiGNs
 kind: schema
 ---
 # Distance Formula

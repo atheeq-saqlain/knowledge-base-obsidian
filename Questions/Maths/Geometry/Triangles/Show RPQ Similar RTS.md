@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-show-rpq-similar-rts
+code: q_xsK0Yaoxzd
 questionType: exercise
 ---
 # Show RPQ Similar RTS

@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-two-numbers-sum-27-product-182
+code: q_zZMaF0R0Pf
 questionType: exercise
 ---
 # Two Numbers Sum 27 Product 182

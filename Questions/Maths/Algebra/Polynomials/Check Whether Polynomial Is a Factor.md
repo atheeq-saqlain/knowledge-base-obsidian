@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-check-whether-polynomial-is-a-factor
+code: q_FIt7SOVbBJ
 questionType: exercise
 ---
 # Check Whether Polynomial Is a Factor

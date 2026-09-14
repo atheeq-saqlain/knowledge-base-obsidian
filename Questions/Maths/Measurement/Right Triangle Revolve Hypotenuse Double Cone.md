@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-right-triangle-revolve-hypotenuse-double-cone
+code: q_NhRo5cWOEN
 questionType: exercise
 ---
 # Right Triangle Revolve Hypotenuse Double Cone

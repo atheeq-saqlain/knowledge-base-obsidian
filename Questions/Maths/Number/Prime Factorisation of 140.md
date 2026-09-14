@@ -1,5 +1,5 @@
 ---
-slug: maths-number-prime-factorisation-of-140
+code: q_1cQWt2FhOb
 questionType: exercise
 ---
 # Prime Factorisation of 140

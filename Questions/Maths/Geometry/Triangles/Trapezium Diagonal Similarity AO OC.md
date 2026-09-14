@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-trapezium-diagonal-similarity-ao-oc
+code: q_c5tSUBu6BO
 questionType: exercise
 ---
 # Trapezium Diagonal Similarity AO OC

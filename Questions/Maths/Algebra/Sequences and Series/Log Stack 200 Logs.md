@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-log-stack-200-logs
+code: q_JFV60D9zNa
 questionType: exercise
 ---
 # Log Stack 200 Logs

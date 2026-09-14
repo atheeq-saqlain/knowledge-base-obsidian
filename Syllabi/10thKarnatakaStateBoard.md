@@ -1,5 +1,5 @@
 ---
-slug: karnataka-10-maths
+code: s_VqukYHJ0WH
 label: KSEEB-10-MATH
 grade: 10
 status: draft

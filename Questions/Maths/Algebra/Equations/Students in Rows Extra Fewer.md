@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-students-in-rows-extra-fewer
+code: q_njW3gcxVdn
 questionType: exercise
 ---
 # Students in Rows Extra Fewer

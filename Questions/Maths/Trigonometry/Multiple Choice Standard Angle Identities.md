@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-multiple-choice-standard-angle-identities
+code: q_BtCI9QLDou
 questionType: exercise
 ---
 # Multiple Choice Standard Angle Identities

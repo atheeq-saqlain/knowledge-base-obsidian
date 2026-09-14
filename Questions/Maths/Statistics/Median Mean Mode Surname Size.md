@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-median-mean-mode-surname-size
+code: q_T2tq7L22mR
 questionType: exercise
 ---
 # Median Mean Mode Surname Size

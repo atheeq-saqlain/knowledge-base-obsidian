@@ -1,5 +1,5 @@
 ---
-slug: dsa-unique-paths
+code: q_nEVf28ZfKw
 questionType: medium
 ---
 

@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-perpendicular-to-tangent-through-centre
+code: q_8wrtWIUSYD
 questionType: exercise
 ---
 # Perpendicular to Tangent Through Centre

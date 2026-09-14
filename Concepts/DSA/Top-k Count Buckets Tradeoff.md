@@ -1,5 +1,5 @@
 ---
-slug: dsa-top-k-count-buckets-tradeoff
+code: c_yuWypiHPY0
 kind: principle
 ---
 # Top-k Count Buckets Tradeoff

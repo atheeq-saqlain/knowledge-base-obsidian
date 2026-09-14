@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-mean-of-grouped-data
+code: c_6XQqSBl2pr
 kind: schema
 ---
 # Mean of Grouped Data

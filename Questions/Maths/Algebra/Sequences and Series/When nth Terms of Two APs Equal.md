@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-when-nth-terms-of-two-aps-equal
+code: q_CbVoNc08iW
 questionType: exercise
 ---
 # When nth Terms of Two APs Equal

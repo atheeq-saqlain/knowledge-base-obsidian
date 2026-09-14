@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-letter-die-faces-a-b-c-d-e-a
+code: q_KAN7ZzN71n
 questionType: exercise
 ---
 # Letter Die Faces A B C D E A

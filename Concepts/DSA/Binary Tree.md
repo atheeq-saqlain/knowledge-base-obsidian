@@ -1,5 +1,5 @@
 ---
-slug: dsa-binary-tree
+code: c_A5j1T6frSI
 kind: representation
 ---
 

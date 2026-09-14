@@ -1,5 +1,5 @@
 ---
-slug: dsa-optimal-substructure
+code: c_dlYrevP2To
 kind: principle
 ---
 # Optimal Substructure

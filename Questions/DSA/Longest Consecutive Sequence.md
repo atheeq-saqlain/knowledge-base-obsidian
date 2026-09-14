@@ -1,5 +1,5 @@
 ---
-slug: dsa-longest-consecutive-sequence
+code: q_whKn43mwCg
 questionType:
 ---
 

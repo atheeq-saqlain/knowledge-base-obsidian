@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-sequences-defined-by-nth-term-are-aps
+code: q_G9gqbsPkop
 questionType: exercise
 ---
 # Sequences Defined by nth Term are APs

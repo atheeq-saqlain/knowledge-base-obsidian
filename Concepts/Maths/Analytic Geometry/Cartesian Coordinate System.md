@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-cartesian-coordinate-system
+code: c_JmNBpvjslG
 kind: schema
 ---
 # Cartesian Coordinate System

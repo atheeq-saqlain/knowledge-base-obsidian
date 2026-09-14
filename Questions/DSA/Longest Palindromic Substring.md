@@ -1,5 +1,5 @@
 ---
-slug: dsa-longest-palindromic-substring
+code: q_x8Eafcz4kN
 questionType: medium
 ---
 

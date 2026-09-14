@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-equations-reducible-to-linear-form
+code: c_k7JPMuoTan
 kind: schema
 ---
 # Equations Reducible to Linear Form

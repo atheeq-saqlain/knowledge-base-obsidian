@@ -1,5 +1,5 @@
 ---
-slug: dsa-minimum-window-substring
+code: q_zPgjbwy9tI
 questionType: medium
 ---
 

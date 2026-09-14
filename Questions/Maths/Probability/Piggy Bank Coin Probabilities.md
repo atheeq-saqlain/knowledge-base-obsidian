@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-piggy-bank-coin-probabilities
+code: q_scy37wGxTy
 questionType: exercise
 ---
 # Piggy Bank Coin Probabilities

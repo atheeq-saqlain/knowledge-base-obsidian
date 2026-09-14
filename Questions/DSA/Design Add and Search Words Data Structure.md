@@ -1,5 +1,5 @@
 ---
-slug: dsa-design-add-and-search-words-data-structure
+code: q_cFyuDULhB7
 questionType: medium
 ---
 

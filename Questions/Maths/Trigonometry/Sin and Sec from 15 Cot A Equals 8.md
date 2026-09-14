@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-sin-and-sec-from-15-cot-a-equals-8
+code: q_yoyKO20gtq
 questionType: exercise
 ---
 # Sin and Sec from 15 Cot A Equals 8

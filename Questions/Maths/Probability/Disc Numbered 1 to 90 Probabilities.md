@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-disc-numbered-1-to-90-probabilities
+code: q_8suhjIMrHi
 questionType: exercise
 ---
 # Disc Numbered 1 to 90 Probabilities

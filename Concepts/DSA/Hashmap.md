@@ -1,5 +1,5 @@
 ---
-slug: dsa-hashmap
+code: c_kqSbyonQM0
 kind: representation
 ---
 

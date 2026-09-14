@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-secant-to-a-circle
+code: c_NDHj2ezuqI
 kind: fact
 ---
 # Secant to a Circle

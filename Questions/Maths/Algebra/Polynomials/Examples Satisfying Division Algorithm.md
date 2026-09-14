@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-examples-satisfying-division-algorithm
+code: q_7tLBOUDaVa
 questionType: exercise
 ---
 # Examples Satisfying Division Algorithm

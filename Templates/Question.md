@@ -1,5 +1,5 @@
 ---
-slug:
+code:
 questionType:
 ---
 # {{title}}
@@ -28,4 +28,5 @@ roles : primary | supporting
 |       |      1 |  false   | primary |
 
 <!-- Link concepts in labels with [[wikilinks]]. role: primary | supporting -->
-<!-- Set slug from the path under Questions/ (subject-domain-subdomain-title). Place the file in the same topic folder as the Core Concept. See README. -->
+<!-- code: opaque stable id (q_…). Set once; never change on move/rename. -->
+<!-- Place the file in the same topic folder as the Core Concept. -->

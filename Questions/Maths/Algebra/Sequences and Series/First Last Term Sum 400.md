@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-first-last-term-sum-400
+code: q_jzbFLLoGFC
 questionType: exercise
 ---
 # First Last Term Sum 400

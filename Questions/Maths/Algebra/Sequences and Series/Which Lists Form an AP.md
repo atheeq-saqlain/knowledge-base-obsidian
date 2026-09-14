@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-which-lists-form-an-ap
+code: q_qouX3PEUX7
 questionType: exercise
 ---
 # Which Lists Form an AP

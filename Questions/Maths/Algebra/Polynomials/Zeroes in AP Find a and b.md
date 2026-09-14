@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-zeroes-in-ap-find-a-and-b
+code: q_XPApnvL0g9
 questionType: exercise
 ---
 # Zeroes in AP Find a and b

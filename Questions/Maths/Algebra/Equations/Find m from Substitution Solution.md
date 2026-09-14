@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-find-m-from-substitution-solution
+code: q_8R1xOSNyk9
 questionType: exercise
 ---
 # Find m from Substitution Solution

@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-equilateral-abc-bde-area-ratio
+code: q_L8OjXPkdvK
 questionType: exercise
 ---
 # Equilateral ABC BDE Area Ratio

@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-consecutive-integers-squares-sum-365
+code: q_RtNwWXMNNs
 questionType: exercise
 ---
 # Consecutive Integers Squares Sum 365

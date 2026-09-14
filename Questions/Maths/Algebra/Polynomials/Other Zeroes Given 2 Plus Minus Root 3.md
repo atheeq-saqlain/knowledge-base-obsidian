@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-other-zeroes-given-2-plus-minus-root-3
+code: q_yLDJcteKnf
 questionType: exercise
 ---
 # Other Zeroes Given 2 Plus Minus Root 3

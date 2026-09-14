@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-30th-term-of-ap-10-7-4
+code: q_fRhzS7aZSf
 questionType: exercise
 ---
 # 30th Term of AP 10 7 4

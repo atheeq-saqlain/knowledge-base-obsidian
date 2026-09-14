@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-express-sin-sec-tan-in-terms-of-cot
+code: q_ND2I5KLupk
 questionType: exercise
 ---
 # Express Sin Sec Tan in Terms of Cot

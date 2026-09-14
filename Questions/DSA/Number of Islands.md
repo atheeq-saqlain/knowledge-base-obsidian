@@ -1,5 +1,5 @@
 ---
-slug: dsa-number-of-islands
+code: q_o6JJc50rNQ
 questionType: medium
 ---
 

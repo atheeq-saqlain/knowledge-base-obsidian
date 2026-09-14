@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-trigonometric-identities
+code: c_HHzPraQmnK
 kind: schema
 ---
 # Trigonometric Identities

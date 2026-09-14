@@ -1,5 +1,5 @@
 ---
-slug: dsa-kadane-algorithm
+code: c_NFkMVxvLGv
 kind: schema
 ---
 

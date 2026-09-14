@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-circus-artist-rope-height-of-pole
+code: q_h7xuVRR1Fc
 questionType: exercise
 ---
 # Circus Artist Rope Height of Pole

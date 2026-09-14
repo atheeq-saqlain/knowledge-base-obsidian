@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-value-of-k-collinear-points
+code: q_SDww6KExQN
 questionType: exercise
 ---
 # Value of k Collinear Points

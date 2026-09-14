@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-completing-the-square
+code: c_f4mY3xAwra
 kind: schema
 ---
 # Completing the Square

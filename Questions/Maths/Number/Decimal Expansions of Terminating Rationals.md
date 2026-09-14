@@ -1,5 +1,5 @@
 ---
-slug: maths-number-decimal-expansions-of-terminating-rationals
+code: q_zHx205e1Qb
 questionType: exercise
 ---
 # Decimal Expansions of Terminating Rationals

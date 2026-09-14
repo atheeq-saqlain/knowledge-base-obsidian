@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-two-planes-distance-after-flight
+code: q_5E5B4k6ori
 questionType: exercise
 ---
 # Two Planes Distance After Flight

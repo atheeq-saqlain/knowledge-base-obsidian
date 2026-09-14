@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-trapezium-diagonal-ratio-ao-bo
+code: q_AGNI57PJN3
 questionType: exercise
 ---
 # Trapezium Diagonal Ratio AO BO

@@ -1,5 +1,5 @@
 ---
-slug: dsa-pair-sum-complement-reduction
+code: c_uy8GtnkSGA
 kind: principle
 ---
 # Pair-sum Complement Reduction

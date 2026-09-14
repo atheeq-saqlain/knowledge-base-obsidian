@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-zeroes-and-coefficients-of-a-cubic
+code: c_usubfLwotq
 kind: schema
 ---
 # Zeroes and Coefficients of a Cubic

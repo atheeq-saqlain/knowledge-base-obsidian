@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-divide-polynomials-find-quotient-remainder
+code: q_ggrhrmqiR7
 questionType: exercise
 ---
 # Divide Polynomials Find Quotient Remainder

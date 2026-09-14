@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-mode-of-grouped-data
+code: c_I4QZScSsoj
 kind: schema
 ---
 # Mode of Grouped Data

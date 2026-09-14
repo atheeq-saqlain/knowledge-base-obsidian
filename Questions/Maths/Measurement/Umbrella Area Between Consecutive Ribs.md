@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-umbrella-area-between-consecutive-ribs
+code: q_YX7gEYZyLQ
 questionType: exercise
 ---
 # Umbrella Area Between Consecutive Ribs

@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-points-of-trisection-of-segment
+code: q_GGldeVzv8Y
 questionType: exercise
 ---
 # Points of Trisection of Segment

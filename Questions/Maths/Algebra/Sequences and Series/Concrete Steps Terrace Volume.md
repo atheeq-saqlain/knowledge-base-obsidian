@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-concrete-steps-terrace-volume
+code: q_317HNKSMs7
 questionType: exercise
 ---
 # Concrete Steps Terrace Volume

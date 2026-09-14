@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-first-term-and-common-difference-of-aps
+code: q_fpzDWj9Ekx
 questionType: exercise
 ---
 # First Term and Common Difference of APs

@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-rectangular-mango-grove
+code: q_cofz7lCKid
 questionType: exercise
 ---
 # Rectangular Mango Grove

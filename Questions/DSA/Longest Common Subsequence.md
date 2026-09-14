@@ -1,5 +1,5 @@
 ---
-slug: dsa-longest-common-subsequence
+code: q_Ige3DFc0OZ
 questionType: medium
 ---
 

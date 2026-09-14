@@ -1,5 +1,5 @@
 ---
-slug: dsa-maximum-subarray
+code: q_rZQZtsxUX7
 questionType: medium
 ---
 

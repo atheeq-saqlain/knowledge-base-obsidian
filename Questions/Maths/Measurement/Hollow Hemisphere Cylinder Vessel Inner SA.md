@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-hollow-hemisphere-cylinder-vessel-inner-sa
+code: q_QWC0NrjOgW
 questionType: exercise
 ---
 # Hollow Hemisphere Cylinder Vessel Inner SA

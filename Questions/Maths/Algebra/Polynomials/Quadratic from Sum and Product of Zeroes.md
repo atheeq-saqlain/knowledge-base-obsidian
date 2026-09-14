@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-quadratic-from-sum-and-product-of-zeroes
+code: q_ZoPmxbkfjg
 questionType: exercise
 ---
 # Quadratic from Sum and Product of Zeroes

@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-box-red-white-green-marble-probabilities
+code: q_7hq8tDwtqs
 questionType: exercise
 ---
 # Box Red White Green Marble Probabilities

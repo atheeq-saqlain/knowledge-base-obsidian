@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-isosceles-right-ab-squared
+code: q_CI11VpasxY
 questionType: exercise
 ---
 # Isosceles Right AB Squared

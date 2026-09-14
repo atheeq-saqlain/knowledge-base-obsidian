@@ -1,5 +1,5 @@
 ---
-slug: dsa-validate-binary-search-tree
+code: q_Tau9pFS8WG
 questionType: medium
 ---
 

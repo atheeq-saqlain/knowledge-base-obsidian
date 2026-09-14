@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-third-and-seventh-terms-product-8
+code: q_ipl5a7WERq
 questionType: exercise
 ---
 # Third and Seventh Terms Product 8

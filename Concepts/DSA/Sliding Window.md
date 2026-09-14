@@ -1,5 +1,5 @@
 ---
-slug: dsa-sliding-window
+code: c_QKMU4Z7Opb
 kind: schema
 ---
 

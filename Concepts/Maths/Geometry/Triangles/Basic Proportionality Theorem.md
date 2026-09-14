@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-basic-proportionality-theorem
+code: c_I6d9rDfKJ4
 kind: schema
 ---
 # Basic Proportionality Theorem

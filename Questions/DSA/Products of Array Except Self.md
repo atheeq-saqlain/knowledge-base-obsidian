@@ -1,5 +1,5 @@
 ---
-slug: dsa-products-of-array-except-self
+code: q_nq4YL4loA1
 questionType:
 ---
 

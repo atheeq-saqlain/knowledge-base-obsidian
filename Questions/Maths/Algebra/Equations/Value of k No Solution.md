@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-value-of-k-no-solution
+code: q_Dgrlh2nXd6
 questionType: exercise
 ---
 # Value of k No Solution

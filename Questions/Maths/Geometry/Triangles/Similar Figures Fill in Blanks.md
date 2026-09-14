@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-similar-figures-fill-in-blanks
+code: q_wtXBTt7vT2
 questionType: exercise
 ---
 # Similar Figures Fill in Blanks

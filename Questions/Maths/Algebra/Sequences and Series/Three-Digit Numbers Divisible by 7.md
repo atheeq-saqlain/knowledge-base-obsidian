@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-three-digit-numbers-divisible-by-7
+code: q_vkKpS6dxbT
 questionType: exercise
 ---
 # Three-Digit Numbers Divisible by 7

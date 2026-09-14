@@ -1,5 +1,5 @@
 ---
-slug:
+code:
 kind: schema
 ---
 # {{title}}
@@ -19,5 +19,5 @@ kind: fact | representation | operation | schema | principle
   representation / operation = foundations
   principle    = why / when / tradeoffs
   fact         = declarative knowledge
-Set slug from the path under Concepts/ (subject-domain-subdomain-title). See README. Keep it aligned with the path if you move the note.
+code: opaque stable id (c_…). Set once (or via backfill/sync); never change on move/rename.
 -->

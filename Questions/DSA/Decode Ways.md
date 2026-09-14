@@ -1,5 +1,5 @@
 ---
-slug: dsa-decode-ways
+code: q_YMDciws2Sc
 questionType: medium
 ---
 

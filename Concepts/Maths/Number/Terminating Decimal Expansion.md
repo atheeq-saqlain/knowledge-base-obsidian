@@ -1,5 +1,5 @@
 ---
-slug: maths-number-terminating-decimal-expansion
+code: c_rCwlwtzvw4
 kind: principle
 ---
 # Terminating Decimal Expansion

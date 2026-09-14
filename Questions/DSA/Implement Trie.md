@@ -1,5 +1,5 @@
 ---
-slug: dsa-implement-trie
+code: q_Mx00sTVPiQ
 questionType: medium
 ---
 

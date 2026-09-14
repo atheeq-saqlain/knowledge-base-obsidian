@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-probability-of-not-e-given-0-05
+code: q_238OAE1kle
 questionType: exercise
 ---
 # Probability of Not E Given 0.05

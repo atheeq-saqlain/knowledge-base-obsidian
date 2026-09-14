@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-rectangular-field-sides-from-diagonal
+code: q_b5c5mRs4pP
 questionType: exercise
 ---
 # Rectangular Field Sides from Diagonal

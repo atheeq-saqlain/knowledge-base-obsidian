@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-ca-squared-equals-cb-times-cd
+code: q_4rwvjLz5qq
 questionType: exercise
 ---
 # CA Squared Equals CB Times CD

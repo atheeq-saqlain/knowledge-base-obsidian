@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-trapezium-areas-aob-cod-ratio
+code: q_cjLIzjT9v1
 questionType: exercise
 ---
 # Trapezium Areas AOB COD Ratio

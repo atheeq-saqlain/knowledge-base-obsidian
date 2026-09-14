@@ -1,5 +1,5 @@
 ---
-slug: maths-number-can-6-to-the-n-end-with-zero
+code: q_23T7HPd6nJ
 questionType: exercise
 ---
 # Can 6 to the n End with Zero

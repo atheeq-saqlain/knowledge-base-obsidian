@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-prove-bf-fe-equals-be-ec
+code: q_jQJiq2rNwN
 questionType: exercise
 ---
 # Prove BF FE Equals BE EC

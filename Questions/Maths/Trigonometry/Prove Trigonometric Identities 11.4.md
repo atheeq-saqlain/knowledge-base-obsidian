@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-prove-trigonometric-identities-11-4
+code: q_RMBpzGmaym
 questionType: exercise
 ---
 # Prove Trigonometric Identities 11.4

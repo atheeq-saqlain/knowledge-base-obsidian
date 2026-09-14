@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-distance-between-two-points
+code: q_f3dVz1ptfR
 questionType: exercise
 ---
 # Distance Between Two Points

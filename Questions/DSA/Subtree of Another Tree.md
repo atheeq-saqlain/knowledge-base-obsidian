@@ -1,5 +1,5 @@
 ---
-slug: dsa-subtree-of-another-tree
+code: q_Es30t9bbWj
 questionType: medium
 ---
 

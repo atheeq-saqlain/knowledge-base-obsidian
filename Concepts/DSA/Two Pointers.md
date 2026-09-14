@@ -1,5 +1,5 @@
 ---
-slug: dsa-two-pointers
+code: c_RNugpIx75N
 kind: schema
 ---
 

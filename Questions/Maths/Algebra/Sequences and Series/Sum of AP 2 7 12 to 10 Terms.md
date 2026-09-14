@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-sum-of-ap-2-7-12-to-10-terms
+code: q_qa3s4e2TNa
 questionType: exercise
 ---
 # Sum of AP 2 7 12 to 10 Terms

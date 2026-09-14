@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-express-sin-67-plus-cos-75-below-45
+code: q_GJo03pTHcq
 questionType: exercise
 ---
 # Express Sin 67 Plus Cos 75 Below 45

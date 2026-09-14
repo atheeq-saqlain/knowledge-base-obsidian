@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-ice-cream-cones-from-cylinder
+code: q_I73q7SlGS2
 questionType: exercise
 ---
 # Ice Cream Cones from Cylinder

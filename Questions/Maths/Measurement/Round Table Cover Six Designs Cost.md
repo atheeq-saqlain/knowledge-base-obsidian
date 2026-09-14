@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-round-table-cover-six-designs-cost
+code: q_ZwZlef4gzO
 questionType: exercise
 ---
 # Round Table Cover Six Designs Cost

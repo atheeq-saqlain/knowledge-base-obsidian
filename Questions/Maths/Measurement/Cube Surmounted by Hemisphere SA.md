@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-cube-surmounted-by-hemisphere-sa
+code: q_3CzsuPTqhV
 questionType: exercise
 ---
 # Cube Surmounted by Hemisphere SA

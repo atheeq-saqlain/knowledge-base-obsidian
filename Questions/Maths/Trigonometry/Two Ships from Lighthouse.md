@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-two-ships-from-lighthouse
+code: q_FQ48GS5pbx
 questionType: exercise
 ---
 # Two Ships from Lighthouse

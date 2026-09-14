@@ -1,5 +1,5 @@
 ---
-slug: dsa-blind-75
+code: s_JeovVANFeK
 label: NEETCODE-BLIND-75
 grade: interview
 status: active

@@ -1,5 +1,5 @@
 ---
-slug: dsa-merge-two-sorted-lists
+code: q_6tmVkv1sXH
 questionType: medium
 ---
 

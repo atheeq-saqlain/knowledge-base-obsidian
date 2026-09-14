@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-mean-so2-concentration
+code: q_OdCVlRwqWu
 questionType: exercise
 ---
 # Mean SO2 Concentration

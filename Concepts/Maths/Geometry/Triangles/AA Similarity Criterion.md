@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-aa-similarity-criterion
+code: c_3tmAcwj4Ck
 kind: schema
 ---
 # AA Similarity Criterion

@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-cone-frustum-drawn-into-wire-length
+code: q_o9NxyzBRGX
 questionType: exercise
 ---
 # Cone Frustum Drawn into Wire Length

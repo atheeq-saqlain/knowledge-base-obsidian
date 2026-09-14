@@ -1,5 +1,5 @@
 ---
-slug: networking-network-segmentation-and-subnets
+code: c_QXGzcd8OjL
 ---
 
 ## Definition

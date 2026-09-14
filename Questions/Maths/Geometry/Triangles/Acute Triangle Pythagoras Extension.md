@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-acute-triangle-pythagoras-extension
+code: q_rUzCN40eYG
 questionType: exercise
 ---
 # Acute Triangle Pythagoras Extension

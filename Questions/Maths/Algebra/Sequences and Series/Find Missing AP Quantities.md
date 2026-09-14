@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-find-missing-ap-quantities
+code: q_52xOAfTKW8
 questionType: exercise
 ---
 # Find Missing AP Quantities

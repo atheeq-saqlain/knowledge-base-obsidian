@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-shaded-semicircle-minus-triangle-qr
+code: q_xKccxgTDfQ
 questionType: exercise
 ---
 # Shaded Semicircle Minus Triangle QR

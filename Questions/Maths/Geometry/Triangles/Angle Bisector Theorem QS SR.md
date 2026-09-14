@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-angle-bisector-theorem-qs-sr
+code: q_jUd5226NXv
 questionType: exercise
 ---
 # Angle Bisector Theorem QS SR

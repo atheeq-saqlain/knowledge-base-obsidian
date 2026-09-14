@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-consistent-or-inconsistent-pairs
+code: q_0LkxOTSc0M
 questionType: exercise
 ---
 # Consistent or Inconsistent Pairs

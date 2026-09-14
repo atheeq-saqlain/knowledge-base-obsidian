@@ -1,5 +1,5 @@
 ---
-slug: dsa-longest-repeating-character-replacement
+code: q_Boov4a1AWX
 questionType: medium
 ---
 

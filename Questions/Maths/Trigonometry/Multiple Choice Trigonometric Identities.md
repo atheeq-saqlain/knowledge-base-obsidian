@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-multiple-choice-trigonometric-identities
+code: q_RW7wkdz4As
 questionType: exercise
 ---
 # Multiple Choice Trigonometric Identities

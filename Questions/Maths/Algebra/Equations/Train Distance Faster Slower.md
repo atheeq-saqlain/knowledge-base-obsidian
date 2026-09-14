@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-train-distance-faster-slower
+code: q_WUfWgkxggg
 questionType: exercise
 ---
 # Train Distance Faster Slower

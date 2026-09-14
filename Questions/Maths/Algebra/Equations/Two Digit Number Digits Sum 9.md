@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-two-digit-number-digits-sum-9
+code: q_bxZBBKye4M
 questionType: exercise
 ---
 # Two Digit Number Digits Sum 9

@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-angle-b-in-triangle-sides-6-root-3
+code: q_TnnYLiP7dm
 questionType: exercise
 ---
 # Angle B in Triangle Sides 6 Root 3

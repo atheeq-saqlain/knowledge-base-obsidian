@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-missing-terms-in-an-ap
+code: q_QhcM6xgzFn
 questionType: exercise
 ---
 # Missing Terms in an AP

@@ -1,5 +1,5 @@
 ---
-slug: dsa-non-overlapping-intervals
+code: q_18Rgntmr5W
 questionType: medium
 ---
 

@@ -1,5 +1,5 @@
 ---
-slug: dsa-jump-game
+code: q_uUMY9abE0v
 questionType: medium
 ---
 

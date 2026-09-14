@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-consistency-of-linear-equations
+code: c_i0YyhGTg5I
 kind: principle
 ---
 # Consistency of Linear Equations

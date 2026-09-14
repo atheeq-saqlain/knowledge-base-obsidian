@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-type-of-quadrilateral-from-points
+code: q_cHPUXWKdUn
 questionType: exercise
 ---
 # Type of Quadrilateral from Points

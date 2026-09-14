@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-cross-multiplication-unique-solution
+code: q_UX9xD45uwJ
 questionType: exercise
 ---
 # Cross Multiplication Unique Solution

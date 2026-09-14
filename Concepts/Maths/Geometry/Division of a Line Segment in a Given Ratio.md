@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-division-of-a-line-segment-in-a-given-ratio
+code: c_nRhr4ubUEf
 kind: schema
 ---
 # Division of a Line Segment in a Given Ratio

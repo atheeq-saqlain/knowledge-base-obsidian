@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-angle-of-elevation
+code: c_FIymLfOlzO
 kind: schema
 ---
 # Angle of Elevation

@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-find-k-and-a-from-remainder
+code: q_JeRoHEBC9b
 questionType: exercise
 ---
 # Find k and a from Remainder

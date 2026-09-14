@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-zeroes-of-quadratic-polynomials-verify
+code: q_OKbolm9jLm
 questionType: exercise
 ---
 # Zeroes of Quadratic Polynomials Verify

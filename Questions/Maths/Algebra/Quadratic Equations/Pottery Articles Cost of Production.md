@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-pottery-articles-cost-of-production
+code: q_TDIrxGogzs
 questionType: exercise
 ---
 # Pottery Articles Cost of Production

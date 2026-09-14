@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-isosceles-triangle-from-three-points
+code: q_WwoZ5qyvvR
 questionType: exercise
 ---
 # Isosceles Triangle from Three Points

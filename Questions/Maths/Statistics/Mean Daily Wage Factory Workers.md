@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-mean-daily-wage-factory-workers
+code: q_ffjJq7XGNN
 questionType: exercise
 ---
 # Mean Daily Wage Factory Workers

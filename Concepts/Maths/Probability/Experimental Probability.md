@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-experimental-probability
+code: c_jnwmLF4XJc
 kind: schema
 ---
 # Experimental Probability

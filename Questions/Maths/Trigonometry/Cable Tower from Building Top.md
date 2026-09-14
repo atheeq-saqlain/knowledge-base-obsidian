@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-cable-tower-from-building-top
+code: q_907Rd2bylS
 questionType: exercise
 ---
 # Cable Tower from Building Top

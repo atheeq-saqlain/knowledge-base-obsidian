@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-show-pqs-similar-tqr
+code: q_UBRbsBoLAy
 questionType: exercise
 ---
 # Show PQS Similar TQR

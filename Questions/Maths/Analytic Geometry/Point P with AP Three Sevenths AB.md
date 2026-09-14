@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-point-p-with-ap-three-sevenths-ab
+code: q_jkg2F4qt1f
 questionType: exercise
 ---
 # Point P with AP Three Sevenths AB

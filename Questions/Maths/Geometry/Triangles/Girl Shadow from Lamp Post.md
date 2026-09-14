@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-girl-shadow-from-lamp-post
+code: q_oRDRRmrqVK
 questionType: exercise
 ---
 # Girl Shadow from Lamp Post

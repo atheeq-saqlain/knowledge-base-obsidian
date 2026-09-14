@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-statue-on-pedestal-height
+code: q_GveyMzeslT
 questionType: exercise
 ---
 # Statue on Pedestal Height

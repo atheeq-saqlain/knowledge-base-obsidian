@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-terms-from-sum-4n-minus-n-squared
+code: q_4P4wLbh9At
 questionType: exercise
 ---
 # Terms from Sum 4n Minus n Squared

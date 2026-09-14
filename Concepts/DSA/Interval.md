@@ -1,5 +1,5 @@
 ---
-slug: dsa-interval
+code: c_PXvQsX57Qm
 kind: schema
 ---
 

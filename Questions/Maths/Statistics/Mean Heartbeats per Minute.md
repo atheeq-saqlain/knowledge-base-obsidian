@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-mean-heartbeats-per-minute
+code: q_wa6OiwO4fM
 questionType: exercise
 ---
 # Mean Heartbeats per Minute

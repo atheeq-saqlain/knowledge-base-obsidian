@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-difference-of-squares-180
+code: q_W7eBihgUSs
 questionType: exercise
 ---
 # Difference of Squares 180

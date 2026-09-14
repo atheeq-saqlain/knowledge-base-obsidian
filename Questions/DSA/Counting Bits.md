@@ -1,5 +1,5 @@
 ---
-slug: dsa-counting-bits
+code: q_ddnS9XGHKP
 questionType: medium
 ---
 

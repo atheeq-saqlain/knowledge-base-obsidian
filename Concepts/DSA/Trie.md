@@ -1,5 +1,5 @@
 ---
-slug: dsa-trie
+code: c_q0EO0KWZXX
 kind: schema
 ---
 

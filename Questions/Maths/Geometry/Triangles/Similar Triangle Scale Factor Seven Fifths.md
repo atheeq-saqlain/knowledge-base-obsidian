@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-similar-triangle-scale-factor-seven-fifths
+code: q_w8oTYR8Cut
 questionType: exercise
 ---
 # Similar Triangle Scale Factor Seven Fifths

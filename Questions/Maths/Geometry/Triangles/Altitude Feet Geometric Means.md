@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-altitude-feet-geometric-means
+code: q_DpeWVknXgo
 questionType: exercise
 ---
 # Altitude Feet Geometric Means

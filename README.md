@@ -1,8 +1,8 @@
 # Knowledge Base (Obsidian)
 
-Visual workspace for designing the **Knowledge Tracker** catalog. Draft concepts and questions here, explore relationships in graph/backlinks, then sync into MongoDB by **slug**.
+Visual workspace for designing the **Knowledge Tracker** catalog. Draft concepts and questions here, explore relationships in graph/backlinks, then sync into MongoDB by **`code`**.
 
-Obsidian is the authoring / visualization layer. The DB is the runtime source of truth for learning. Sync is **one-way**: vault → MongoDB (upsert by slug).
+Obsidian is the authoring / visualization layer. The DB is the runtime source of truth for learning. Sync is **one-way**: vault → MongoDB (upsert by `code`).
 
 ## What you're modeling
 
@@ -26,7 +26,7 @@ Frontmatter:
 
 ```yaml
 ---
-slug: dsa-sliding-window
+code: c_V1StGXR8_Z
 kind: schema
 ---
 ```
@@ -87,38 +87,38 @@ Suggested peers for other subjects (illustrative, not mandatory): Physics — `M
 
 DSA may stay flat under `Concepts/DSA/` until a cluster (for example graphs vs DP) is large enough to split.
 
-## Slugs
+## Catalog codes
 
-Every concept and question note has a **slug** in frontmatter. Set it when you create the note. Slugs are the join key for sync.
+Every concept, question, and syllabus note has a **`code`** in frontmatter. Codes are the **only** catalog join key for sync and APIs. They are opaque, unique across the whole catalog, and **never** derived from folder path or title.
 
-**Generation logic** (for agents or manual authoring):
+| Type | Prefix | Example |
+|------|--------|---------|
+| Concept | `c_` | `c_V1StGXR8_Z` |
+| Question | `q_` | `q_Kq5xNw7mP2` |
+| Syllabus | `s_` | `s_9f3Qm2LxYk` |
 
-1. Take the path under `Concepts/` or `Questions/`, without the extension.
-2. Slugify **each** segment (lowercase kebab-case: trim, replace spaces with `-`, strip punctuation).
-3. Join segments with `-`.
+**Rules:**
 
-```text
-Concepts/Maths/Algebra/Sequences and Series/nth Term of an AP.md
-→ maths-algebra-sequences-and-series-nth-term-of-an-ap
+1. Set `code` once when the note is created (or let backfill/sync generate it).
+2. **Never** change `code` when you rename the note or move folders.
+3. Prefer generating codes via:
 
-Questions/Physics/Mechanics/Kinematics/SUVAT Horizontal Throw.md
-→ physics-mechanics-kinematics-suvat-horizontal-throw
-
-Concepts/DSA/Sliding Window.md
-→ dsa-sliding-window
+```bash
+# from knowledge-tracker-server
+npm run backfill-obsidian-codes
+npm run backfill-catalog-codes   # MongoDB docs missing code
 ```
 
-4. Prefer uniqueness across the vault; if a collision exists, append a short disambiguator.
-5. If you **move** a note to a new folder, update the slug to match the new path. Sync can still match an existing DB concept by **name** (and a question by **statement**) so a slug rename does not create a duplicate — but matching by slug is the steady state, so keep path and slug aligned.
-6. Do not encode board or grade in the slug (`maths-kseeb-10-ap` is wrong).
-
-Syllabus slugs stay independent of the catalog tree (e.g. `karnataka-10-maths`, `dsa-blind-75`).
+4. Sync **requires** a valid `code` and upserts by code only. Notes without `code` are skipped.
+5. Folder placement is organizational only — it does not affect identity.
+6. Do not encode board or grade in the code.
 
 ## Concept notes
 
 | Section / field | Purpose |
 | --------------- | ------- |
 | **Note title**  | Human-readable name → `Concept.name` |
+| **`code`**      | Opaque stable id (`c_…`) — sync join key |
 | **`kind`**      | See table above → `Concept.kind` |
 | **Definition**  | Precise, generic statement. Prefer standalone; add `[[wikilinks]]` only when another concept is **required**. Those links become `preRequisitConcepts` on sync |
 | **Description** | Elaboration and examples — **no wikilinks** |
@@ -149,8 +149,8 @@ Institutional learning paths (board, grade, exam, course). This is the **only** 
 | Section / field | Purpose                                                                                         |
 | --------------- | ----------------------------------------------------------------------------------------------- |
 | **Note title**  | → `Syllabus.name`                                                                               |
-| **`slug`**      | Stable join key (e.g. `dsa-blind-75`, `karnataka-10-maths`)                                     |
-| **`label`**     | Short code                                                                                      |
+| **`code`**      | Opaque stable id (`s_…`) — join key                                                             |
+| **`label`**     | Short display code (e.g. `KSEEB-10-MATH`, `dsa-blind-75`)                                        |
 | **`grade`**     | Grade / audience label                                                                          |
 | **`status`**    | `draft` \| `active`                                                                             |
 | **Summary**     | Description of the path                                                                         |
@@ -172,6 +172,6 @@ DATABASE_URL=...
 npm run sync-obsidian
 ```
 
-If a note has no `slug` in frontmatter, sync derives one from its path under `Concepts/` or `Questions/`. Prefer setting the slug explicitly so it stays stable.
+If a note has no `code` in frontmatter, sync skips it (or you can run `npm run backfill-obsidian-codes` first). Prefer setting `code` once at create; never change it afterward.
 
 Optional one-shot retag helper (already applied for Blind 75): `node scripts/retag-blind75-kinds.js`

@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-median-divides-triangle-equal-areas
+code: q_EYZs58VVwj
 questionType: exercise
 ---
 # Median Divides Triangle Equal Areas

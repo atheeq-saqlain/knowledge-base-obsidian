@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-special-numbered-die-two-throws-probabilities
+code: q_N50FM35cGi
 questionType: exercise
 ---
 # Special Numbered Die Two Throws Probabilities

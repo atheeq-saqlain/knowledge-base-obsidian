@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-area-ade-scale-factor-one-fourth
+code: q_JCepAFEisC
 questionType: exercise
 ---
 # Area ADE Scale Factor One Fourth

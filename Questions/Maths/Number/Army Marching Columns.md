@@ -1,5 +1,5 @@
 ---
-slug: maths-number-army-marching-columns
+code: q_ZcVkgC5TP1
 questionType: exercise
 ---
 # Army Marching Columns

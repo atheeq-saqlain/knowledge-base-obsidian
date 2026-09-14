@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-certain-event
+code: c_3IwvBxsrf6
 kind: schema
 ---
 # Certain Event

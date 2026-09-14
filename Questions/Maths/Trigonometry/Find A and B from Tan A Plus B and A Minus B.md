@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-find-a-and-b-from-tan-a-plus-b-and-a-minus-b
+code: q_smhq5mJOoX
 questionType: exercise
 ---
 # Find A and B from Tan A Plus B and A Minus B

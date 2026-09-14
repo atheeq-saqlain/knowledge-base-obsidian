@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-cylinder-conical-cavity-remaining-sa
+code: q_QaEPlnlcsj
 questionType: exercise
 ---
 # Cylinder Conical Cavity Remaining SA

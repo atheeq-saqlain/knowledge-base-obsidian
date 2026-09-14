@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-more-than-ogive-wheat-production
+code: q_C5KXqtcFIz
 questionType: exercise
 ---
 # More Than Ogive Wheat Production

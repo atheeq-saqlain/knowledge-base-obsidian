@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-seven-cash-prizes-sum-700
+code: q_cbRruqZFP7
 questionType: exercise
 ---
 # Seven Cash Prizes Sum 700

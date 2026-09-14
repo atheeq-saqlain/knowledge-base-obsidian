@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-median-age-of-policyholders
+code: q_Ie9AVHWqgg
 questionType: exercise
 ---
 # Median Age of Policyholders

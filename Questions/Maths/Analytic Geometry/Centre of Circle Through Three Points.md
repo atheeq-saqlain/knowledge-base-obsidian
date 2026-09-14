@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-centre-of-circle-through-three-points
+code: q_DxUbwFtXwo
 questionType: exercise
 ---
 # Centre of Circle Through Three Points

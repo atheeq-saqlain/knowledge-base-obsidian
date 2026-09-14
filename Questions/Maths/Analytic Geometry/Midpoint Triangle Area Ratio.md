@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-midpoint-triangle-area-ratio
+code: q_xR7fKhq9Rg
 questionType: exercise
 ---
 # Midpoint Triangle Area Ratio

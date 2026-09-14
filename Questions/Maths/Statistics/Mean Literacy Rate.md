@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-mean-literacy-rate
+code: q_ZdmRqcTYTs
 questionType: exercise
 ---
 # Mean Literacy Rate

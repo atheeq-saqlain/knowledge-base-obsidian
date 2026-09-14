@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-sum-of-first-22-terms-d-7
+code: q_ZztLDRnyk0
 questionType: exercise
 ---
 # Sum of First 22 Terms d 7

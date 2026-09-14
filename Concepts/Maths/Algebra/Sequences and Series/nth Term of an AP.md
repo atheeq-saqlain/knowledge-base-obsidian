@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-nth-term-of-an-ap
+code: c_8qMATgItXj
 kind: schema
 ---
 # nth Term of an AP

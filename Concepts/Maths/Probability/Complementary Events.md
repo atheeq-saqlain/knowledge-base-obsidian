@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-complementary-events
+code: c_Kk1hZMILbe
 kind: schema
 ---
 # Complementary Events

@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-solve-by-substitution-x-plus-y-14
+code: q_YAxac8mQPn
 questionType: exercise
 ---
 # Solve by Substitution x Plus y 14

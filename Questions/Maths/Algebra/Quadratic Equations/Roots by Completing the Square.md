@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-roots-by-completing-the-square
+code: q_SVA0FsujH9
 questionType: exercise
 ---
 # Roots by Completing the Square

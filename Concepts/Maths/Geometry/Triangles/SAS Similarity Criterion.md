@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-sas-similarity-criterion
+code: c_KBlwGWliUN
 kind: schema
 ---
 # SAS Similarity Criterion

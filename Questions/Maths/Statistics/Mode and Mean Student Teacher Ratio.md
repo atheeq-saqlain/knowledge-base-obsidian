@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-mode-and-mean-student-teacher-ratio
+code: q_lxyhqTvidi
 questionType: exercise
 ---
 # Mode and Mean Student Teacher Ratio

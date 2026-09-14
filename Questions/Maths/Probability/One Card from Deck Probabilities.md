@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-one-card-from-deck-probabilities
+code: q_SCUqcfrrAS
 questionType: exercise
 ---
 # One Card from Deck Probabilities

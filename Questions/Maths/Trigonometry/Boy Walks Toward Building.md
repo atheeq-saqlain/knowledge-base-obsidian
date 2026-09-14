@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-boy-walks-toward-building
+code: q_IjM0F3707o
 questionType: exercise
 ---
 # Boy Walks Toward Building

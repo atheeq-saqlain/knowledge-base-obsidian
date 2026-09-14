@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-jacob-and-son-ages
+code: q_na5ZsenqVe
 questionType: exercise
 ---
 # Jacob and Son Ages

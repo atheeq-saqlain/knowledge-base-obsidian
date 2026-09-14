@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-zero-of-a-polynomial
+code: c_WTFWAI09ZH
 kind: schema
 ---
 # Zero of a Polynomial

@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-cone-hemisphere-in-cylinder-water-left
+code: q_d93dq9axoF
 questionType: exercise
 ---
 # Cone Hemisphere in Cylinder Water Left

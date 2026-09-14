@@ -1,5 +1,5 @@
 ---
-slug: maths-number-euclid-division-algorithm
+code: c_eZKahpZn2x
 kind: schema
 ---
 # Euclid Division Algorithm

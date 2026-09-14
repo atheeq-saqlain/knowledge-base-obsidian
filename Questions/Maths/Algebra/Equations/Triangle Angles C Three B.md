@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-triangle-angles-c-three-b
+code: q_URu4av0vvh
 questionType: exercise
 ---
 # Triangle Angles C Three B

@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-similar-triangle-scale-factor-two-thirds
+code: q_8HzuvQNl0k
 questionType: exercise
 ---
 # Similar Triangle Scale Factor Two Thirds

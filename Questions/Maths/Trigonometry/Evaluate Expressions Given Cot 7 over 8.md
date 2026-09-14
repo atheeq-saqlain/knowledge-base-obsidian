@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-evaluate-expressions-given-cot-7-over-8
+code: q_6GIQR6Qfu1
 questionType: exercise
 ---
 # Evaluate Expressions Given Cot 7 over 8

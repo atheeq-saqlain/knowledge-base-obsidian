@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-less-than-ogive-daily-income
+code: q_VHiXRjSfeS
 questionType: exercise
 ---
 # Less Than Ogive Daily Income

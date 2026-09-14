@@ -1,5 +1,5 @@
 ---
-slug: dsa-same-tree
+code: q_27sCghkBUk
 questionType: medium
 ---
 

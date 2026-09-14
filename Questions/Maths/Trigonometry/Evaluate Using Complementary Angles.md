@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-evaluate-using-complementary-angles
+code: q_AulqlycPaY
 questionType: exercise
 ---
 # Evaluate Using Complementary Angles

@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-iron-pole-two-cylinders-mass
+code: q_hkSD6UxVqb
 questionType: exercise
 ---
 # Iron Pole Two Cylinders Mass

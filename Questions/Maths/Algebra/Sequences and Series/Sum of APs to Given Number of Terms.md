@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-sum-of-aps-to-given-number-of-terms
+code: q_wRcOW4wyDr
 questionType: exercise
 ---
 # Sum of APs to Given Number of Terms

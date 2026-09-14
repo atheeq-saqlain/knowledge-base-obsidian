@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-tangents-to-freehand-bangle-circle
+code: q_pYHC2JkkgQ
 questionType: exercise
 ---
 # Tangents to Freehand Bangle Circle

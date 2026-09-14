@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-other-ratios-in-terms-of-sec
+code: q_0zE6nriTnR
 questionType: exercise
 ---
 # Other Ratios in Terms of Sec

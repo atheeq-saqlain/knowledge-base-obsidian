@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-graphical-formulation-and-nature-3-2
+code: q_lFPcfQcd6b
 questionType: exercise
 ---
 # Graphical Formulation and Nature 3.2

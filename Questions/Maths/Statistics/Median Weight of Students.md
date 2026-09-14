@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-median-weight-of-students
+code: q_XEeCvChzV7
 questionType: exercise
 ---
 # Median Weight of Students

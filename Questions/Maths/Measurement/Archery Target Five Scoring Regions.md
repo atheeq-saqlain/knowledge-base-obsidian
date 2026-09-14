@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-archery-target-five-scoring-regions
+code: q_HawxChi8rO
 questionType: exercise
 ---
 # Archery Target Five Scoring Regions

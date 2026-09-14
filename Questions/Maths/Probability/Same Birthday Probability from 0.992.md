@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-same-birthday-probability-from-0-992
+code: q_FYBcO0Tc6H
 questionType: exercise
 ---
 # Same Birthday Probability from 0.992

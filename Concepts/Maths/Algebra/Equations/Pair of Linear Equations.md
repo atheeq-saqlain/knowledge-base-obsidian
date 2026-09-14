@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-pair-of-linear-equations
+code: c_4ddYBzPX2g
 kind: representation
 ---
 # Pair of Linear Equations

@@ -1,5 +1,5 @@
 ---
-slug: dsa-length-prefix-encoding
+code: c_69JLgDAxFU
 kind: schema
 ---
 # Length Prefix Encoding

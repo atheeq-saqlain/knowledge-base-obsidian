@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-medians-intersect-at-centroid
+code: q_0FVosQkA7T
 questionType: exercise
 ---
 # Medians Intersect at Centroid

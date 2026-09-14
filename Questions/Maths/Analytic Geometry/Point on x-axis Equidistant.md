@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-point-on-x-axis-equidistant
+code: q_wBOv1rpW6K
 questionType: exercise
 ---
 # Point on x-axis Equidistant

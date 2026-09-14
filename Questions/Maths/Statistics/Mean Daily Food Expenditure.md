@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-mean-daily-food-expenditure
+code: q_jNsiNwz8Q2
 questionType: exercise
 ---
 # Mean Daily Food Expenditure

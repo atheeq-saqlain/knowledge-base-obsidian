@@ -1,5 +1,5 @@
 ---
-slug: dsa-number-of-connected-components-in-an-undirected-graph
+code: q_2sDUi8WYOb
 questionType: medium
 ---
 

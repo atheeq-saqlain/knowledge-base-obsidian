@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-similar-triangle-construction
+code: c_adnfZuG5of
 kind: schema
 ---
 # Similar Triangle Construction

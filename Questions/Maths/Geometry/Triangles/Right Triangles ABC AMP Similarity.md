@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-right-triangles-abc-amp-similarity
+code: q_ivxEuCwRaQ
 questionType: exercise
 ---
 # Right Triangles ABC AMP Similarity

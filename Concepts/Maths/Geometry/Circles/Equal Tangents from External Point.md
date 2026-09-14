@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-equal-tangents-from-external-point
+code: c_MUGHWDtVY2
 kind: schema
 ---
 # Equal Tangents from External Point

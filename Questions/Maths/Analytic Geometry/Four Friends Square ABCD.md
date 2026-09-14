@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-four-friends-square-abcd
+code: q_2V0P0yMFQY
 questionType: exercise
 ---
 # Four Friends Square ABCD

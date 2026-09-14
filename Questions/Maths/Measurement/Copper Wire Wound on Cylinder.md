@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-copper-wire-wound-on-cylinder
+code: q_MKLMxBJghL
 questionType: exercise
 ---
 # Copper Wire Wound on Cylinder

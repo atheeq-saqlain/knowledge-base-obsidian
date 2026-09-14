@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-find-a-from-tan-2a-equals-cot-a-minus-18
+code: q_sHi8Kqb7Ge
 questionType: exercise
 ---
 # Find A from Tan 2A Equals Cot A Minus 18

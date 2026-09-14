@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-triangular-lawn-coordinates-and-areas
+code: q_y5z9kYhSSM
 questionType: exercise
 ---
 # Triangular Lawn Coordinates and Areas

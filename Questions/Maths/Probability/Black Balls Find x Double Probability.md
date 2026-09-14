@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-black-balls-find-x-double-probability
+code: q_1e3rMwRXt1
 questionType: exercise
 ---
 # Black Balls Find x Double Probability

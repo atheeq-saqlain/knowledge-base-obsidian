@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-graph-lines-triangle-y-axis
+code: q_lA2PLMkhBm
 questionType: exercise
 ---
 # Graph Lines Triangle Y Axis

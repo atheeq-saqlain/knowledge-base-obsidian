@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-nazima-fishing-rod-string
+code: q_jaVC9bljyF
 questionType: exercise
 ---
 # Nazima Fishing Rod String

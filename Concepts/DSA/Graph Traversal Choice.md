@@ -1,5 +1,5 @@
 ---
-slug: dsa-graph-traversal-choice
+code: c_92lJ9b4hmS
 kind: principle
 ---
 # Graph Traversal Choice

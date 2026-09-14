@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-areas-ratio-square-of-medians
+code: q_qdjQNSZQyh
 questionType: exercise
 ---
 # Areas Ratio Square of Medians

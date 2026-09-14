@@ -1,5 +1,5 @@
 ---
-slug: dsa-bucket-by-frequency
+code: c_hVIgU7vHfu
 kind: schema
 ---
 # Bucket by Frequency

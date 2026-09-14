@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-31st-term-from-11th-and-16th
+code: q_B0Q0zCQwZP
 questionType: exercise
 ---
 # 31st Term from 11th and 16th

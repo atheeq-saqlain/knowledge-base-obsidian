@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-tangents-at-ends-of-diameter-parallel
+code: q_nCE66j4KUk
 questionType: exercise
 ---
 # Tangents at Ends of Diameter Parallel

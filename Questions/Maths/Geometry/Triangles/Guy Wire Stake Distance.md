@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-guy-wire-stake-distance
+code: q_cxY3tshT5s
 questionType: exercise
 ---
 # Guy Wire Stake Distance

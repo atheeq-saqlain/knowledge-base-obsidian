@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-trees-planted-by-twelve-classes
+code: q_HWtkLM9AR0
 questionType: exercise
 ---
 # Trees Planted by Twelve Classes

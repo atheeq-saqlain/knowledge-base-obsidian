@@ -1,5 +1,5 @@
 ---
-slug: dsa-union-find
+code: c_MaJ27hDk8m
 kind: schema
 ---
 

@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-perpendicular-db-three-cd-identity
+code: q_YzigRqQGvk
 questionType: exercise
 ---
 # Perpendicular DB Three CD Identity

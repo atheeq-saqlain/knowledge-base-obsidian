@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-angles-in-similar-triangles-odc-oba
+code: q_oYtvB4M81N
 questionType: exercise
 ---
 # Angles in Similar Triangles ODC OBA

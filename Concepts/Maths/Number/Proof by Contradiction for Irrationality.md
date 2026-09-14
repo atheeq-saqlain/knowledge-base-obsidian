@@ -1,5 +1,5 @@
 ---
-slug: maths-number-proof-by-contradiction-for-irrationality
+code: c_pqAJu0aYug
 kind: schema
 ---
 # Proof by Contradiction for Irrationality

@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-trigonometric-ratios-of-complementary-angles
+code: c_E3AxciL0FU
 kind: schema
 ---
 # Trigonometric Ratios of Complementary Angles

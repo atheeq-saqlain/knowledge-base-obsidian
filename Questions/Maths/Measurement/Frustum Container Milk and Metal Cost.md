@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-frustum-container-milk-and-metal-cost
+code: q_wiZtYYQv1O
 questionType: exercise
 ---
 # Frustum Container Milk and Metal Cost

@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-area-of-triangle-from-vertices
+code: q_SeTYpDwvww
 questionType: exercise
 ---
 # Area of Triangle from Vertices

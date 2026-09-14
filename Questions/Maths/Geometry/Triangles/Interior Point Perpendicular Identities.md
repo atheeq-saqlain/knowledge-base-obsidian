@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-interior-point-perpendicular-identities
+code: q_t3dDfXJha9
 questionType: exercise
 ---
 # Interior Point Perpendicular Identities

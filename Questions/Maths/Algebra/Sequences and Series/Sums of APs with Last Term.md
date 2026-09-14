@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-sums-of-aps-with-last-term
+code: q_sSj252Ys8r
 questionType: exercise
 ---
 # Sums of APs with Last Term

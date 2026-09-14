@@ -1,5 +1,5 @@
 ---
-slug: dsa-two-pointers-sorted-tradeoff
+code: c_L3HEAD1Vis
 kind: principle
 ---
 # Two Pointers Sorted Tradeoff

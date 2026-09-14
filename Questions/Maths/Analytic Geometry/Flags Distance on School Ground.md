@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-flags-distance-on-school-ground
+code: q_Q5O72gCoXW
 questionType: exercise
 ---
 # Flags Distance on School Ground

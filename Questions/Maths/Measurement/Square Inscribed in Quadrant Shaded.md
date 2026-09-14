@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-square-inscribed-in-quadrant-shaded
+code: q_V4kXndLZnb
 questionType: exercise
 ---
 # Square Inscribed in Quadrant Shaded

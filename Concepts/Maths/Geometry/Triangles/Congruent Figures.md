@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-congruent-figures
+code: c_QSIjb8QRrZ
 kind: fact
 ---
 # Congruent Figures

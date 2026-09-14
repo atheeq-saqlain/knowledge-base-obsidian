@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-graphical-method-of-linear-equations
+code: c_poEAC63he6
 kind: schema
 ---
 # Graphical Method of Linear Equations

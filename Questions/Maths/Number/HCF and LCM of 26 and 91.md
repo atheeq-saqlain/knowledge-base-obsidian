@@ -1,5 +1,5 @@
 ---
-slug: maths-number-hcf-and-lcm-of-26-and-91
+code: q_Px6oGafJsp
 questionType: exercise
 ---
 # HCF and LCM of 26 and 91

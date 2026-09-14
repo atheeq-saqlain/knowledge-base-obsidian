@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-solving-by-factorisation
+code: c_1qv1X5vzlg
 kind: schema
 ---
 # Solving by Factorisation

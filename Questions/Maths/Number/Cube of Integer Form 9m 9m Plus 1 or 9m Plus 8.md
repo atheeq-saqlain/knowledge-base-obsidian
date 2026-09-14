@@ -1,5 +1,5 @@
 ---
-slug: maths-number-cube-of-integer-form-9m-9m-plus-1-or-9m-plus-8
+code: q_nQALc3fTgy
 questionType: exercise
 ---
 # Cube of Integer Form 9m 9m Plus 1 or 9m Plus 8

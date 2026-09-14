@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-cost-of-bat-and-ball
+code: q_HRaSbfp5f1
 questionType: exercise
 ---
 # Cost of Bat and Ball

@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-find-ec-and-ad-with-de-parallel-bc
+code: q_OOe0tX2uwA
 questionType: exercise
 ---
 # Find EC and AD with DE Parallel BC

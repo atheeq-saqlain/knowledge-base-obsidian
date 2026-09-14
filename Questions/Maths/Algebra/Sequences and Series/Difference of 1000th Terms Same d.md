@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-difference-of-1000th-terms-same-d
+code: q_6vTZQ3P2sr
 questionType: exercise
 ---
 # Difference of 1000th Terms Same d

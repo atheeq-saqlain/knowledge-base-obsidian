@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-sum-of-first-15-multiples-of-8
+code: q_35uXe3PIwN
 questionType: exercise
 ---
 # Sum of First 15 Multiples of 8

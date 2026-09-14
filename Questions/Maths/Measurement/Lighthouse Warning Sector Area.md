@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-lighthouse-warning-sector-area
+code: q_Xnx0Jo6iW2
 questionType: exercise
 ---
 # Lighthouse Warning Sector Area

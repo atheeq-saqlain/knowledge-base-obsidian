@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-ratio-of-division-by-point
+code: q_r03PQWLeyg
 questionType: exercise
 ---
 # Ratio of Division by Point

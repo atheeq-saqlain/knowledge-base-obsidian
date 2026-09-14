@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-missing-frequencies-median-28-5
+code: q_G7Y9xnWSUs
 questionType: exercise
 ---
 # Missing Frequencies Median 28.5

@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-distance-between-origin-and-point
+code: q_5QEr0HKJ0z
 questionType: exercise
 ---
 # Distance Between Origin and Point

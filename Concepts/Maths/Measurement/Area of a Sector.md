@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-area-of-a-sector
+code: c_9njBGwsuhI
 kind: schema
 ---
 # Area of a Sector

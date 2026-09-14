@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-cross-multiplication-method
+code: c_c818Rxf8DE
 kind: schema
 ---
 # Cross-Multiplication Method

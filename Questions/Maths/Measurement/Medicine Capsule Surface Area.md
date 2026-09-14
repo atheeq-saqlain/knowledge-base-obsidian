@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-medicine-capsule-surface-area
+code: q_kVBiu7Brc4
 questionType: exercise
 ---
 # Medicine Capsule Surface Area

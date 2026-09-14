@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-intersecting-parallel-or-coincident-lines
+code: q_l3TuYgN9pJ
 questionType: exercise
 ---
 # Intersecting Parallel or Coincident Lines

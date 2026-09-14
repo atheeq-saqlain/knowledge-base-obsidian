@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-diagonal-ratio-implies-trapezium
+code: q_hCksEql41w
 questionType: exercise
 ---
 # Diagonal Ratio Implies Trapezium

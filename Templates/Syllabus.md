@@ -1,5 +1,5 @@
 ---
-slug:
+code:
 label:
 grade:
 status: draft
@@ -42,7 +42,7 @@ status: draft
 <!--
 Conventions
 - Note title → Syllabus.name
-- Frontmatter: slug (stable join key), label (e.g. CBSE-10-Math), grade, status (draft | active)
+- Frontmatter: code (opaque stable id s_…), label (e.g. CBSE-10-Math), grade, status (draft | active)
 - Place notes under Syllabi/ — this is the board/grade/exam layer
 - Link existing Concept / Question notes with [[wikilinks]]; do not copy catalog files per syllabus
 - Catalog folders are subject/domain (see README), not chapter numbers

@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-circumscribed-quadrilateral-opposite-sides
+code: q_LdQd0Nzmcn
 questionType: exercise
 ---
 # Circumscribed Quadrilateral Opposite Sides

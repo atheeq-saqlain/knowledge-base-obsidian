@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-show-complementary-product-identities
+code: q_JtBZOe5QoC
 questionType: exercise
 ---
 # Show Complementary Product Identities

@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-division-algorithm-for-polynomials
+code: c_1n0c6ereE5
 kind: schema
 ---
 # Division Algorithm for Polynomials

@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-first-last-terms-d-9-count-and-sum
+code: q_EKVXonCP5V
 questionType: exercise
 ---
 # First Last Terms d 9 Count and Sum

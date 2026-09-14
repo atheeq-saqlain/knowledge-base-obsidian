@@ -1,5 +1,5 @@
 ---
-slug: dsa-reverse-linked-list
+code: q_rcUdy3z2ST
 questionType: medium
 ---
 

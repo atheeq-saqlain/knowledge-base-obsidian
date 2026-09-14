@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-scale-factor
+code: c_TjhRB4RN8X
 kind: fact
 ---
 # Scale Factor

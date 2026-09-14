@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-cos-and-tan-from-sin-3-over-4
+code: q_ilCGxI7Lrg
 questionType: exercise
 ---
 # Cos and Tan from Sin 3 over 4

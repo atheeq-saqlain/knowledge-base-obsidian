@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-quadratic-equations-two-friends-ages-product-48
+code: q_29b8OUFk5F
 questionType: exercise
 ---
 # Two Friends Ages Product 48

@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-complete-probability-statements
+code: q_dVpt9j9fD6
 questionType: exercise
 ---
 # Complete Probability Statements

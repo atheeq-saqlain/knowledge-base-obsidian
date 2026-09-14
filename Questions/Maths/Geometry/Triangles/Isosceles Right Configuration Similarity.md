@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-isosceles-right-configuration-similarity
+code: q_6Cg7bn0NfM
 questionType: exercise
 ---
 # Isosceles Right Configuration Similarity

@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-construction-penalty-30-days
+code: q_UFPIiqCPdW
 questionType: exercise
 ---
 # Construction Penalty 30 Days

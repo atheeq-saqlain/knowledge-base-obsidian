@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-library-fixed-and-extra-day-charge
+code: q_5oleBTonvF
 questionType: exercise
 ---
 # Library Fixed and Extra Day Charge

@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-parametric-linear-pairs-solve
+code: q_L8zqeH1He3
 questionType: exercise
 ---
 # Parametric Linear Pairs Solve

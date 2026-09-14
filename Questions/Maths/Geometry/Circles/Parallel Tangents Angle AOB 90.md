@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-parallel-tangents-angle-aob-90
+code: q_w3NCoflJHu
 questionType: exercise
 ---
 # Parallel Tangents Angle AOB 90

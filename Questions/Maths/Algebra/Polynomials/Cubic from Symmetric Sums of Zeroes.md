@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-polynomials-cubic-from-symmetric-sums-of-zeroes
+code: q_tEXZOlk80G
 questionType: exercise
 ---
 # Cubic from Symmetric Sums of Zeroes

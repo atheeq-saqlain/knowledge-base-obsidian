@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-prove-acute-cos-a-equals-cos-b-implies-a-equals-b
+code: q_YugwgquEBE
 questionType: exercise
 ---
 # Prove Acute Cos A Equals Cos B Implies A Equals B

@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-complementary-elevations-prove-height-6
+code: q_VfEUxwDQVx
 questionType: exercise
 ---
 # Complementary Elevations Prove Height 6

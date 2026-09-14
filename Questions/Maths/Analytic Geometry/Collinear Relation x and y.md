@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-collinear-relation-x-and-y
+code: q_up83TlSfmq
 questionType: exercise
 ---
 # Collinear Relation x and y

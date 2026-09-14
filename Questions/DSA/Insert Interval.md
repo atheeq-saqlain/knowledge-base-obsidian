@@ -1,5 +1,5 @@
 ---
-slug: dsa-insert-interval
+code: q_aumTsNGL4e
 questionType: medium
 ---
 

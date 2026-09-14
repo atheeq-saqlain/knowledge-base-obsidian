@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-angle-of-depression
+code: c_PKoZL8TGzj
 kind: schema
 ---
 # Angle of Depression

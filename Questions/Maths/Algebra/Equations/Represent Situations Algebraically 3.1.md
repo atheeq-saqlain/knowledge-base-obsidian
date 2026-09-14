@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-represent-situations-algebraically-3-1
+code: q_8mt15UJYrl
 questionType: exercise
 ---
 # Represent Situations Algebraically 3.1

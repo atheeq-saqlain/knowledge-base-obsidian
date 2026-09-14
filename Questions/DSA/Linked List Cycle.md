@@ -1,5 +1,5 @@
 ---
-slug: dsa-linked-list-cycle
+code: q_GLVX1mw6eQ
 questionType: medium
 ---
 

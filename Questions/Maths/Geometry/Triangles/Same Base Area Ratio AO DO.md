@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-same-base-area-ratio-ao-do
+code: q_9XZpqEkqJK
 questionType: exercise
 ---
 # Same Base Area Ratio AO DO

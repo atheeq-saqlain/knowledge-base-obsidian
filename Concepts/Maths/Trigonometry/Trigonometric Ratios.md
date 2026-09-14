@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-trigonometric-ratios
+code: c_6JydJogr7w
 kind: schema
 ---
 # Trigonometric Ratios

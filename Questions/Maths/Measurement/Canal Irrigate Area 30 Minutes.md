@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-canal-irrigate-area-30-minutes
+code: q_pjBhsjuPi3
 questionType: exercise
 ---
 # Canal Irrigate Area 30 Minutes

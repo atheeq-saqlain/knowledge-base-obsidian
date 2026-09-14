@@ -1,5 +1,5 @@
 ---
-slug: dsa-alien-dictionary
+code: q_dzOYhv8aZo
 questionType: medium
 ---
 

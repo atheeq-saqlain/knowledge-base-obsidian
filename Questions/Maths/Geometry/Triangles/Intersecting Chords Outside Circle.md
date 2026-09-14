@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-intersecting-chords-outside-circle
+code: q_GVSzaaFvIV
 questionType: exercise
 ---
 # Intersecting Chords Outside Circle

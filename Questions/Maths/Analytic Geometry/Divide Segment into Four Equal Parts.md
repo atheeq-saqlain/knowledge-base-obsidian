@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-divide-segment-into-four-equal-parts
+code: q_JRLPayRpNf
 questionType: exercise
 ---
 # Divide Segment into Four Equal Parts

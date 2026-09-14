@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-good-pen-probability-defective-mix
+code: q_1dcTEL4vse
 questionType: exercise
 ---
 # Good Pen Probability Defective Mix

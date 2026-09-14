@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-area-of-a-segment
+code: c_VWoisuFOgP
 kind: schema
 ---
 # Area of a Segment

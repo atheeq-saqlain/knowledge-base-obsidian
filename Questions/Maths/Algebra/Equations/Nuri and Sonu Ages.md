@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-nuri-and-sonu-ages
+code: q_1ogplWKHVe
 questionType: exercise
 ---
 # Nuri and Sonu Ages

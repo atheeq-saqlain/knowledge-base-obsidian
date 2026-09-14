@@ -1,5 +1,5 @@
 ---
-slug: dsa-invert-binary-tree
+code: q_JNqjZhPyg3
 questionType: medium
 ---
 

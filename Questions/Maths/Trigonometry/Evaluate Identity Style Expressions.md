@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-evaluate-identity-style-expressions
+code: q_ObEZknXKZP
 questionType: exercise
 ---
 # Evaluate Identity Style Expressions

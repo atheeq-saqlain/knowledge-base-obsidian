@@ -1,5 +1,5 @@
 ---
-slug: dsa-missing-number
+code: q_yuVlg6DKb9
 questionType: medium
 ---
 

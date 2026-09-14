@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-values-when-tan-a-equals-1-over-root-3
+code: q_dN08Q8aQdD
 questionType: exercise
 ---
 # Values When Tan A Equals 1 over Root 3

@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-mean-mangoes-per-box
+code: q_bXBoMCutNb
 questionType: exercise
 ---
 # Mean Mangoes per Box

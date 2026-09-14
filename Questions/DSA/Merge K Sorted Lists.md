@@ -1,5 +1,5 @@
 ---
-slug: dsa-merge-k-sorted-lists
+code: q_TvBx2T84Aa
 questionType: medium
 ---
 

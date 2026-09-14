@@ -1,5 +1,5 @@
 ---
-slug: dsa-maximum-depth-of-binary-tree
+code: q_tUU05JdifC
 questionType: medium
 ---
 

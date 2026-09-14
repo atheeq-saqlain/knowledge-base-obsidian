@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-blue-balls-double-red-probability
+code: q_XYwRDb6ixd
 questionType: exercise
 ---
 # Blue Balls Double Red Probability

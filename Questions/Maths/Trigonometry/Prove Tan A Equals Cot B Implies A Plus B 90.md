@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-prove-tan-a-equals-cot-b-implies-a-plus-b-90
+code: q_oac1rol54w
 questionType: exercise
 ---
 # Prove Tan A Equals Cot B Implies A Plus B 90

@@ -1,5 +1,5 @@
 ---
-slug: maths-trigonometry-tan-p-minus-cot-r
+code: q_HLp4Lrd80X
 questionType: exercise
 ---
 # Tan P Minus Cot R

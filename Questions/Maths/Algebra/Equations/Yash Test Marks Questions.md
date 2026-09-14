@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-equations-yash-test-marks-questions
+code: q_WgZic2wCSL
 questionType: exercise
 ---
 # Yash Test Marks Questions

@@ -1,5 +1,5 @@
 ---
-slug: dsa-valid-anagram
+code: q_6FDj5dnxrQ
 questionType:
 ---
 

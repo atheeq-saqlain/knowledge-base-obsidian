@@ -1,5 +1,5 @@
 ---
-slug: maths-probability-spinner-arrow-numbers-1-to-8-probabilities
+code: q_uQZnkWTupL
 questionType: exercise
 ---
 # Spinner Arrow Numbers 1 to 8 Probabilities

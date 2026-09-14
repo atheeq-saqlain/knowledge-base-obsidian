@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-which-term-of-ap-is-zero
+code: q_Es61dtJ1mq
 questionType: exercise
 ---
 # Which Term of AP is Zero

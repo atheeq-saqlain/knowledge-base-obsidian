@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-section-formula
+code: c_BVD7bJDgIA
 kind: schema
 ---
 # Section Formula

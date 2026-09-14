@@ -1,5 +1,5 @@
 ---
-slug: maths-statistics-modal-runs-scored-by-batsmen
+code: q_CIdw8mylkw
 questionType: exercise
 ---
 # Modal Runs Scored by Batsmen

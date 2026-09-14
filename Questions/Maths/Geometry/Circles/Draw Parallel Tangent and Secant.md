@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-circles-draw-parallel-tangent-and-secant
+code: q_XaV8DLJoMB
 questionType: exercise
 ---
 # Draw Parallel Tangent and Secant

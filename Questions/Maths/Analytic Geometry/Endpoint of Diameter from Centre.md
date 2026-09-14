@@ -1,5 +1,5 @@
 ---
-slug: maths-analytic-geometry-endpoint-of-diameter-from-centre
+code: q_NPoHnOFqj6
 questionType: exercise
 ---
 # Endpoint of Diameter from Centre

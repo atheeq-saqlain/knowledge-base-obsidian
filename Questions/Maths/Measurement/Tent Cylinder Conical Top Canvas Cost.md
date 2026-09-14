@@ -1,5 +1,5 @@
 ---
-slug: maths-measurement-tent-cylinder-conical-top-canvas-cost
+code: q_bKlpSgUOcP
 questionType: exercise
 ---
 # Tent Cylinder Conical Top Canvas Cost

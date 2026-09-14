@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-first-three-terms-from-term-sums
+code: q_OdDxahHzlp
 questionType: exercise
 ---
 # First Three Terms from Term Sums

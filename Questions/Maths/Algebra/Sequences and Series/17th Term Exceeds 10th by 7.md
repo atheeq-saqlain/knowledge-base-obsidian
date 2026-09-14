@@ -1,5 +1,5 @@
 ---
-slug: maths-algebra-sequences-and-series-17th-term-exceeds-10th-by-7
+code: q_OnSTt5gqVw
 questionType: exercise
 ---
 # 17th Term Exceeds 10th by 7

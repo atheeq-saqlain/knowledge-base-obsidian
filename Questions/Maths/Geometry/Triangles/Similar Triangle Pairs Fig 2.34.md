@@ -1,5 +1,5 @@
 ---
-slug: maths-geometry-triangles-similar-triangle-pairs-fig-2.34
+code: q_4prqZhTBzW
 questionType: exercise
 ---
 # Similar Triangle Pairs Fig 2.34
