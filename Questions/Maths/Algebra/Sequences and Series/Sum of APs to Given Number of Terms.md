@@ -1,5 +1,5 @@
 ---
-code: q_wRcOW4wyDr
+code: Q-2609221829-ZB356H2V
 questionType: exercise
 ---
 # Sum of APs to Given Number of Terms

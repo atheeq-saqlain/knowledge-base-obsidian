@@ -1,5 +1,5 @@
 ---
-code: q_GVSzaaFvIV
+code: Q-2609221829-7HKS4D71
 questionType: exercise
 ---
 # Intersecting Chords Outside Circle

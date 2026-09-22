@@ -1,5 +1,5 @@
 ---
-code: c_usubfLwotq
+code: C-2609221829-AFBWBXYV
 kind: schema
 ---
 # Zeroes and Coefficients of a Cubic

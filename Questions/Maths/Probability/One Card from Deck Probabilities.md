@@ -1,5 +1,5 @@
 ---
-code: q_SCUqcfrrAS
+code: Q-2609221829-RQ8RW422
 questionType: exercise
 ---
 # One Card from Deck Probabilities

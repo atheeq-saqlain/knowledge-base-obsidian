@@ -1,5 +1,5 @@
 ---
-code: c_GzVunKHguZ
+code: C-2609221829-Q0RWKCCB
 kind: schema
 ---
 # Converse of Basic Proportionality Theorem

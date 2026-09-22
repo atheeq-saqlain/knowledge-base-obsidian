@@ -1,5 +1,5 @@
 ---
-code: q_vwn4BF5uqI
+code: Q-2609221829-576CWC9H
 questionType: exercise
 ---
 # Check Identity When 3 Cot A Equals 4

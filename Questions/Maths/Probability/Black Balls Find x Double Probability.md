@@ -1,5 +1,5 @@
 ---
-code: q_1e3rMwRXt1
+code: Q-2609221829-2ZTGZP6Q
 questionType: exercise
 ---
 # Black Balls Find x Double Probability

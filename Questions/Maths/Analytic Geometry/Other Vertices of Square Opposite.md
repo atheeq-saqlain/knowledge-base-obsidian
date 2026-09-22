@@ -1,5 +1,5 @@
 ---
-code: q_nbUAt02IXf
+code: Q-2609221829-F0P6X9Y6
 questionType: exercise
 ---
 # Other Vertices of Square Opposite

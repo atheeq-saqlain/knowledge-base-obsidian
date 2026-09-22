@@ -1,5 +1,5 @@
 ---
-code: q_ivxEuCwRaQ
+code: Q-2609221829-AKB2KD9J
 questionType: exercise
 ---
 # Right Triangles ABC AMP Similarity

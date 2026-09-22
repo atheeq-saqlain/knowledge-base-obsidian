@@ -1,5 +1,5 @@
 ---
-code: q_usX10pIFYk
+code: Q-2609221829-F46X4S8F
 questionType: exercise
 ---
 # Rhombus Sides Squares Diagonals

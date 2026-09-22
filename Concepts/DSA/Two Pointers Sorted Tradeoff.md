@@ -1,5 +1,5 @@
 ---
-code: c_L3HEAD1Vis
+code: C-2609221829-3A7KENJY
 kind: principle
 ---
 # Two Pointers Sorted Tradeoff

@@ -1,5 +1,5 @@
 ---
-code: q_pnp0JFg9N2
+code: Q-2609221829-K6253B5C
 questionType: exercise
 ---
 # Equal Areas Similar Implies Congruent

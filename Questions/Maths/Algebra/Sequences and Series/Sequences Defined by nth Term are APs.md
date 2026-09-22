@@ -1,5 +1,5 @@
 ---
-code: q_G9gqbsPkop
+code: Q-2609221829-RNSDEBE7
 questionType: exercise
 ---
 # Sequences Defined by nth Term are APs

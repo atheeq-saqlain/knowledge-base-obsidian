@@ -1,5 +1,5 @@
 ---
-code: q_MMXuC8xK6E
+code: Q-2609221829-AB6DBQ7J
 questionType: exercise
 ---
 # Sector Area Formula Multiple Choice

@@ -1,5 +1,5 @@
 ---
-code: q_CiLZwxoST0
+code: Q-2609221829-6HMY0EZT
 questionType: exercise
 ---
 # Bijaganita Capitals Hundred and Ten

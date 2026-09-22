@@ -1,5 +1,5 @@
 ---
-code: q_VHiXRjSfeS
+code: Q-2609221829-DP60279R
 questionType: exercise
 ---
 # Less Than Ogive Daily Income

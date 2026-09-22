@@ -1,5 +1,5 @@
 ---
-code: c_i7O4uhDSN2
+code: C-2609221829-3DRJ072X
 kind: schema
 ---
 # Arithmetic Mean

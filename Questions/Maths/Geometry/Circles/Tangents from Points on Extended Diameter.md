@@ -1,5 +1,5 @@
 ---
-code: q_xqOqJxQ39x
+code: Q-2609221829-QFP3TNNN
 questionType: exercise
 ---
 # Tangents from Points on Extended Diameter

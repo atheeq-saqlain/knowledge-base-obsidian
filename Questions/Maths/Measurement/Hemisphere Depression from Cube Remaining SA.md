@@ -1,5 +1,5 @@
 ---
-code: q_dj3sz2N5WN
+code: Q-2609221829-G11VE8VR
 questionType: exercise
 ---
 # Hemisphere Depression from Cube Remaining SA

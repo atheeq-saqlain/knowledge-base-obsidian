@@ -1,5 +1,5 @@
 ---
-code: q_A8Uh8nciT0
+code: Q-2609221829-7S5GY595
 questionType: exercise
 ---
 # Silver Coins Melted to Cuboid

@@ -1,5 +1,5 @@
 ---
-code: q_ffjJq7XGNN
+code: Q-2609221829-EPF3F7D0
 questionType: exercise
 ---
 # Mean Daily Wage Factory Workers

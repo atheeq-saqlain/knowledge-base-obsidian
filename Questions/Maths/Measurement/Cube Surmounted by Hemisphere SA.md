@@ -1,5 +1,5 @@
 ---
-code: q_3CzsuPTqhV
+code: Q-2609221829-A8FG828N
 questionType: exercise
 ---
 # Cube Surmounted by Hemisphere SA

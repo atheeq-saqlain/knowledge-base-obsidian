@@ -1,5 +1,5 @@
 ---
-code: q_YwsEXRftSd
+code: Q-2609221829-KBYMEMSM
 questionType: exercise
 ---
 # Equilateral Circles at Vertices Shaded

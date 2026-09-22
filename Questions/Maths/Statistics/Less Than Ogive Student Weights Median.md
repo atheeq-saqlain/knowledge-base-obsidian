@@ -1,5 +1,5 @@
 ---
-code: q_V6dubdgm5A
+code: Q-2609221829-BYPX2W0T
 questionType: exercise
 ---
 # Less Than Ogive Student Weights Median

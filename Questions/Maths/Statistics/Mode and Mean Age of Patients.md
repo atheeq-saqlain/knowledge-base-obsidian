@@ -1,5 +1,5 @@
 ---
-code: q_2tcQu9Bske
+code: Q-2609221829-1VS1X8D1
 questionType: exercise
 ---
 # Mode and Mean Age of Patients

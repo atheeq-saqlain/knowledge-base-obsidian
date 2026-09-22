@@ -1,5 +1,5 @@
 ---
-code: c_VzVPui2RnY
+code: C-2609221829-WVB4DFBK
 kind: schema
 ---
 # Right Triangle Altitude Similarity

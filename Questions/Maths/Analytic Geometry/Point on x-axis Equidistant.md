@@ -1,5 +1,5 @@
 ---
-code: q_wBOv1rpW6K
+code: Q-2609221829-8HJJ66R6
 questionType: exercise
 ---
 # Point on x-axis Equidistant

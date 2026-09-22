@@ -1,5 +1,5 @@
 ---
-code: c_adnfZuG5of
+code: C-2609221829-WRQDREXY
 kind: schema
 ---
 # Similar Triangle Construction

@@ -1,5 +1,5 @@
 ---
-code: q_Dgrlh2nXd6
+code: Q-2609221829-NGFS1P5M
 questionType: exercise
 ---
 # Value of k No Solution

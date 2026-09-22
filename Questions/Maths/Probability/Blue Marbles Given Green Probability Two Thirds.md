@@ -1,5 +1,5 @@
 ---
-code: q_ePNVDRPIRF
+code: Q-2609221829-9AZMYK08
 questionType: exercise
 ---
 # Blue Marbles Given Green Probability Two Thirds

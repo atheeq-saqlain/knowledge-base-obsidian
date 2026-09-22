@@ -1,5 +1,5 @@
 ---
-code: q_OLSWlJytCU
+code: Q-2609221829-Y1K5T5J2
 questionType: exercise
 ---
 # Cylinder Scooped Hemispheres Article SA

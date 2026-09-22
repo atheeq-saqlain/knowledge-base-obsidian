@@ -1,5 +1,5 @@
 ---
-code: q_CI11VpasxY
+code: Q-2609221829-D45WAZEE
 questionType: exercise
 ---
 # Isosceles Right AB Squared

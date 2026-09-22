@@ -1,5 +1,5 @@
 ---
-code: q_dl800nVHpw
+code: Q-2609221829-EKNBQWJ7
 questionType: exercise
 ---
 # Two Dice Sum Outcomes Argument

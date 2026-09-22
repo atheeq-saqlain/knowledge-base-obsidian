@@ -1,5 +1,5 @@
 ---
-code: q_N50FM35cGi
+code: Q-2609221829-CCC71GEP
 questionType: exercise
 ---
 # Special Numbered Die Two Throws Probabilities

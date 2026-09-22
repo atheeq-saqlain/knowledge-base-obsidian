@@ -1,5 +1,5 @@
 ---
-code: q_KZpqBonVg5
+code: Q-2609221829-4568KV82
 questionType: exercise
 ---
 # Median Lifetime Neon Lamps

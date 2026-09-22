@@ -1,5 +1,5 @@
 ---
-code: q_eQhVxOjUYt
+code: Q-2609221829-D69GBH5G
 questionType: exercise
 ---
 # Right Triangle Altitude Base Hypotenuse

@@ -1,5 +1,5 @@
 ---
-code: q_rUzCN40eYG
+code: Q-2609221829-JDK6SR3R
 questionType: exercise
 ---
 # Acute Triangle Pythagoras Extension

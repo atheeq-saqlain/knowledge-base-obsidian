@@ -1,5 +1,5 @@
 ---
-code: q_JtBZOe5QoC
+code: Q-2609221829-EHG4W2D1
 questionType: exercise
 ---
 # Show Complementary Product Identities

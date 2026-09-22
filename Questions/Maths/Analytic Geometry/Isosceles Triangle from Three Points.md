@@ -1,5 +1,5 @@
 ---
-code: q_WwoZ5qyvvR
+code: Q-2609221829-R2T5HWDB
 questionType: exercise
 ---
 # Isosceles Triangle from Three Points

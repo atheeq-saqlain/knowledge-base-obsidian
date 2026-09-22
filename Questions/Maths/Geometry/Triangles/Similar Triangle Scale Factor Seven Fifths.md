@@ -1,5 +1,5 @@
 ---
-code: q_w8oTYR8Cut
+code: Q-2609221829-RF8S3ZQS
 questionType: exercise
 ---
 # Similar Triangle Scale Factor Seven Fifths

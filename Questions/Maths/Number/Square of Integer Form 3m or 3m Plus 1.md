@@ -1,5 +1,5 @@
 ---
-code: q_TjPHGQUQSE
+code: Q-2609221829-Y3D16SAG
 questionType: exercise
 ---
 # Square of Integer Form 3m or 3m Plus 1

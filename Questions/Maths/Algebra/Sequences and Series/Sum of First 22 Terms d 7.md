@@ -1,5 +1,5 @@
 ---
-code: q_ZztLDRnyk0
+code: Q-2609221829-W312BWM7
 questionType: exercise
 ---
 # Sum of First 22 Terms d 7

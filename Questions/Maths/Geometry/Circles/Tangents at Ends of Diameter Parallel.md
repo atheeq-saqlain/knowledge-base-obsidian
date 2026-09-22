@@ -1,5 +1,5 @@
 ---
-code: q_nCE66j4KUk
+code: Q-2609221829-RN20XS4B
 questionType: exercise
 ---
 # Tangents at Ends of Diameter Parallel

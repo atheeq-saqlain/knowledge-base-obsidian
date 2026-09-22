@@ -1,5 +1,5 @@
 ---
-code: c_MUGHWDtVY2
+code: C-2609221829-CKC0M29C
 kind: schema
 ---
 # Equal Tangents from External Point

@@ -1,5 +1,5 @@
 ---
-code: q_4P4wLbh9At
+code: Q-2609221829-6RDGEF59
 questionType: exercise
 ---
 # Terms from Sum 4n Minus n Squared

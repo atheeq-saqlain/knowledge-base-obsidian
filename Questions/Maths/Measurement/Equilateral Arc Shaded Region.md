@@ -1,5 +1,5 @@
 ---
-code: q_heYjtuXG51
+code: Q-2609221829-ZY46ZGKD
 questionType: exercise
 ---
 # Equilateral Arc Shaded Region

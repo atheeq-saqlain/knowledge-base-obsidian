@@ -1,5 +1,5 @@
 ---
-code: q_XaV8DLJoMB
+code: Q-2609221829-VP7H6E6A
 questionType: exercise
 ---
 # Draw Parallel Tangent and Secant

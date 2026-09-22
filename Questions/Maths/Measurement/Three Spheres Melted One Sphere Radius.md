@@ -1,5 +1,5 @@
 ---
-code: q_roNo5K9TdX
+code: Q-2609221829-R2EA0B30
 questionType: exercise
 ---
 # Three Spheres Melted One Sphere Radius

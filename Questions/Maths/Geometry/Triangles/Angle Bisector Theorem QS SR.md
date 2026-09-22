@@ -1,5 +1,5 @@
 ---
-code: q_jUd5226NXv
+code: Q-2609221829-WZQJP34A
 questionType: exercise
 ---
 # Angle Bisector Theorem QS SR

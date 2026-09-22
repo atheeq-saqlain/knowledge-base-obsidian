@@ -1,5 +1,5 @@
 ---
-code: c_dlYrevP2To
+code: C-2609221829-31XK12DX
 kind: principle
 ---
 # Optimal Substructure

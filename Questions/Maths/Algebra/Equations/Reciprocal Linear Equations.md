@@ -1,5 +1,5 @@
 ---
-code: q_wNUHeTaKOl
+code: Q-2609221829-2QT1E1ZZ
 questionType: exercise
 ---
 # Reciprocal Linear Equations

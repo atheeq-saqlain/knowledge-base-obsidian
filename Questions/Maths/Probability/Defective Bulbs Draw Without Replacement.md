@@ -1,5 +1,5 @@
 ---
-code: q_nHidDYWutm
+code: Q-2609221829-5VH7VMQ7
 questionType: exercise
 ---
 # Defective Bulbs Draw Without Replacement

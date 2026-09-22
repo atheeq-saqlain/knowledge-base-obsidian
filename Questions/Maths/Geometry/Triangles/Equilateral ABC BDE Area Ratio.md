@@ -1,5 +1,5 @@
 ---
-code: q_L8OjXPkdvK
+code: Q-2609221829-21GF0V4A
 questionType: exercise
 ---
 # Equilateral ABC BDE Area Ratio

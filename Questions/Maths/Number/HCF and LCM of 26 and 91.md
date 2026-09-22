@@ -1,5 +1,5 @@
 ---
-code: q_Px6oGafJsp
+code: Q-2609221829-77NA2ZVA
 questionType: exercise
 ---
 # HCF and LCM of 26 and 91

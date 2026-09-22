@@ -1,5 +1,5 @@
 ---
-code: q_xKccxgTDfQ
+code: Q-2609221829-KZ1HQJT0
 questionType: exercise
 ---
 # Shaded Semicircle Minus Triangle QR

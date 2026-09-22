@@ -1,5 +1,5 @@
 ---
-code: q_M8XhDk2Jn1
+code: Q-2609221829-8QBESQP7
 questionType: exercise
 ---
 # Right Triangle Altitude Geometric Means

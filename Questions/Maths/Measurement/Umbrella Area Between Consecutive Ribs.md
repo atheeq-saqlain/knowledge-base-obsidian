@@ -1,5 +1,5 @@
 ---
-code: q_YX7gEYZyLQ
+code: Q-2609221829-9XP4S7N7
 questionType: exercise
 ---
 # Umbrella Area Between Consecutive Ribs

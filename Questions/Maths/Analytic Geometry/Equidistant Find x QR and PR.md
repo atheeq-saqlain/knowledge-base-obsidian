@@ -1,5 +1,5 @@
 ---
-code: q_kr38jOgaed
+code: Q-2609221829-Z32D2HWA
 questionType: exercise
 ---
 # Equidistant Find x QR and PR

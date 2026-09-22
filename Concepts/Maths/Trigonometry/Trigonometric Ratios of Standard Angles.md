@@ -1,5 +1,5 @@
 ---
-code: c_XSpzTV0fSM
+code: C-2609221829-9HTVM8JT
 kind: fact
 ---
 # Trigonometric Ratios of Standard Angles

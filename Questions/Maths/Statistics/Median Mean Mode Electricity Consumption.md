@@ -1,5 +1,5 @@
 ---
-code: q_f1cQjBQLp2
+code: Q-2609221829-45RVK52A
 questionType: exercise
 ---
 # Median Mean Mode Electricity Consumption

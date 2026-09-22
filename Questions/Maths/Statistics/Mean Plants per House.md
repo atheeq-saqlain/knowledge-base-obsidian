@@ -1,5 +1,5 @@
 ---
-code: q_n1l9YktVIL
+code: Q-2609221829-06163C0X
 questionType: exercise
 ---
 # Mean Plants per House

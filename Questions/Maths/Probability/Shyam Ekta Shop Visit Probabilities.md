@@ -1,5 +1,5 @@
 ---
-code: q_OddpwTCMng
+code: Q-2609221829-Z0RB9P04
 questionType: exercise
 ---
 # Shyam Ekta Shop Visit Probabilities

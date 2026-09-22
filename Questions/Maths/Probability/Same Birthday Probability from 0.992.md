@@ -1,5 +1,5 @@
 ---
-code: q_FYBcO0Tc6H
+code: Q-2609221829-ACQPTCAM
 questionType: exercise
 ---
 # Same Birthday Probability from 0.992

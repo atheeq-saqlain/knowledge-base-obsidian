@@ -1,5 +1,5 @@
 ---
-code: q_Es61dtJ1mq
+code: Q-2609221829-EWWNTB59
 questionType: exercise
 ---
 # Which Term of AP is Zero

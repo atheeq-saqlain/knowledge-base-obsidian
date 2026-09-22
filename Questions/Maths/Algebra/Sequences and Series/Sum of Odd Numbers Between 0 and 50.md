@@ -1,5 +1,5 @@
 ---
-code: q_1GoMOWf3Vb
+code: Q-2609221829-2HD0TRB6
 questionType: exercise
 ---
 # Sum of Odd Numbers Between 0 and 50

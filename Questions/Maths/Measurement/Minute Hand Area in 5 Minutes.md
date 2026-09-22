@@ -1,5 +1,5 @@
 ---
-code: q_LbPeO3E3yn
+code: Q-2609221829-0W1YMB5N
 questionType: exercise
 ---
 # Minute Hand Area in 5 Minutes

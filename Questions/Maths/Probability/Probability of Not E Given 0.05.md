@@ -1,5 +1,5 @@
 ---
-code: q_238OAE1kle
+code: Q-2609221829-F7G1CGWX
 questionType: exercise
 ---
 # Probability of Not E Given 0.05

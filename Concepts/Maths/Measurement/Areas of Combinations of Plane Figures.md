@@ -1,5 +1,5 @@
 ---
-code: c_Yo7FP3sfyt
+code: C-2609221829-8MGRFKZD
 kind: schema
 ---
 # Areas of Combinations of Plane Figures

@@ -1,5 +1,5 @@
 ---
-code: q_TDIrxGogzs
+code: Q-2609221829-PPZ5CZ6H
 questionType: exercise
 ---
 # Pottery Articles Cost of Production

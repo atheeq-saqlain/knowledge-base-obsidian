@@ -1,5 +1,5 @@
 ---
-code: q_0EfAAaD5gw
+code: Q-2609221829-6K75HX7T
 questionType: exercise
 ---
 # Area of Rhombus from Vertices

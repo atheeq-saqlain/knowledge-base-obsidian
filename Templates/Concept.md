@@ -19,5 +19,5 @@ kind: fact | representation | operation | schema | principle
   representation / operation = foundations
   principle    = why / when / tradeoffs
   fact         = declarative knowledge
-code: opaque stable id (c_…). Set once (or via backfill/sync); never change on move/rename.
+code: C-YYMMDDHHMM-XXXXXXXX. Set once (or via backfill/sync); never change on move/rename.
 -->

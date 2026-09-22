@@ -1,5 +1,5 @@
 ---
-code: q_HD9G5mSKXJ
+code: Q-2609221829-ENQM3SK2
 questionType: exercise
 ---
 # Parallelogram Diagonals Squares

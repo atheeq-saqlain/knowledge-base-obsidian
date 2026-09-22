@@ -1,5 +1,5 @@
 ---
-code: q_tEXZOlk80G
+code: Q-2609221829-221NMYTM
 questionType: exercise
 ---
 # Cubic from Symmetric Sums of Zeroes

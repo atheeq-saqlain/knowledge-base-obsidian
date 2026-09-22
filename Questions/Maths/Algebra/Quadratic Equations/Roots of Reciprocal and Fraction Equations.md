@@ -1,5 +1,5 @@
 ---
-code: q_WCrmU4Rbfh
+code: Q-2609221829-EDMYZR4G
 questionType: exercise
 ---
 # Roots of Reciprocal and Fraction Equations

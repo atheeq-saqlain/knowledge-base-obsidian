@@ -1,5 +1,5 @@
 ---
-code: q_up83TlSfmq
+code: Q-2609221829-1A9GZTN0
 questionType: exercise
 ---
 # Collinear Relation x and y

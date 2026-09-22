@@ -1,5 +1,5 @@
 ---
-code: q_X6nPSvWOVh
+code: Q-2609221829-APTYKE6H
 questionType: exercise
 ---
 # Medial Triangle Area Ratio

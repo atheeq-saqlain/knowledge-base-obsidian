@@ -1,5 +1,5 @@
 ---
-code: c_c818Rxf8DE
+code: C-2609221829-VDY5ACBZ
 kind: schema
 ---
 # Cross-Multiplication Method

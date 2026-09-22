@@ -1,5 +1,5 @@
 ---
-code: q_lFPcfQcd6b
+code: Q-2609221829-C8D9ST2M
 questionType: exercise
 ---
 # Graphical Formulation and Nature 3.2

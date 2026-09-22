@@ -1,5 +1,5 @@
 ---
-code: c_nRhr4ubUEf
+code: C-2609221829-C8MZCEE1
 kind: schema
 ---
 # Division of a Line Segment in a Given Ratio

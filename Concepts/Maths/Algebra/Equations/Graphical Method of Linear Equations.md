@@ -1,5 +1,5 @@
 ---
-code: c_poEAC63he6
+code: C-2609221829-61XXPB6J
 kind: schema
 ---
 # Graphical Method of Linear Equations

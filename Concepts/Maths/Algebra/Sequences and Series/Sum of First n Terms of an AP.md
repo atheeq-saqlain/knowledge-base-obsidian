@@ -1,5 +1,5 @@
 ---
-code: c_ALlnt2mObP
+code: C-2609221829-748Y0BW6
 kind: schema
 ---
 # Sum of First n Terms of an AP

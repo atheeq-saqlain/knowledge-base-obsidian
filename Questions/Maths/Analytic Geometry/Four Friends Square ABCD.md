@@ -1,5 +1,5 @@
 ---
-code: q_2V0P0yMFQY
+code: Q-2609221829-NQ8PHAQ0
 questionType: exercise
 ---
 # Four Friends Square ABCD

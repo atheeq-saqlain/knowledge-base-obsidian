@@ -1,5 +1,5 @@
 ---
-code: c_E3AxciL0FU
+code: C-2609221829-CCYW9EDZ
 kind: schema
 ---
 # Trigonometric Ratios of Complementary Angles

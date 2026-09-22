@@ -1,5 +1,5 @@
 ---
-code: q_bPMqbX28R2
+code: Q-2609221829-XFRNC462
 questionType: exercise
 ---
 # Minor Major Segments Radius 15 Angle 60

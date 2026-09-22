@@ -1,5 +1,5 @@
 ---
-code: c_tuVrygcyLT
+code: C-2609221829-SZBHMY59
 kind: schema
 ---
 # HCF and LCM by Prime Factorisation

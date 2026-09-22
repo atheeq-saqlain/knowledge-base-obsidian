@@ -1,5 +1,5 @@
 ---
-code: q_vdp4R3KLHU
+code: Q-2609221829-6NF7BJ2A
 questionType: exercise
 ---
 # Circumscribed Triangle Sides AB AC

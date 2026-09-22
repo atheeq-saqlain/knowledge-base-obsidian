@@ -1,5 +1,5 @@
 ---
-code: q_EYZs58VVwj
+code: Q-2609221829-RDFG582R
 questionType: exercise
 ---
 # Median Divides Triangle Equal Areas

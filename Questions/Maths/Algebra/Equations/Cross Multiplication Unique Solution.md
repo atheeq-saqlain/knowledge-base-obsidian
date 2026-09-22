@@ -1,5 +1,5 @@
 ---
-code: q_UX9xD45uwJ
+code: Q-2609221829-HW53W1NN
 questionType: exercise
 ---
 # Cross Multiplication Unique Solution

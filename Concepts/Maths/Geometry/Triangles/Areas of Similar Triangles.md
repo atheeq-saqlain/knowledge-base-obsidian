@@ -1,5 +1,5 @@
 ---
-code: c_jEnWMNFsYd
+code: C-2609221829-FYK0M9HQ
 kind: schema
 ---
 # Areas of Similar Triangles

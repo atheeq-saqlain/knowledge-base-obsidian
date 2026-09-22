@@ -1,5 +1,5 @@
 ---
-code: q_6GIQR6Qfu1
+code: Q-2609221829-0AF69W81
 questionType: exercise
 ---
 # Evaluate Expressions Given Cot 7 over 8

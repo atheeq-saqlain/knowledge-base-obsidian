@@ -1,5 +1,5 @@
 ---
-code: q_RtNwWXMNNs
+code: Q-2609221829-MRGF8K6D
 questionType: exercise
 ---
 # Consecutive Integers Squares Sum 365

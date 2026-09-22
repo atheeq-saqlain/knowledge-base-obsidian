@@ -1,5 +1,5 @@
 ---
-code: q_oac1rol54w
+code: Q-2609221829-F5682NCG
 questionType: exercise
 ---
 # Prove Tan A Equals Cot B Implies A Plus B 90

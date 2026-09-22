@@ -1,5 +1,5 @@
 ---
-code: q_TnnYLiP7dm
+code: Q-2609221829-GGTW28V6
 questionType: exercise
 ---
 # Angle B in Triangle Sides 6 Root 3

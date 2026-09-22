@@ -1,5 +1,5 @@
 ---
-code: q_HZaPztXRwf
+code: Q-2609221829-3PRM95AF
 questionType: exercise
 ---
 # Sum of First 40 Multiples of 6

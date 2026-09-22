@@ -1,5 +1,5 @@
 ---
-code: q_ynIUovwP2i
+code: Q-2609221829-3356QDFB
 questionType: exercise
 ---
 # Sum of First n Terms from S7 S17

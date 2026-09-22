@@ -1,5 +1,5 @@
 ---
-code: q_OnSTt5gqVw
+code: Q-2609221829-JSKTVT0G
 questionType: exercise
 ---
 # 17th Term Exceeds 10th by 7

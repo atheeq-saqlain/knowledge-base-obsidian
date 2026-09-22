@@ -1,5 +1,5 @@
 ---
-code: c_I6d9rDfKJ4
+code: C-2609221829-MSXGC1XK
 kind: schema
 ---
 # Basic Proportionality Theorem

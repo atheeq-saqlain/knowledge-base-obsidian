@@ -1,5 +1,5 @@
 ---
-code: q_Uhta71asq0
+code: Q-2609221829-T94NC20V
 questionType: exercise
 ---
 # AE BD Squares Identity

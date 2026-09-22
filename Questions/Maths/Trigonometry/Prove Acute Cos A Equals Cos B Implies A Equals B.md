@@ -1,5 +1,5 @@
 ---
-code: q_YugwgquEBE
+code: Q-2609221829-R23P055G
 questionType: exercise
 ---
 # Prove Acute Cos A Equals Cos B Implies A Equals B

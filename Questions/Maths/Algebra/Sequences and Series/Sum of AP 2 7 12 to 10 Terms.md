@@ -1,5 +1,5 @@
 ---
-code: q_qa3s4e2TNa
+code: Q-2609221829-9MY96AW8
 questionType: exercise
 ---
 # Sum of AP 2 7 12 to 10 Terms

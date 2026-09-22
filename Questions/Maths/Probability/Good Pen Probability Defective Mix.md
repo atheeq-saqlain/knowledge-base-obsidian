@@ -1,5 +1,5 @@
 ---
-code: q_1dcTEL4vse
+code: Q-2609221829-9ZJ0A2SG
 questionType: exercise
 ---
 # Good Pen Probability Defective Mix

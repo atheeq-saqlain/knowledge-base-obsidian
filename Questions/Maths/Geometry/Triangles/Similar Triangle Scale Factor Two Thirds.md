@@ -1,5 +1,5 @@
 ---
-code: q_8HzuvQNl0k
+code: Q-2609221829-SM7XXMFR
 questionType: exercise
 ---
 # Similar Triangle Scale Factor Two Thirds

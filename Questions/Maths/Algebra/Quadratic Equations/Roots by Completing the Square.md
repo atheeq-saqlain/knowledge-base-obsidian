@@ -1,5 +1,5 @@
 ---
-code: q_SVA0FsujH9
+code: Q-2609221829-7E1C16QZ
 questionType: exercise
 ---
 # Roots by Completing the Square

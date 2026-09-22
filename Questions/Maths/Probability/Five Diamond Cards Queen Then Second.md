@@ -1,5 +1,5 @@
 ---
-code: q_d1cg70RWpK
+code: Q-2609221829-9DXHYBYW
 questionType: exercise
 ---
 # Five Diamond Cards Queen Then Second

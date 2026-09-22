@@ -1,5 +1,5 @@
 ---
-code: q_iTYtQ6NQQj
+code: Q-2609221829-E7DWYNMN
 questionType: exercise
 ---
 # Check Whether Quadratic Equations

@@ -1,5 +1,5 @@
 ---
-code: q_FsOaGePXnT
+code: Q-2609221829-FFRQYWQG
 questionType: exercise
 ---
 # Check Collinear Points

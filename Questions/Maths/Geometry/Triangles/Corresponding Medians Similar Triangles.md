@@ -1,5 +1,5 @@
 ---
-code: q_IbNZLUKGtf
+code: Q-2609221829-QDNJRV36
 questionType: exercise
 ---
 # Corresponding Medians Similar Triangles

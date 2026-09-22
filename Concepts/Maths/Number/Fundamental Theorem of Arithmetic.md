@@ -1,5 +1,5 @@
 ---
-code: c_mKbv96B0hH
+code: C-2609221829-3BTZWCQC
 kind: fact
 ---
 # Fundamental Theorem of Arithmetic

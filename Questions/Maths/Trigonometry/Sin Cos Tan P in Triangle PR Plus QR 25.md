@@ -1,5 +1,5 @@
 ---
-code: q_Sc48rfJ6Zu
+code: Q-2609221829-SC3K7JSK
 questionType: exercise
 ---
 # Sin Cos Tan P in Triangle PR Plus QR 25

@@ -1,5 +1,5 @@
 ---
-code: q_tYs6AHMUF7
+code: Q-2609221829-T2ZJ2VNB
 questionType: exercise
 ---
 # Find A from Sec 4A Equals Csc A Minus 20

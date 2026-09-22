@@ -1,5 +1,5 @@
 ---
-code: c_soQhk9PRMa
+code: C-2609221829-979SDMEV
 kind: schema
 ---
 # Degree of a Polynomial

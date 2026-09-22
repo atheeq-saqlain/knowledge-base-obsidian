@@ -1,5 +1,5 @@
 ---
-code: q_8yRe80Ucvk
+code: Q-2609221829-WE36J78V
 questionType: exercise
 ---
 # Equilateral on Side vs Diagonal

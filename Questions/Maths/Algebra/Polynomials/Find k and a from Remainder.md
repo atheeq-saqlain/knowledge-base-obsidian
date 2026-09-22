@@ -1,5 +1,5 @@
 ---
-code: q_JeRoHEBC9b
+code: Q-2609221829-K662CKW6
 questionType: exercise
 ---
 # Find k and a from Remainder

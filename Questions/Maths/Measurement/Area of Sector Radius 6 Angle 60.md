@@ -1,5 +1,5 @@
 ---
-code: q_MhOPRMcuPF
+code: Q-2609221829-2GAMCHA5
 questionType: exercise
 ---
 # Area of Sector Radius 6 Angle 60

@@ -1,5 +1,5 @@
 ---
-code: q_fRhzS7aZSf
+code: Q-2609221829-WHQABSP0
 questionType: exercise
 ---
 # 30th Term of AP 10 7 4

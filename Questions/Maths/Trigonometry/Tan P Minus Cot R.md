@@ -1,5 +1,5 @@
 ---
-code: q_HLp4Lrd80X
+code: Q-2609221829-2NMDC088
 questionType: exercise
 ---
 # Tan P Minus Cot R

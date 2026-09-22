@@ -1,5 +1,5 @@
 ---
-code: q_NRwqS7DVm6
+code: Q-2609221829-DVN9HTRW
 questionType: exercise
 ---
 # Midpoint Parallel Bisects Third Side

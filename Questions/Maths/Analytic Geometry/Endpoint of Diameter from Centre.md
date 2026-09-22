@@ -1,5 +1,5 @@
 ---
-code: q_NPoHnOFqj6
+code: Q-2609221829-ES3EPQ5M
 questionType: exercise
 ---
 # Endpoint of Diameter from Centre

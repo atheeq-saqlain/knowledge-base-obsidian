@@ -1,5 +1,5 @@
 ---
-code: q_ilCGxI7Lrg
+code: Q-2609221829-2GNWR5PG
 questionType: exercise
 ---
 # Cos and Tan from Sin 3 over 4

@@ -1,5 +1,5 @@
 ---
-code: q_0zE6nriTnR
+code: Q-2609221829-CK7J7M1Q
 questionType: exercise
 ---
 # Other Ratios in Terms of Sec

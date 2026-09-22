@@ -1,5 +1,5 @@
 ---
-code: q_FIt7SOVbBJ
+code: Q-2609221829-3XEJCNGE
 questionType: exercise
 ---
 # Check Whether Polynomial Is a Factor

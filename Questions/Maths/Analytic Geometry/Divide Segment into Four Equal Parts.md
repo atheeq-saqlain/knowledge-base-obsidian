@@ -1,5 +1,5 @@
 ---
-code: q_JRLPayRpNf
+code: Q-2609221829-5FAY4C6V
 questionType: exercise
 ---
 # Divide Segment into Four Equal Parts

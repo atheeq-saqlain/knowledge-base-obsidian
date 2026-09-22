@@ -1,5 +1,5 @@
 ---
-code: q_SDww6KExQN
+code: Q-2609221829-5B7RYR20
 questionType: exercise
 ---
 # Value of k Collinear Points

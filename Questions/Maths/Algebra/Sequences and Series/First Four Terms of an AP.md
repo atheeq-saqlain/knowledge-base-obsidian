@@ -1,5 +1,5 @@
 ---
-code: q_YyBJtL4b7V
+code: Q-2609221829-0RTDHMD5
 questionType: exercise
 ---
 # First Four Terms of an AP

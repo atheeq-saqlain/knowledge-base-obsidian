@@ -1,5 +1,5 @@
 ---
-code: q_ND2I5KLupk
+code: Q-2609221829-XXEX1QH0
 questionType: exercise
 ---
 # Express Sin Sec Tan in Terms of Cot

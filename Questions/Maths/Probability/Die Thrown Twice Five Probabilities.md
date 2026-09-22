@@ -1,5 +1,5 @@
 ---
-code: q_Ipdwup6V3Y
+code: Q-2609221829-P88791Q3
 questionType: exercise
 ---
 # Die Thrown Twice Five Probabilities

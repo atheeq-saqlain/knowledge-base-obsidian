@@ -1,5 +1,5 @@
 ---
-code: q_9XZpqEkqJK
+code: Q-2609221829-8W26ZN0N
 questionType: exercise
 ---
 # Same Base Area Ratio AO DO

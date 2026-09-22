@@ -1,5 +1,5 @@
 ---
-code: q_fpzDWj9Ekx
+code: Q-2609221829-6NQVKXG9
 questionType: exercise
 ---
 # First Term and Common Difference of APs

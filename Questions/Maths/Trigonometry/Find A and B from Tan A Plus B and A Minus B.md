@@ -1,5 +1,5 @@
 ---
-code: q_smhq5mJOoX
+code: Q-2609221829-S1MJ6PJV
 questionType: exercise
 ---
 # Find A and B from Tan A Plus B and A Minus B

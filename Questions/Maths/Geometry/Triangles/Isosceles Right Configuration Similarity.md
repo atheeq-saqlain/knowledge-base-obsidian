@@ -1,5 +1,5 @@
 ---
-code: q_6Cg7bn0NfM
+code: Q-2609221829-3ZGNVJHZ
 questionType: exercise
 ---
 # Isosceles Right Configuration Similarity

@@ -1,5 +1,5 @@
 ---
-code: q_AvYLqxm9Fv
+code: Q-2609221829-0DFXRD12
 questionType: exercise
 ---
 # Values of k for Equal Roots

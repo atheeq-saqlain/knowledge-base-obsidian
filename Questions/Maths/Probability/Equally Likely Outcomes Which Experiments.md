@@ -1,5 +1,5 @@
 ---
-code: q_5g7qfA5nHc
+code: Q-2609221829-TST7PYQK
 questionType: exercise
 ---
 # Equally Likely Outcomes Which Experiments

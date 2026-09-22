@@ -1,5 +1,5 @@
 ---
-code: c_XEMLi6LM0a
+code: C-2609221829-5XRPCBB3
 kind: schema
 ---
 # Zeroes and Coefficients of a Quadratic

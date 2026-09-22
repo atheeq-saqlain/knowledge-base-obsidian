@@ -1,5 +1,5 @@
 ---
-code: q_Ji9VIqtTle
+code: Q-2609221829-24X699AQ
 questionType: exercise
 ---
 # Minor Segment Right Angle Chord

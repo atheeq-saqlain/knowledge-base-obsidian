@@ -1,5 +1,5 @@
 ---
-code: q_qT0WDwHFv7
+code: Q-2609221829-BZPK0G05
 questionType: exercise
 ---
 # Similar Triangles Side Area Ratio

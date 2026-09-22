@@ -1,5 +1,5 @@
 ---
-code: q_Dk4Wy9bosT
+code: Q-2609221829-QGZKB2HZ
 questionType: exercise
 ---
 # Equilateral Side Altitude Relation

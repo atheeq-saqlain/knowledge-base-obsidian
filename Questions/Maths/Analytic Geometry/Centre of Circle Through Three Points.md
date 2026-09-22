@@ -1,5 +1,5 @@
 ---
-code: q_DxUbwFtXwo
+code: Q-2609221829-MRQ93YPE
 questionType: exercise
 ---
 # Centre of Circle Through Three Points

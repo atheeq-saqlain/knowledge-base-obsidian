@@ -1,5 +1,5 @@
 ---
-code: c_51i4Is6ZBl
+code: C-2609221829-ZQB33C64
 kind: schema
 ---
 # Pythagoras Theorem

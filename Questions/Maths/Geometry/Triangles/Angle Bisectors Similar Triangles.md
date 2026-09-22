@@ -1,5 +1,5 @@
 ---
-code: q_qth0JzRW0G
+code: Q-2609221829-QCP88HK3
 questionType: exercise
 ---
 # Angle Bisectors Similar Triangles

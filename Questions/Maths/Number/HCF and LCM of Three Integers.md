@@ -1,5 +1,5 @@
 ---
-code: q_LhdhxSUw0L
+code: Q-2609221829-139BHX9H
 questionType: exercise
 ---
 # HCF and LCM of Three Integers

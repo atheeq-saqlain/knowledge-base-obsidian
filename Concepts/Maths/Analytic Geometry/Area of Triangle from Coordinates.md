@@ -1,5 +1,5 @@
 ---
-code: c_ODXGJlakul
+code: C-2609221829-B9BQ4778
 kind: schema
 ---
 # Area of Triangle from Coordinates

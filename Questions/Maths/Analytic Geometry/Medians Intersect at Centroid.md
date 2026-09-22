@@ -1,5 +1,5 @@
 ---
-code: q_0FVosQkA7T
+code: Q-2609221829-CAN7GSVY
 questionType: exercise
 ---
 # Medians Intersect at Centroid

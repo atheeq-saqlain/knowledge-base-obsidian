@@ -1,5 +1,5 @@
 ---
-code: q_NhRo5cWOEN
+code: Q-2609221829-8HEAHNGH
 questionType: exercise
 ---
 # Right Triangle Revolve Hypotenuse Double Cone

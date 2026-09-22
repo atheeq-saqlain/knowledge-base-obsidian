@@ -1,5 +1,5 @@
 ---
-code: q_sSj252Ys8r
+code: Q-2609221829-THHYQ39K
 questionType: exercise
 ---
 # Sums of APs with Last Term

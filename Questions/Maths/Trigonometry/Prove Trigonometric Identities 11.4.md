@@ -1,5 +1,5 @@
 ---
-code: q_RMBpzGmaym
+code: Q-2609221829-DTDY6DK9
 questionType: exercise
 ---
 # Prove Trigonometric Identities 11.4

@@ -1,5 +1,5 @@
 ---
-code: q_0LkxOTSc0M
+code: Q-2609221829-B9M9GQAS
 questionType: exercise
 ---
 # Consistent or Inconsistent Pairs

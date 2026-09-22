@@ -1,5 +1,5 @@
 ---
-code: q_WymooEMpjA
+code: Q-2609221829-8W60NWKF
 questionType: exercise
 ---
 # Ladder Distance from Wall

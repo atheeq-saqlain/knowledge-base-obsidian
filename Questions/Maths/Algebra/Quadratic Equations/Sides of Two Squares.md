@@ -1,5 +1,5 @@
 ---
-code: q_2sa4dIUYdZ
+code: Q-2609221829-0TKHS9Q8
 questionType: exercise
 ---
 # Sides of Two Squares

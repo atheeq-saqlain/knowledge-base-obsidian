@@ -1,5 +1,5 @@
 ---
-code: q_a2NZOgf1Jw
+code: Q-2609221829-KNX2APZG
 questionType: exercise
 ---
 # Sum of First 51 Terms

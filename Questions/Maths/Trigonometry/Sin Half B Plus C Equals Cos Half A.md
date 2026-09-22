@@ -1,5 +1,5 @@
 ---
-code: q_mlxTzsh1gF
+code: Q-2609221829-WZJ602RD
 questionType: exercise
 ---
 # Sin Half B Plus C Equals Cos Half A

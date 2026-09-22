@@ -1,5 +1,5 @@
 ---
-code: q_DRVNCBpIWX
+code: Q-2609221829-ZKYHDM9C
 questionType: exercise
 ---
 # Equilateral BD One Third BC

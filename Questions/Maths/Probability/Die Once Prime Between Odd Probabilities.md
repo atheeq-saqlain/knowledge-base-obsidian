@@ -1,5 +1,5 @@
 ---
-code: q_GUWlbdg8R8
+code: Q-2609221829-CR905EJJ
 questionType: exercise
 ---
 # Die Once Prime Between Odd Probabilities

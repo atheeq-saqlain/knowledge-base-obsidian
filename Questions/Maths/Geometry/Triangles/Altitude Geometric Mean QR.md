@@ -1,5 +1,5 @@
 ---
-code: q_kwiyMjIedn
+code: Q-2609221829-MNM1WD2S
 questionType: exercise
 ---
 # Altitude Geometric Mean QR

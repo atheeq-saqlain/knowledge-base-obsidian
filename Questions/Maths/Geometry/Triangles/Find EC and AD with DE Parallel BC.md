@@ -1,5 +1,5 @@
 ---
-code: q_OOe0tX2uwA
+code: Q-2609221829-WA17YPK8
 questionType: exercise
 ---
 # Find EC and AD with DE Parallel BC

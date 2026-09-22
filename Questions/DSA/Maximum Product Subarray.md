@@ -1,5 +1,5 @@
 ---
-code: q_BYLukRwYlI
+code: Q-2609221829-6MNW5BXC
 questionType: medium
 ---
 

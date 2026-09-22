@@ -1,5 +1,5 @@
 ---
-code: q_cFykfDFPb3
+code: Q-2609221829-RYQE4N2A
 questionType: exercise
 ---
 # Show ADE Similar ABC Congruent

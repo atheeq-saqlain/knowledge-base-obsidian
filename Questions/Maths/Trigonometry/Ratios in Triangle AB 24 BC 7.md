@@ -1,5 +1,5 @@
 ---
-code: q_G2c3A7u10T
+code: Q-2609221829-T25GYM7R
 questionType: exercise
 ---
 # Ratios in Triangle AB 24 BC 7

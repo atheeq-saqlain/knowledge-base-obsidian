@@ -1,5 +1,5 @@
 ---
-code: q_nQALc3fTgy
+code: Q-2609221829-EXPX8B2Q
 questionType: exercise
 ---
 # Cube of Integer Form 9m 9m Plus 1 or 9m Plus 8

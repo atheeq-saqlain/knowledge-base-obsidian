@@ -1,5 +1,5 @@
 ---
-code: q_6vTZQ3P2sr
+code: Q-2609221829-0RVYMKMM
 questionType: exercise
 ---
 # Difference of 1000th Terms Same d

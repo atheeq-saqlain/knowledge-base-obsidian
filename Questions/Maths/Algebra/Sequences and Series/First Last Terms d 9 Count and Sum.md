@@ -1,5 +1,5 @@
 ---
-code: q_EKVXonCP5V
+code: Q-2609221829-QA0MQTHM
 questionType: exercise
 ---
 # First Last Terms d 9 Count and Sum

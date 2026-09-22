@@ -1,5 +1,5 @@
 ---
-code: q_Xnx0Jo6iW2
+code: Q-2609221829-V6H36SZD
 questionType: exercise
 ---
 # Lighthouse Warning Sector Area

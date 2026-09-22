@@ -28,5 +28,5 @@ roles : primary | supporting
 |       |      1 |  false   | primary |
 
 <!-- Link concepts in labels with [[wikilinks]]. role: primary | supporting -->
-<!-- code: opaque stable id (q_…). Set once; never change on move/rename. -->
+<!-- code: Q-YYMMDDHHMM-XXXXXXXX. Set once; never change on move/rename. -->
 <!-- Place the file in the same topic folder as the Core Concept. -->

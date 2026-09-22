@@ -1,5 +1,5 @@
 ---
-code: q_8pHoqc1CzO
+code: Q-2609221829-NS1PTZGY
 questionType: exercise
 ---
 # Equilateral Altitude Side 2a

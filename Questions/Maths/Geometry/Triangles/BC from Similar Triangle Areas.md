@@ -1,5 +1,5 @@
 ---
-code: q_vs5aucCf1m
+code: Q-2609221829-38RZW17X
 questionType: exercise
 ---
 # BC from Similar Triangle Areas

@@ -1,5 +1,5 @@
 ---
-code: q_qdjQNSZQyh
+code: Q-2609221829-HHTZXG0D
 questionType: exercise
 ---
 # Areas Ratio Square of Medians

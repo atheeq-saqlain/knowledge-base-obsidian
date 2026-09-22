@@ -1,5 +1,5 @@
 ---
-code: q_JCepAFEisC
+code: Q-2609221829-7NWDN3W0
 questionType: exercise
 ---
 # Area ADE Scale Factor One Fourth

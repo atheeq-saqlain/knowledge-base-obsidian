@@ -1,5 +1,5 @@
 ---
-code: q_EBRRysHTNO
+code: Q-2609221829-ANZ7KMS8
 questionType: exercise
 ---
 # Two Cubes Joined Surface Area

@@ -1,5 +1,5 @@
 ---
-code: q_9t5b62eL4I
+code: Q-2609221829-MGE07S4M
 questionType: exercise
 ---
 # Midpoints of Rectangle Form Rhombus

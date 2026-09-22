@@ -1,5 +1,5 @@
 ---
-code: q_806miGLXPI
+code: Q-2609221829-V7DM5DMK
 questionType: exercise
 ---
 # Obtuse Triangle Pythagoras Extension

@@ -1,5 +1,5 @@
 ---
-code: q_1Fec4LEVjS
+code: Q-2609221829-W8AKSZ9Z
 questionType: exercise
 ---
 # Shaded Concentric Sector Ring 40

@@ -1,5 +1,5 @@
 ---
-code: q_CbVoNc08iW
+code: Q-2609221829-G2FXA2PN
 questionType: exercise
 ---
 # When nth Terms of Two APs Equal

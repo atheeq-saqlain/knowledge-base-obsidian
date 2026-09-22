@@ -1,5 +1,5 @@
 ---
-code: q_YVa1cqw6Bd
+code: Q-2609221829-PXMP0GSH
 questionType: exercise
 ---
 # Right Triangle Scale Factor Five Thirds

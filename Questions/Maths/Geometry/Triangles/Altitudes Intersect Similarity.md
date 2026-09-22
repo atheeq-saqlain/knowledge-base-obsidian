@@ -1,5 +1,5 @@
 ---
-code: q_mQQG3yblfw
+code: Q-2609221829-FK2NJ4C8
 questionType: exercise
 ---
 # Altitudes Intersect Similarity

@@ -1,5 +1,5 @@
 ---
-code: q_yoyKO20gtq
+code: Q-2609221829-5C6BJP1C
 questionType: exercise
 ---
 # Sin and Sec from 15 Cot A Equals 8

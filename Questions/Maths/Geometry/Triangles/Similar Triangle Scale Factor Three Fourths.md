@@ -1,5 +1,5 @@
 ---
-code: q_dJuatPnvLm
+code: Q-2609221829-838ZNVQF
 questionType: exercise
 ---
 # Similar Triangle Scale Factor Three Fourths

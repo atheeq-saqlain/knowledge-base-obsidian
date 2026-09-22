@@ -1,5 +1,5 @@
 ---
-code: q_3PE4oUzxGT
+code: Q-2609221829-M3AKWZXX
 questionType: exercise
 ---
 # Proportional Sides Median Similarity Two

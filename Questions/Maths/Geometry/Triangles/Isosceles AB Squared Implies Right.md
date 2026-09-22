@@ -1,5 +1,5 @@
 ---
-code: q_CBbr5PpQ0S
+code: Q-2609221829-97Z6XFW7
 questionType: exercise
 ---
 # Isosceles AB Squared Implies Right

@@ -1,5 +1,5 @@
 ---
-code: q_xR7fKhq9Rg
+code: Q-2609221829-QCYWX849
 questionType: exercise
 ---
 # Midpoint Triangle Area Ratio

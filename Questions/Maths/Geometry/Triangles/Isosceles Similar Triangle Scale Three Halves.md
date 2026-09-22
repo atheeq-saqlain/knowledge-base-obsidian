@@ -1,5 +1,5 @@
 ---
-code: q_R4YV3KgF5C
+code: Q-2609221829-CWVH8JWC
 questionType: exercise
 ---
 # Isosceles Similar Triangle Scale Three Halves

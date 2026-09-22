@@ -1,5 +1,5 @@
 ---
-code: q_jkg2F4qt1f
+code: Q-2609221829-AQ7CY9XA
 questionType: exercise
 ---
 # Point P with AP Three Sevenths AB

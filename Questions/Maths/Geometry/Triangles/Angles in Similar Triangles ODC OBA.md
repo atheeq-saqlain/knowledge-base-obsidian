@@ -1,5 +1,5 @@
 ---
-code: q_oYtvB4M81N
+code: Q-2609221829-PYM02NSD
 questionType: exercise
 ---
 # Angles in Similar Triangles ODC OBA

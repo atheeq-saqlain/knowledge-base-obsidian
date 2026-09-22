@@ -1,5 +1,5 @@
 ---
-code: q_Lup1DTUyXZ
+code: Q-2609221829-03CG6A3W
 questionType: exercise
 ---
 # Equidistant Relation Between x and y

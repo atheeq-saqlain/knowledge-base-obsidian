@@ -1,5 +1,5 @@
 ---
-code: q_nXpzOUBtNy
+code: Q-2609221829-34PJ3T0T
 questionType: exercise
 ---
 # Identify Right Triangles by Sides

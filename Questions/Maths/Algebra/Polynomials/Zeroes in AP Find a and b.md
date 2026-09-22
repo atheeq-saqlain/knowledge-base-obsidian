@@ -1,5 +1,5 @@
 ---
-code: q_XPApnvL0g9
+code: Q-2609221829-1MBFDQES
 questionType: exercise
 ---
 # Zeroes in AP Find a and b

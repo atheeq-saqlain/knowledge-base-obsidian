@@ -1,5 +1,5 @@
 ---
-code: q_FQ48GS5pbx
+code: Q-2609221829-358YK2WF
 questionType: exercise
 ---
 # Two Ships from Lighthouse

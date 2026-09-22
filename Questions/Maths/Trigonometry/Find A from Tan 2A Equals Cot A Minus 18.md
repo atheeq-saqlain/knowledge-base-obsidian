@@ -1,5 +1,5 @@
 ---
-code: q_sHi8Kqb7Ge
+code: Q-2609221829-R7P3JWZQ
 questionType: exercise
 ---
 # Find A from Tan 2A Equals Cot A Minus 18

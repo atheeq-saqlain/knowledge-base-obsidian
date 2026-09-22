@@ -1,5 +1,5 @@
 ---
-code: q_SeTYpDwvww
+code: Q-2609221829-8DWGGXDW
 questionType: exercise
 ---
 # Area of Triangle from Vertices

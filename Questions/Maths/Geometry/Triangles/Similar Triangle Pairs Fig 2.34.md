@@ -1,5 +1,5 @@
 ---
-code: q_4prqZhTBzW
+code: Q-2609221829-PNAQFGE1
 questionType: exercise
 ---
 # Similar Triangle Pairs Fig 2.34

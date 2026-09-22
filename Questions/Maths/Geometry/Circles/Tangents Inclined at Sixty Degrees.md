@@ -1,5 +1,5 @@
 ---
-code: q_zRDAQ5ujdw
+code: Q-2609221829-529PM3HC
 questionType: exercise
 ---
 # Tangents Inclined at Sixty Degrees

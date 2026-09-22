@@ -26,7 +26,7 @@ Frontmatter:
 
 ```yaml
 ---
-code: c_V1StGXR8_Z
+code: C-2609222259-7K4M2P9F
 kind: schema
 ---
 ```
@@ -89,13 +89,21 @@ DSA may stay flat under `Concepts/DSA/` until a cluster (for example graphs vs D
 
 ## Catalog codes
 
-Every concept, question, and syllabus note has a **`code`** in frontmatter. Codes are the **only** catalog join key for sync and APIs. They are opaque, unique across the whole catalog, and **never** derived from folder path or title.
+Every concept, question, and syllabus note has a **`code`** in frontmatter. Codes are the **only** catalog join key for sync and APIs. They are unique across the whole catalog, and **never** derived from folder path or title.
 
-| Type | Prefix | Example |
-|------|--------|---------|
-| Concept | `c_` | `c_V1StGXR8_Z` |
-| Question | `q_` | `q_Kq5xNw7mP2` |
-| Syllabus | `s_` | `s_9f3Qm2LxYk` |
+Format: `{C|Q|S}-YYMMDDHHMM-XXXXXXXX`
+
+| Part | Meaning |
+|------|---------|
+| Prefix | `C` concept, `Q` question, `S` syllabus |
+| Timestamp | UTC creation time `YYMMDDHHMM` (informational — not uniqueness) |
+| Random | 8 Crockford Base32 characters (`0123456789ABCDEFGHJKMNPQRSTVWXYZ`) |
+
+| Type | Example |
+|------|---------|
+| Concept | `C-2609222259-7K4M2P9F` |
+| Question | `Q-2609222301-M4Q7ZT8X` |
+| Syllabus | `S-2609222305-P3N8K2WH` |
 
 **Rules:**
 
@@ -107,6 +115,7 @@ Every concept, question, and syllabus note has a **`code`** in frontmatter. Code
 # from knowledge-tracker-server
 npm run backfill-obsidian-codes
 npm run backfill-catalog-codes   # MongoDB docs missing code
+npm run rewrite-catalog-codes    # one-shot vault + Mongo rewrite to the current format
 ```
 
 4. Sync **requires** a valid `code` and upserts by code only. Notes without `code` are skipped.
@@ -118,7 +127,7 @@ npm run backfill-catalog-codes   # MongoDB docs missing code
 | Section / field | Purpose |
 | --------------- | ------- |
 | **Note title**  | Human-readable name → `Concept.name` |
-| **`code`**      | Opaque stable id (`c_…`) — sync join key |
+| **`code`**      | Stable id (`C-YYMMDDHHMM-XXXXXXXX`) — sync join key |
 | **`kind`**      | See table above → `Concept.kind` |
 | **Definition**  | Precise, generic statement. Prefer standalone; add `[[wikilinks]]` only when another concept is **required**. Those links become `preRequisitConcepts` on sync |
 | **Description** | Elaboration and examples — **no wikilinks** |
@@ -149,7 +158,7 @@ Institutional learning paths (board, grade, exam, course). This is the **only** 
 | Section / field | Purpose                                                                                         |
 | --------------- | ----------------------------------------------------------------------------------------------- |
 | **Note title**  | → `Syllabus.name`                                                                               |
-| **`code`**      | Opaque stable id (`s_…`) — join key                                                             |
+| **`code`**      | Stable id (`S-YYMMDDHHMM-XXXXXXXX`) — join key                                                   |
 | **`label`**     | Short display code (e.g. `KSEEB-10-MATH`, `dsa-blind-75`)                                        |
 | **`grade`**     | Grade / audience label                                                                          |
 | **`status`**    | `draft` \| `active`                                                                             |

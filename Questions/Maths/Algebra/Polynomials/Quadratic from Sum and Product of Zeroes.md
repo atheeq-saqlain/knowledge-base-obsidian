@@ -1,5 +1,5 @@
 ---
-code: q_ZoPmxbkfjg
+code: Q-2609221829-Q7QQE4RX
 questionType: exercise
 ---
 # Quadratic from Sum and Product of Zeroes

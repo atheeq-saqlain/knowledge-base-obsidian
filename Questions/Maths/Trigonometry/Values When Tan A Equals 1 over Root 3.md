@@ -1,5 +1,5 @@
 ---
-code: q_dN08Q8aQdD
+code: Q-2609221829-8JA5ASX0
 questionType: exercise
 ---
 # Values When Tan A Equals 1 over Root 3

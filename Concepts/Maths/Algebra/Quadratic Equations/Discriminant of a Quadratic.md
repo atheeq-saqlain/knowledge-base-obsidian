@@ -1,5 +1,5 @@
 ---
-code: c_QRC6jlgDUh
+code: C-2609221829-FPDXB8QC
 kind: schema
 ---
 # Discriminant of a Quadratic

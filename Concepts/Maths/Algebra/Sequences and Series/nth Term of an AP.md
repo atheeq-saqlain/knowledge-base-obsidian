@@ -1,5 +1,5 @@
 ---
-code: c_8qMATgItXj
+code: C-2609221829-T9X9MHFX
 kind: schema
 ---
 # nth Term of an AP

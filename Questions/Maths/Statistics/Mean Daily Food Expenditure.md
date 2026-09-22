@@ -1,5 +1,5 @@
 ---
-code: q_jNsiNwz8Q2
+code: Q-2609221829-YFFSZ43F
 questionType: exercise
 ---
 # Mean Daily Food Expenditure

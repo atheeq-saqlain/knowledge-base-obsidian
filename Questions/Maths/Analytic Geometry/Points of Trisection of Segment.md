@@ -1,5 +1,5 @@
 ---
-code: q_GGldeVzv8Y
+code: Q-2609221829-Z8E7AY0D
 questionType: exercise
 ---
 # Points of Trisection of Segment

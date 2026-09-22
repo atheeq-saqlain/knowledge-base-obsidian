@@ -1,5 +1,5 @@
 ---
-code: q_OdDxahHzlp
+code: Q-2609221829-C788E2JB
 questionType: exercise
 ---
 # First Three Terms from Term Sums

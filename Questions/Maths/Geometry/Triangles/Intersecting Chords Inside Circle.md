@@ -1,5 +1,5 @@
 ---
-code: q_uge53duund
+code: Q-2609221829-QE6MSCTR
 questionType: exercise
 ---
 # Intersecting Chords Inside Circle

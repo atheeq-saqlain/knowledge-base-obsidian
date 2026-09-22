@@ -1,5 +1,5 @@
 ---
-code: c_QssnTMIi9e
+code: C-2609221829-68S7F716
 kind: representation
 ---
 # Geometrical Meaning of Zeroes of a Polynomial

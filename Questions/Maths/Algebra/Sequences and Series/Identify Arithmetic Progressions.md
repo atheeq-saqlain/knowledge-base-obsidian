@@ -1,5 +1,5 @@
 ---
-code: q_H8o9mGuUc2
+code: Q-2609221829-SFKBYV4P
 questionType: exercise
 ---
 # Identify Arithmetic Progressions

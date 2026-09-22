@@ -1,5 +1,5 @@
 ---
-code: q_6CBuRbOArf
+code: Q-2609221829-YAC2HJMX
 questionType: exercise
 ---
 # Midpoints Join Parallel Third Side

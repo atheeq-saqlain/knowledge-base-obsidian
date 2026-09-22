@@ -1,5 +1,5 @@
 ---
-code: q_ljwq3jwb6v
+code: Q-2609221829-7RBAV77E
 questionType: exercise
 ---
 # LCM from Given HCF 306 657

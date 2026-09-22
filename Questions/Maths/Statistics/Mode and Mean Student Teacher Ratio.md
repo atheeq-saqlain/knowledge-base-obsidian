@@ -1,5 +1,5 @@
 ---
-code: q_lxyhqTvidi
+code: Q-2609221829-VNKC2XCK
 questionType: exercise
 ---
 # Mode and Mean Student Teacher Ratio

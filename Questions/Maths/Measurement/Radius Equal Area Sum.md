@@ -1,5 +1,5 @@
 ---
-code: q_392zkfM7VC
+code: Q-2609221829-565MCW6Y
 questionType: exercise
 ---
 # Radius Equal Area Sum
