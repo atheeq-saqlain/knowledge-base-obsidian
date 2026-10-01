@@ -3,13 +3,14 @@ code: S-2609221829-2V2RM6EX
 label: KSEEB-10-MATH
 grade: 10
 status: draft
+tags:
 ---
  
 # 10th Karnataka State Board — Mathematics
 
 ## Summary
 
-Class 10 Mathematics per the Karnataka Textbook Society (KTBS) textbook. Part I ([10th-english-maths-1_compressed.pdf](../resources/10th-english-maths-1_compressed.pdf)) covers eight units: Arithmetic Progressions, Triangles, Pair of Linear Equations in Two Variables, Circles, Areas Related to Circles, Constructions, Coordinate Geometry, and Real Numbers. Part II ([10th-english-maths-2_compressed.pdf](../resources/10th-english-maths-2_compressed.pdf)) continues with Polynomials and later units.
+Class 10 Mathematics per the Karnataka Textbook Society (KTBS) textbook. Part I ([10th-english-maths-1_compressed.pdf](10th-english-maths-1_compressed.pdf)) covers eight units: Arithmetic Progressions, Triangles, Pair of Linear Equations in Two Variables, Circles, Areas Related to Circles, Constructions, Coordinate Geometry, and Real Numbers. Part II ([10th-english-maths-2_compressed.pdf](10th-english-maths-2_compressed.pdf)) continues with Polynomials and later units.
 
 Chapters 1–8 (Part I) and Chapters 9–15 (through Surface Areas and Volumes, Part II) include the full textbook exercises.
 
