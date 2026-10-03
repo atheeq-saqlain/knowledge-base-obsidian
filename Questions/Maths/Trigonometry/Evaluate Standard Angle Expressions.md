@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-NMYX7RN5
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.2, Question 1."
 ---
 # Evaluate Standard Angle Expressions
 
@@ -16,7 +17,6 @@ Evaluate the following:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.2, Question 1.
 
 ## Correct Answer
 

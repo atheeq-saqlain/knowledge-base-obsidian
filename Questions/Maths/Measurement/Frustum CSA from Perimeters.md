@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-V84ZX3SA
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.4, Question 2."
 ---
 # Frustum CSA from Perimeters
 
@@ -10,7 +11,7 @@ The slant height of a frustum of a cone is 4 cm and the perimeters (circumferenc
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.4, Question 2.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

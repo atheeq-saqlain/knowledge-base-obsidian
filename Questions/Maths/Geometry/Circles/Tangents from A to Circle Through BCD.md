@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-5MC075HV
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 6.2, Question 6."
 ---
 # Tangents from A to Circle Through BCD
 
@@ -10,7 +11,6 @@ Right ΔABC with AB = 6 cm, BC = 8 cm, ∠B = 90°; BD ⊥ AC. Draw the circle t
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 6.2, Question 6.
 
 ## Correct Answer
 

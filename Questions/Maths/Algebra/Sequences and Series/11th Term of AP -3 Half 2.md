@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-MC9VX1E0
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 2(ii)."
 ---
 # 11th Term of AP -3 Half 2
 
@@ -13,8 +14,6 @@ The 11th term of the AP: −3, −1/2, 2, … is
 (A) 28  (B) 22  (C) −38  (D) −48½
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 2(ii).
 
 ## Correct Answer
 

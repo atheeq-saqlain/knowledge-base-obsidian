@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-3PRM95AF
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 12."
 ---
 # Sum of First 40 Multiples of 6
 
@@ -10,7 +11,6 @@ Find the sum of the first 40 positive integers divisible by 6.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 12.
 
 ## Correct Answer
 

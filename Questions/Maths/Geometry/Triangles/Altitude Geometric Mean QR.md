@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-MNM1WD2S
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.5, Question 2."
 ---
 # Altitude Geometric Mean QR
 
@@ -9,8 +10,6 @@ questionType: exercise
 PQR is a triangle right-angled at P and M is a point on QR such that PM ⊥ QR. Show that PM² = QM · MR.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 2.5, Question 2.
 
 ## Correct Answer
 

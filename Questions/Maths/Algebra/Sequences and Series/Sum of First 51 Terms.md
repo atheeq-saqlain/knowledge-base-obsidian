@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-KNX2APZG
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 8."
 ---
 # Sum of First 51 Terms
 
@@ -10,7 +11,6 @@ Find the sum of first 51 terms of an AP whose second and third terms are 14 and 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 8.
 
 ## Correct Answer
 

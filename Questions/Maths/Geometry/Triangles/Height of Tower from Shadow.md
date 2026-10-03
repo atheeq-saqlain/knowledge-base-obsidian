@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-4JX8P438
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.3, Question 15."
 ---
 # Height of Tower from Shadow
 
@@ -25,7 +26,6 @@ A vertical pole of length 6 m casts a shadow 4 m long on the ground and at the s
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.3, Question 15.
 
 ## Correct Answer
 

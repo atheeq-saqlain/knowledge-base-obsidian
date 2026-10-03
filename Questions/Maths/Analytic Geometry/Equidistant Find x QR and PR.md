@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Z32D2HWA
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.1, Question 9."
 ---
 # Equidistant Find x QR and PR
 
@@ -9,8 +10,6 @@ questionType: exercise
 If Q(0, 1) is equidistant from P(5, −3) and R(x, 6), find the values of x. Also find QR and PR.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 7.1, Question 9.
 
 ## Correct Answer
 

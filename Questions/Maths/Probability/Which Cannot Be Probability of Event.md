@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ZZHM4WEP
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 4."
 ---
 # Which Cannot Be Probability of Event
 
@@ -12,7 +13,6 @@ Which of the following cannot be the probability of an event?
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 4.
 
 ## Correct Answer
 

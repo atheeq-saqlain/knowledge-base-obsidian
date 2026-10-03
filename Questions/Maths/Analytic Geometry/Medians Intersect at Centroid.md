@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-CAN7GSVY
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.4, Question 7 (Optional)."
 ---
 # Medians Intersect at Centroid
 
@@ -14,7 +15,6 @@ Vertices A(4, 2), B(6, 5), C(1, 4).
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.4, Question 7 (Optional).
 
 ## Correct Answer
 

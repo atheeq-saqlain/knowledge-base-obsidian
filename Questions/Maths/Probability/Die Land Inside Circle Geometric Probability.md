@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-2KC6KDCE
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 20."
 ---
 # Die Land Inside Circle Geometric Probability
 
@@ -10,7 +11,6 @@ Suppose you drop a die at random on a rectangular region of 3 m × 2 m. What is 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 20.
 
 ## Correct Answer
 

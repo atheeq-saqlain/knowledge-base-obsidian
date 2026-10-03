@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-C9MNRHTF
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.3, Question 8."
 ---
 # Racing Track Inner Perimeter Area
 
@@ -13,7 +14,6 @@ A racing track has parallel straight segments connected by semicircular ends. Th
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.3, Question 8.
 
 ## Correct Answer
 

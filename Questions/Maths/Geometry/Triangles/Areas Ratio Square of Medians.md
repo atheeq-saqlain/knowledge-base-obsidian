@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-HHTZXG0D
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.4, Question 6."
 ---
 # Areas Ratio Square of Medians
 
@@ -10,7 +11,6 @@ Prove that the ratio of the areas of two similar triangles is equal to the squar
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.4, Question 6.
 
 ## Correct Answer
 

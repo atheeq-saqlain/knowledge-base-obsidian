@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-MC8DTX8D
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 7."
 ---
 # 31st Term from 11th and 16th
 
@@ -9,8 +10,6 @@ questionType: exercise
 Find the 31st term of an AP whose 11th term is 38 and the 16th term is 73.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 7.
 
 ## Correct Answer
 

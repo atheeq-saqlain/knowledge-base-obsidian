@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-9D6W3MDA
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.2, Question 9."
 ---
 # Silver Brooch Wire and Sectors
 
@@ -13,7 +14,6 @@ A brooch is made with silver wire in the form of a circle with a diameter of 35 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.2, Question 9.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-JDK6SR3R
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.6, Question 4."
 ---
 # Acute Triangle Pythagoras Extension
 
@@ -22,8 +23,6 @@ In Fig. 2.59, ABC is a triangle in which ∠ABC < 90° and AD ⊥ BC. Prove that
 ```
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 2.6, Question 4.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-9XZMSYGJ
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.2 Optional, Question 3."
 ---
 # Blue Balls Double Red Probability
 
@@ -9,8 +10,6 @@ questionType: exercise
 A bag contains 5 red balls and some blue balls. If the probability of drawing a blue ball is double that of a red ball, determine the number of blue balls in the bag.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part II, Exercise 14.2 Optional, Question 3.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-DMY30NEV
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.1, Question 1."
 ---
 # Radius Equal Circumference Sum
 
@@ -10,7 +11,6 @@ The radii of two circles are 19 cm and 9 cm respectively. Find the radius of the
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.1, Question 1.
 
 ## Correct Answer
 

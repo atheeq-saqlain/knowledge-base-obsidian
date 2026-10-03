@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-6MHPP9MT
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.3, Question 14."
 ---
 # Concentric Arcs Shaded 30 Degrees
 
@@ -10,7 +11,6 @@ AB and CD are respectively arcs of two concentric circles of radii 21 cm and 7 c
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.3, Question 14.
 
 ## Correct Answer
 

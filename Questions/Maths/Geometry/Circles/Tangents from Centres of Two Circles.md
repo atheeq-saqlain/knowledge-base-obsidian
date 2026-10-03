@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-YHHSZ4EZ
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 6.2, Question 5."
 ---
 # Tangents from Centres of Two Circles
 
@@ -10,7 +11,6 @@ Draw AB = 8 cm. With centre A draw a circle of radius 4 cm; with centre B draw a
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 6.2, Question 5.
 
 ## Correct Answer
 

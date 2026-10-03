@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-B8HCHMBB
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.1, Question 9."
 ---
 # Mean Literacy Rate
 
@@ -10,7 +11,6 @@ Find the mean literacy rate across 35 cities for classes 45–55, 55–65, 65–
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.1, Question 9.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-B3E14M1C
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.1, Question 6."
 ---
 # Type of Quadrilateral from Points
 
@@ -13,7 +14,6 @@ Name the type of quadrilateral formed, if any, by:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.1, Question 6.
 
 ## Correct Answer
 

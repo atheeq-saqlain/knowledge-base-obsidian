@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-CRSD46MP
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.4, Question 4."
 ---
 # Two Friends Ages Product 48
 
@@ -12,7 +13,6 @@ The sum of the ages of two friends is 20 years. Four years ago, the product of t
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.4, Question 4.
 
 ## Correct Answer
 

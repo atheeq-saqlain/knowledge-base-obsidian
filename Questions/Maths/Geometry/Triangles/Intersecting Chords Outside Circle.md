@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-7HKS4D71
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.6, Question 8."
 ---
 # Intersecting Chords Outside Circle
 
@@ -27,7 +28,6 @@ In Fig. 2.62, two chords AB and CD of a circle intersect each other at the point
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.6, Question 8.
 
 ## Correct Answer
 

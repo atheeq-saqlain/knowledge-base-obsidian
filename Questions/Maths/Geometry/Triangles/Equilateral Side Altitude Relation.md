@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-QGZKB2HZ
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.5, Question 16."
 ---
 # Equilateral Side Altitude Relation
 
@@ -10,7 +11,6 @@ In an equilateral triangle, prove that three times the square of one side is equ
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.5, Question 16.
 
 ## Correct Answer
 

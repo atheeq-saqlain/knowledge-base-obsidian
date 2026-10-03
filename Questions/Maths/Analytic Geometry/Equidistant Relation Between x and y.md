@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-03CG6A3W
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.1, Question 10."
 ---
 # Equidistant Relation Between x and y
 
@@ -9,8 +10,6 @@ questionType: exercise
 Find a relation between x and y such that (x, y) is equidistant from (3, 6) and (−3, 4).
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 7.1, Question 10.
 
 ## Correct Answer
 

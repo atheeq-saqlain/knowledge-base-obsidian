@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-P88791Q3
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 24."
 ---
 # Die Thrown Twice Five Probabilities
 
@@ -14,7 +15,6 @@ A die is thrown twice. What is the probability that:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 24.
 
 ## Correct Answer
 

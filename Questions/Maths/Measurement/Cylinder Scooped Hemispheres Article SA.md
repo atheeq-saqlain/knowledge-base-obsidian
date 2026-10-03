@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Y1K5T5J2
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.1, Question 9."
 ---
 # Cylinder Scooped Hemispheres Article SA
 
@@ -10,7 +11,7 @@ A wooden article was made by scooping out a hemisphere from each end of a solid 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.1, Question 9.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

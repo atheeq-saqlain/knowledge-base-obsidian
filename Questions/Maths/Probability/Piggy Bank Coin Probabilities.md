@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-8E2AB6N1
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 10."
 ---
 # Piggy Bank Coin Probabilities
 
@@ -14,7 +15,6 @@ A piggy bank contains hundred 50p coins, fifty ₹1 coins, twenty ₹2 coins, an
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 10.
 
 ## Correct Answer
 

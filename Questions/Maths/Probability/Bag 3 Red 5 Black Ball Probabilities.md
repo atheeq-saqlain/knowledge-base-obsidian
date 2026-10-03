@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-GZW3HH6X
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 8."
 ---
 # Bag 3 Red 5 Black Ball Probabilities
 
@@ -13,8 +14,6 @@ A bag contains 3 red balls and 5 black balls. A ball is drawn at random from the
 (ii) not red?
 
 ## Description
-
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 8.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-87VPAT7K
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.3, Question 15."
 ---
 # Quadrant Semicircle on BC Shaded
 
@@ -10,7 +11,6 @@ ABC is a quadrant of a circle of radius 14 cm and a semicircle is drawn with BC 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.3, Question 15.
 
 ## Correct Answer
 

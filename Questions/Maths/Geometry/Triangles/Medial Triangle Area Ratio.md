@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-APTYKE6H
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.4, Question 5."
 ---
 # Medial Triangle Area Ratio
 
@@ -10,7 +11,6 @@ D, E and F are respectively the mid-points of sides AB, BC and CA of ΔABC. Find
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.4, Question 5.
 
 ## Correct Answer
 

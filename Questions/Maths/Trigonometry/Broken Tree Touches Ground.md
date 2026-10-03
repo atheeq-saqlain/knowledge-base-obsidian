@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-FY8JVVGJ
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 12.1, Question 2."
 ---
 # Broken Tree Touches Ground
 
@@ -10,7 +11,6 @@ A tree breaks due to storm and the broken part bends so that the top of the tree
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 12.1, Question 2.
 
 ## Correct Answer
 

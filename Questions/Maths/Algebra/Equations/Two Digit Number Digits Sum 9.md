@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Z2DT5HQ1
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.4, Question 2(iii)."
 ---
 # Two Digit Number Digits Sum 9
 
@@ -10,7 +11,6 @@ The sum of the digits of a two-digit number is 9. Also, nine times this number i
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.4, Question 2(iii).
 
 ## Correct Answer
 

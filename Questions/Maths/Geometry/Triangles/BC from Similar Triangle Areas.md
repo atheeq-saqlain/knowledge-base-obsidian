@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-38RZW17X
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.4, Question 1."
 ---
 # BC from Similar Triangle Areas
 
@@ -9,8 +10,6 @@ questionType: exercise
 Let ΔABC ~ ΔDEF and their areas be, respectively, 64 cm² and 121 cm². If EF = 15.4 cm, find BC.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 2.4, Question 1.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-A32F8DCB
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.3, Question 2."
 ---
 # Find m from Substitution Solution
 
@@ -10,7 +11,6 @@ Solve 2x + 3y = 11 and 2x − 4y = −24, and hence find the value of m for whic
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.3, Question 2.
 
 ## Correct Answer
 

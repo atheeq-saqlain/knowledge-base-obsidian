@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-NS1PTZGY
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.5, Question 6."
 ---
 # Equilateral Altitude Side 2a
 
@@ -10,7 +11,6 @@ ABC is an equilateral triangle of side 2a. Find each of its altitudes.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.5, Question 6.
 
 ## Correct Answer
 

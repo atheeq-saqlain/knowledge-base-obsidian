@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-2NMDC088
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.1, Question 2."
 ---
 # Tan P Minus Cot R
 
@@ -10,7 +11,6 @@ In right-angled triangle PQR (right-angled at Q), if PQ = 12 cm and PR = 13 cm, 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.1, Question 2.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-RDFG582R
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.3, Question 5."
 ---
 # Median Divides Triangle Equal Areas
 
@@ -9,8 +10,6 @@ questionType: exercise
 For ΔABC with A(4, −6), B(3, −2) and C(5, 2), verify that a median divides the triangle into two triangles of equal areas.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 7.3, Question 5.
 
 ## Correct Answer
 

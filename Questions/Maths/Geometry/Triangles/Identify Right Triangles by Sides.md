@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-34PJ3T0T
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.5, Question 1."
 ---
 # Identify Right Triangles by Sides
 
@@ -15,7 +16,6 @@ Sides of triangles are given below. Determine which of them are right triangles.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.5, Question 1.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-MQ93E0AP
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.2, Question 2."
 ---
 # Cylinder Two Cones Air Volume
 
@@ -10,7 +11,7 @@ Rachel, an engineering student, was asked to make a model shaped like a cylinder
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.2, Question 2.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

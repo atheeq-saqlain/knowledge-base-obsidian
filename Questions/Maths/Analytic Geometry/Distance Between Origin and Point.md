@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-WY2XEK5S
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.1, Question 2."
 ---
 # Distance Between Origin and Point
 
@@ -10,7 +11,6 @@ Find the distance between the points (0, 0) and (36, 15).
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.1, Question 2.
 
 ## Correct Answer
 

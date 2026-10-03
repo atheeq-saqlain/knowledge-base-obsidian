@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-CK7J7M1Q
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.4, Question 2."
 ---
 # Other Ratios in Terms of Sec
 
@@ -10,7 +11,6 @@ Write all the other trigonometric ratios of ∠A in terms of sec A.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.4, Question 2.
 
 ## Correct Answer
 

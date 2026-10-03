@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-28VKAM0E
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.2, Question 9."
 ---
 # Trapezium Diagonal Ratio AO BO
 
@@ -10,7 +11,6 @@ ABCD is a trapezium in which AB ∥ DC and its diagonals intersect each other at
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.2, Question 9.
 
 ## Correct Answer
 

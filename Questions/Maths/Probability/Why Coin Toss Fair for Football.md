@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-JRP4BTBB
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 3."
 ---
 # Why Coin Toss Fair for Football
 
@@ -10,7 +11,6 @@ Why is tossing a coin considered to be a fair way of deciding which team should 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 3.
 
 ## Correct Answer
 

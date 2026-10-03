@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-8HW52QVE
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.1, Question 2."
 ---
 # Represent Situations as Quadratic Equations
 
@@ -15,7 +16,6 @@ Represent the following situations in the form of quadratic equations:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.1, Question 2.
 
 ## Correct Answer
 

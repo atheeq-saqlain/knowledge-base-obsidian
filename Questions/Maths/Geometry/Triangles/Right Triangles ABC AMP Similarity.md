@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-AKB2KD9J
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.3, Question 9."
 ---
 # Right Triangles ABC AMP Similarity
 
@@ -30,7 +31,6 @@ In Fig. 2.39, ABC and AMP are two right triangles, right-angled at B and M respe
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.3, Question 9.
 
 ## Correct Answer
 

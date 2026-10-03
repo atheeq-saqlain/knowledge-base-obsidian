@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-R2EA0B30
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.3, Question 2."
 ---
 # Three Spheres Melted One Sphere Radius
 
@@ -10,7 +11,7 @@ Metallic spheres of radii 6 cm, 8 cm and 10 cm, respectively, are melted to form
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.3, Question 2.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

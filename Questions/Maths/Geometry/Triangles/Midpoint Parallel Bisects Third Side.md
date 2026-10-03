@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-DVN9HTRW
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.2, Question 7."
 ---
 # Midpoint Parallel Bisects Third Side
 
@@ -10,7 +11,6 @@ Using Theorem 2.1 (BPT), prove that a line drawn through the mid-point of one si
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.2, Question 7.
 
 ## Correct Answer
 

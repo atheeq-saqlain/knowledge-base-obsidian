@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-YFJ5HM2E
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 11."
 ---
 # Term 132 More Than 54th
 
@@ -10,7 +11,6 @@ Which term of the AP: 3, 15, 27, 39, … will be 132 more than its 54th term?
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 11.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ZH75TQ7Q
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.2, Question 2."
 ---
 # Multiple Choice Standard Angle Identities
 
@@ -15,7 +16,6 @@ Choose the correct option and justify your choice:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.2, Question 2.
 
 ## Correct Answer
 

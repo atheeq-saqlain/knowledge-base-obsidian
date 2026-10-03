@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-DZH5SNSJ
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.2, Question 3."
 ---
 # Flags Distance on School Ground
 
@@ -10,7 +11,6 @@ On a rectangular ground with chalk lines 1 m apart, take A as origin with AB alo
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.2, Question 3.
 
 ## Correct Answer
 

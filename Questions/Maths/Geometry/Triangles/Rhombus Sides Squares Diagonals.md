@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-F46X4S8F
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.5, Question 7."
 ---
 # Rhombus Sides Squares Diagonals
 
@@ -10,7 +11,6 @@ Prove that the sum of the squares of the sides of a rhombus is equal to the sum 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.5, Question 7.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-PXMP0GSH
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 6.1, Question 7."
 ---
 # Right Triangle Scale Factor Five Thirds
 
@@ -10,7 +11,6 @@ Draw a right triangle with legs 4 cm and 3 cm. Construct another triangle whose 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 6.1, Question 7.
 
 ## Correct Answer
 

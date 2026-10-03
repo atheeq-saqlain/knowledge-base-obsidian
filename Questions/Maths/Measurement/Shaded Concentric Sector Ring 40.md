@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-W8AKSZ9Z
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.3, Question 2."
 ---
 # Shaded Concentric Sector Ring 40
 
@@ -10,7 +11,6 @@ Find the area of the shaded region if the radii of two concentric circles with c
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.3, Question 2.
 
 ## Correct Answer
 

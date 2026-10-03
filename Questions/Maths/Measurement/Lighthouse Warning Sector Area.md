@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-V6H36SZD
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.2, Question 12."
 ---
 # Lighthouse Warning Sector Area
 
@@ -10,7 +11,6 @@ To warn ships of underwater rocks, a lighthouse spreads a red-coloured light ove
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.2, Question 12.
 
 ## Correct Answer
 

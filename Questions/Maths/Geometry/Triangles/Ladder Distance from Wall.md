@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-8W60NWKF
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.5, Question 9."
 ---
 # Ladder Distance from Wall
 
@@ -10,7 +11,6 @@ A ladder 10 m long reaches a window 8 m above the ground. Find the distance of t
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.5, Question 9.
 
 ## Correct Answer
 

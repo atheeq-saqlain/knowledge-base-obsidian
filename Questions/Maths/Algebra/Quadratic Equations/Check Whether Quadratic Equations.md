@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-E7DWYNMN
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.1, Question 1."
 ---
 # Check Whether Quadratic Equations
 
@@ -19,7 +20,6 @@ Check whether the following are quadratic equations:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.1, Question 1.
 
 ## Correct Answer
 

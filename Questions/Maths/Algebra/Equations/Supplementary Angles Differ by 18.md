@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-VZ05TQ89
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.3, Question 3(ii)."
 ---
 # Supplementary Angles Differ by 18
 
@@ -10,7 +11,6 @@ The larger of two supplementary angles exceeds the smaller by 18°. Find them.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.3, Question 3(ii).
 
 ## Correct Answer
 

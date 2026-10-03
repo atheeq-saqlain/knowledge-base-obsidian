@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-VP7H6E6A
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 4.1, Question 4."
 ---
 # Draw Parallel Tangent and Secant
 
@@ -9,8 +10,6 @@ questionType: exercise
 Draw a circle and two lines parallel to a given line such that one is a tangent and the other a secant to the circle.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 4.1, Question 4.
 
 ## Correct Answer
 

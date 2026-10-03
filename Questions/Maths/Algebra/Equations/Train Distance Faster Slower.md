@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-7DPVM71F
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.7, Question 3."
 ---
 # Train Distance Faster Slower
 
@@ -10,7 +11,6 @@ A train covered a certain distance at a uniform speed. If the train would have b
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.7, Question 3.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-8QFAYMAM
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.1, Question 2."
 ---
 # Hollow Hemisphere Cylinder Vessel Inner SA
 
@@ -10,7 +11,7 @@ A vessel is in the form of a hollow hemisphere surmounted by a hollow cylinder. 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.1, Question 2.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

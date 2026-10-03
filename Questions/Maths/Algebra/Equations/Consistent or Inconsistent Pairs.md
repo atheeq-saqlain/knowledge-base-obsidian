@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-B9M9GQAS
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.2, Question 3."
 ---
 # Consistent or Inconsistent Pairs
 
@@ -16,7 +17,6 @@ On comparing the ratios a₁/a₂, b₁/b₂ and c₁/c₂, find out whether the
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.2, Question 3.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-1347RZV6
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.2, Question 4."
 ---
 # Prove BF FE Equals BE EC
 
@@ -26,7 +27,6 @@ In Fig. 2.19, DE ∥ AC and DF ∥ AE. Prove that BF/FE = BE/EC.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.2, Question 4.
 
 ## Correct Answer
 

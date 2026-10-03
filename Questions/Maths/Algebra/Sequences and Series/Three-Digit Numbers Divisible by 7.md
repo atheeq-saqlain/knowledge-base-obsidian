@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-BHJYQ55T
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 13."
 ---
 # Three-Digit Numbers Divisible by 7
 
@@ -10,7 +11,6 @@ How many three-digit numbers are divisible by 7?
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 13.
 
 ## Correct Answer
 

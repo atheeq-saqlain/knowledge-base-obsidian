@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Q06DP9KV
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.3, Question 3."
 ---
 # Prove More Irrational Numbers
 
@@ -13,7 +14,6 @@ Prove that the following are irrationals:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.3, Question 3.
 
 ## Correct Answer
 

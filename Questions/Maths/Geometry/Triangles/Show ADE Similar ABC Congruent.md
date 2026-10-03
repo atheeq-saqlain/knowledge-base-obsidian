@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-RYQE4N2A
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.3, Question 6."
 ---
 # Show ADE Similar ABC Congruent
 
@@ -24,7 +25,6 @@ In Fig. 2.37, if ΔABE ≅ ΔACD, show that ΔADE ~ ΔABC.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.3, Question 6.
 
 ## Correct Answer
 

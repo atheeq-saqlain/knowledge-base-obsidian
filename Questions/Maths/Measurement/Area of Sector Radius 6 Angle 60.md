@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-2GAMCHA5
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.2, Question 1."
 ---
 # Area of Sector Radius 6 Angle 60
 
@@ -10,7 +11,6 @@ Find the area of a sector of a circle with radius 6 cm if angle of the sector is
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.2, Question 1.
 
 ## Correct Answer
 

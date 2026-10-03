@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Q62CYBBW
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.1, Question 2."
 ---
 # Examples of Similar and Non-Similar Figures
 
@@ -13,8 +14,6 @@ Give two different examples of a pair of:
 (ii) non-similar figures
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 2.1, Question 2.
 
 ## Correct Answer
 

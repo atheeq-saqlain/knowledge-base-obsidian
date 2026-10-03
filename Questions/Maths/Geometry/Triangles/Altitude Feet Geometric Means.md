@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ME67WP51
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.6, Question 2."
 ---
 # Altitude Feet Geometric Means
 
@@ -29,8 +30,6 @@ In Fig. 2.57, D is a point on hypotenuse AC of ΔABC, such that BD ⊥ AC, DM �
 ```
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 2.6, Question 2.
 
 ## Correct Answer
 

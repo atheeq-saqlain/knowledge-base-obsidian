@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-CM2FMSKP
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.4, Question 1."
 ---
 # Nature of Roots
 
@@ -14,7 +15,6 @@ Find the nature of the roots of the following quadratic equations. If the real r
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.4, Question 1.
 
 ## Correct Answer
 

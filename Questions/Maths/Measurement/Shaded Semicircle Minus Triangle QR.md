@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-KZ1HQJT0
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.3, Question 1."
 ---
 # Shaded Semicircle Minus Triangle QR
 
@@ -10,7 +11,6 @@ Find the area of the shaded region in the given figure: circle with centre O; PQ
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.3, Question 1.
 
 ## Correct Answer
 

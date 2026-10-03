@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-AWMMVM9G
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.3, Question 4."
 ---
 # Rehman Present Age
 
@@ -10,7 +11,6 @@ The sum of the reciprocals of Rehman’s ages (in years) 3 years ago and 5 years
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.3, Question 4.
 
 ## Correct Answer
 

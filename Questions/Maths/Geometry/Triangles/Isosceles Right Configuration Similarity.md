@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-3ZGNVJHZ
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.3, Question 11."
 ---
 # Isosceles Right Configuration Similarity
 
@@ -27,7 +28,6 @@ In Fig. 2.40, E is a point on side CB produced of an isosceles triangle ABC with
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.3, Question 11.
 
 ## Correct Answer
 

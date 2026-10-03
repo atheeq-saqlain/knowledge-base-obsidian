@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-78Y7CCM7
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.1, Question 1."
 ---
 # Distance Between Two Points
 
@@ -12,8 +13,6 @@ Find the distance between the following pairs of points:
 (iii) (a, b) and (−a, −b).
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 7.1, Question 1.
 
 ## Correct Answer
 

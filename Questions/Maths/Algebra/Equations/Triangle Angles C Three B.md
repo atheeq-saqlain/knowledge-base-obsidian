@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-B5FSZMBX
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.7, Question 5."
 ---
 # Triangle Angles C Three B
 
@@ -10,7 +11,6 @@ In a ΔABC, ∠C = 3∠B = 2(∠A + ∠B). Find the three angles.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.7, Question 5.
 
 ## Correct Answer
 

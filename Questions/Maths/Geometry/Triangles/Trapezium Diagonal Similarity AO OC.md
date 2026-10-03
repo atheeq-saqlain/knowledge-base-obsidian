@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-C0GAS734
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.3, Question 3."
 ---
 # Trapezium Diagonal Similarity AO OC
 
@@ -10,7 +11,6 @@ Diagonals AC and BD of a trapezium ABCD with AB ∥ DC intersect each other at t
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.3, Question 3.
 
 ## Correct Answer
 

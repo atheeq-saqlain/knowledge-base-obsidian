@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-303PRAYP
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.2, Question 5."
 ---
 # Rectangular Garden Dimensions
 
@@ -10,7 +11,6 @@ Half the perimeter of a rectangular garden, whose length is 4 m more than its wi
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.2, Question 5.
 
 ## Correct Answer
 

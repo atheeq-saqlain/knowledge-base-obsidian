@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-CGRQKP4C
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.6, Question 10."
 ---
 # Nazima Fishing Rod String
 
@@ -10,7 +11,6 @@ Nazima is fly fishing in a stream. The tip of her fishing rod is 1.8 m above the
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.6, Question 10.
 
 ## Correct Answer
 

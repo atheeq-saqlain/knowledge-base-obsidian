@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-PW84KFYY
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.1, Question 3."
 ---
 # Rhombus and Square Similarity
 
@@ -19,8 +20,6 @@ State whether the following quadrilaterals are similar or not: a rhombus of side
 ```
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 2.1, Question 3.
 
 ## Correct Answer
 

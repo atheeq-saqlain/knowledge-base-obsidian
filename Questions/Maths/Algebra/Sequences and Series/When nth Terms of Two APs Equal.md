@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-G2FXA2PN
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 15."
 ---
 # When nth Terms of Two APs Equal
 
@@ -9,8 +10,6 @@ questionType: exercise
 For what value of n are the nth terms of the two APs 63, 65, 67, … and 3, 10, 17, … equal?
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 15.
 
 ## Correct Answer
 

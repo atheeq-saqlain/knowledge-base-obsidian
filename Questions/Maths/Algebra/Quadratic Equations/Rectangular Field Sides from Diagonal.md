@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-5QYGK120
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.3, Question 6."
 ---
 # Rectangular Field Sides from Diagonal
 
@@ -10,7 +11,6 @@ The diagonal of a rectangular field is 60 metres more than the shorter side. If 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.3, Question 6.
 
 ## Correct Answer
 

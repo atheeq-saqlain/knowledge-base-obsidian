@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-SFKBYV4P
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.1, Question 1."
 ---
 # Identify Arithmetic Progressions
 
@@ -17,8 +18,6 @@ In which of the following situations does the list of numbers involved make an a
 (iv) The amount of money in the account every year, when ₹10000 is deposited at compound interest at 8% per annum.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 1.1, Question 1.
 
 ## Correct Answer
 

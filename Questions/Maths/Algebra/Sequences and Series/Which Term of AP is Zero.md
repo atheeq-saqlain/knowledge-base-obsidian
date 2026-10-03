@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-EWWNTB59
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 9."
 ---
 # Which Term of AP is Zero
 
@@ -10,7 +11,6 @@ If the 3rd and the 9th terms of an AP are 4 and −8 respectively, which term of
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 9.
 
 ## Correct Answer
 

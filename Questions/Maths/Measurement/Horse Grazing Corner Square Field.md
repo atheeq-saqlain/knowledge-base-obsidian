@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-98KY1NZY
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.2, Question 8."
 ---
 # Horse Grazing Corner Square Field
 
@@ -15,7 +16,6 @@ A horse is tied to a peg at one corner of a square-shaped grass field of side 15
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.2, Question 8.
 
 ## Correct Answer
 

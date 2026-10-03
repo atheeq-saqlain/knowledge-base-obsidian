@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ZB356H2V
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 1(ii)–(iv). Companion to [[Sum of AP 2 7 12 to 10 Terms]] (Question 1(i))."
 ---
 # Sum of APs to Given Number of Terms
 
@@ -15,8 +16,6 @@ Find the sum of the following APs:
 (iii) 1/15, 1/12, 1/10, … to 11 terms
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 1(ii)–(iv). Companion to [[Sum of AP 2 7 12 to 10 Terms]] (Question 1(i)).
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-5JAFZWJ3
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.5, Question 10."
 ---
 # Guy Wire Stake Distance
 
@@ -10,7 +11,6 @@ A guy wire attached to a vertical pole of height 18 m is 24 m long and has a sta
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.5, Question 10.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-FHWDN3W8
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 20."
 ---
 # Potato Race Distance
 
@@ -10,7 +11,6 @@ In a potato race, a bucket is placed at the starting point, which is 5 m from th
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 20.
 
 ## Correct Answer
 

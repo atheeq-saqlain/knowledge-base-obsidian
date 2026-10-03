@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-1KRH29QY
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.4, Question 1 (Optional)."
 ---
 # Ratio Line Divides Segment
 
@@ -10,7 +11,6 @@ Determine the ratio in which the line 2x + y − 4 = 0 divides the segment joini
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.4, Question 1 (Optional).
 
 ## Correct Answer
 

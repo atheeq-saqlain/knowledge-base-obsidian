@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-KEDZEESD
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.2, Question 5."
 ---
 # Lead Shots in Cone Vessel
 
@@ -10,7 +11,7 @@ A vessel is in the form of an inverted cone. Its height is 8 cm and the radius o
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.2, Question 5.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Z8TYX5PF
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.4, Question 3."
 ---
 # More Than Ogive Wheat Production
 
@@ -10,7 +11,6 @@ Change the wheat production yield distribution into a more-than type cumulative 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.4, Question 3.
 
 ## Correct Answer
 

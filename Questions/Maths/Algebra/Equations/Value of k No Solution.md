@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-NGFS1P5M
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.5, Question 2."
 ---
 # Value of k No Solution
 
@@ -18,7 +19,6 @@ questionType: exercise
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.5, Question 2.
 
 ## Correct Answer
 

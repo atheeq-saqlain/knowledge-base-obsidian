@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-KMJR2F92
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.3, Question 3."
 ---
 # Well Earth Platform Height
 
@@ -10,7 +11,7 @@ A 20 m deep well with diameter 7 m is dug and the earth from digging is evenly s
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.3, Question 3.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

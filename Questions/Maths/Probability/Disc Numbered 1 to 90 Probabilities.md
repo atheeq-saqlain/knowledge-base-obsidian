@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-WHVN8096
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 18."
 ---
 # Disc Numbered 1 to 90 Probabilities
 
@@ -16,7 +17,6 @@ A box contains 90 discs which are numbered from 1 to 90. If one disc is drawn at
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 18.
 
 ## Correct Answer
 

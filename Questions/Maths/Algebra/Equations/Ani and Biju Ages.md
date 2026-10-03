@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-P18M4M88
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.7, Question 1."
 ---
 # Ani and Biju Ages
 
@@ -10,7 +11,6 @@ The ages of two friends Ani and Biju differ by 3 years. Ani's father Dharam is t
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.7, Question 1.
 
 ## Correct Answer
 

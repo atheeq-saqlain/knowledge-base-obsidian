@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-9CS8JQQ2
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.7, Question 6."
 ---
 # Graph Lines Triangle Y Axis
 
@@ -10,7 +11,6 @@ Draw the graphs of the equations 5x − y = 5 and 3x − y = 3. Determine the co
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.7, Question 6.
 
 ## Correct Answer
 

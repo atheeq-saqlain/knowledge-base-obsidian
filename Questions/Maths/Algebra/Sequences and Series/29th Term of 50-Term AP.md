@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-4SAWCJ82
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 8."
 ---
 # 29th Term of 50-Term AP
 
@@ -9,8 +10,6 @@ questionType: exercise
 An AP consists of 50 terms of which the 3rd term is 12 and the last term is 106. Find the 29th term.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 8.
 
 ## Correct Answer
 

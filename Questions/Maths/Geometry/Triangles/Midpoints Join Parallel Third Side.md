@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-YAC2HJMX
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.2, Question 8."
 ---
 # Midpoints Join Parallel Third Side
 
@@ -10,7 +11,6 @@ Using Theorem 2.2 (converse of BPT), prove that the line joining the mid-points 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.2, Question 8.
 
 ## Correct Answer
 

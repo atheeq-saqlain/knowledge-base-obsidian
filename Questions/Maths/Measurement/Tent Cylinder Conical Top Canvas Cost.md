@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-0153PFW0
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.1, Question 7."
 ---
 # Tent Cylinder Conical Top Canvas Cost
 
@@ -10,7 +11,7 @@ A tent is in the shape of a cylinder surmounted by a conical top. If the height 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.1, Question 7.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

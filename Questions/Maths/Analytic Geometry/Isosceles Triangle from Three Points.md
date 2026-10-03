@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-R2T5HWDB
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.1, Question 4."
 ---
 # Isosceles Triangle from Three Points
 
@@ -10,7 +11,6 @@ Check whether (5, −2), (6, 4) and (7, −2) are the vertices of an isosceles t
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.1, Question 4.
 
 ## Correct Answer
 

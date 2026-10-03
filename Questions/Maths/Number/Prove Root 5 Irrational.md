@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-MRHR9SD8
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.3, Question 1."
 ---
 # Prove Root 5 Irrational
 
@@ -10,7 +11,6 @@ Prove that √5 is irrational.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.3, Question 1.
 
 ## Correct Answer
 

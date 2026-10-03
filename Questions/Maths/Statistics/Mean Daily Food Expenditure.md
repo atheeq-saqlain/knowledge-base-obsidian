@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-YFFSZ43F
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.1, Question 6."
 ---
 # Mean Daily Food Expenditure
 
@@ -10,7 +11,6 @@ The daily food expenditure of 25 households is given by classes 100â€“150, 150â€
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.1, Question 6.
 
 ## Correct Answer
 

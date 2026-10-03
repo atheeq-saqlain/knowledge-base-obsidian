@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-MK1EJZBW
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.7, Question 7."
 ---
 # Parametric Linear Pairs Solve
 
@@ -16,7 +17,6 @@ Solve the following pairs of linear equations:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.7, Question 7.
 
 ## Correct Answer
 

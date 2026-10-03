@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-0RTDHMD5
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.1, Question 2."
 ---
 # First Four Terms of an AP
 
@@ -15,8 +16,6 @@ Write the first four terms of the AP when the first term a and the common differ
 (v) a = −1.25, d = −0.25
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 1.1, Question 2.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-EDMYZR4G
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.3, Question 3."
 ---
 # Roots of Reciprocal and Fraction Equations
 
@@ -13,7 +14,6 @@ Find the roots of the following equations:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.3, Question 3.
 
 ## Correct Answer
 

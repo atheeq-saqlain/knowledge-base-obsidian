@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-FPAR8Q3K
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 12.1, Question 3."
 ---
 # Two Slides Lengths in a Park
 
@@ -10,7 +11,6 @@ A contractor plans two slides in a park: one of height 1.5 m inclined at 30° to
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 12.1, Question 3.
 
 ## Correct Answer
 

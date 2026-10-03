@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-682RTRWB
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.3, Question 7."
 ---
 # Sand Bucket to Conical Heap
 
@@ -10,7 +11,7 @@ A cylindrical bucket, 32 cm high and with radius of base 18 cm, is filled with s
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.3, Question 7.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

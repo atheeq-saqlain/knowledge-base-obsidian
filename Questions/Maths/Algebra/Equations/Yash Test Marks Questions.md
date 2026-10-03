@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-0V974E60
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.5, Question 4(iii)."
 ---
 # Yash Test Marks Questions
 
@@ -10,7 +11,6 @@ Yash scored 40 marks in a test, getting 3 marks for each right answer and losing
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.5, Question 4(iii).
 
 ## Correct Answer
 

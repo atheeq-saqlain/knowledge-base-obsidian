@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-P2NF1B9D
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.2, Question 1."
 ---
 # Section Formula Ratio 2 to 3
 
@@ -10,7 +11,6 @@ Find the coordinates of the point which divides the join of (âˆ’1, 7) and (4, âˆ
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.2, Question 1.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Y3D16SAG
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.1, Question 4."
 ---
 # Square of Integer Form 3m or 3m Plus 1
 
@@ -10,7 +11,6 @@ Use Euclid’s division lemma to show that the square of any positive integer is
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.1, Question 4.
 
 ## Correct Answer
 

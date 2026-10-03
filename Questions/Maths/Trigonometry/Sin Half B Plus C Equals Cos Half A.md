@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-WZJ602RD
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.3, Question 6."
 ---
 # Sin Half B Plus C Equals Cos Half A
 
@@ -11,7 +12,6 @@ sin((B + C)/2) = cos(A/2).
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.3, Question 6.
 
 ## Correct Answer
 

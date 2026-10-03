@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-JNFFHCB1
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 4.2, Question 7."
 ---
 # Chord of Larger Concentric Circle
 
@@ -10,7 +11,6 @@ Two concentric circles are of radii 5 cm and 3 cm. Find the length of the chord 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 4.2, Question 7.
 
 ## Correct Answer
 

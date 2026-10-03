@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-9XP4S7N7
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.2, Question 10."
 ---
 # Umbrella Area Between Consecutive Ribs
 
@@ -10,7 +11,6 @@ An umbrella has 8 ribs which are equally spaced. Assuming the umbrella to be a f
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.2, Question 10.
 
 ## Correct Answer
 

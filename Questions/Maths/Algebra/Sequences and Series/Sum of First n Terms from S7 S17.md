@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-3356QDFB
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 9."
 ---
 # Sum of First n Terms from S7 S17
 
@@ -10,7 +11,6 @@ If the sum of first 7 terms of an AP is 49 and that of 17 terms is 289, find the
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 9.
 
 ## Correct Answer
 

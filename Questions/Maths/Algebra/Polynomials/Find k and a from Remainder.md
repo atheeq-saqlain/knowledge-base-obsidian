@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-K662CKW6
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 9.4 (Optional), Question 5."
 ---
 # Find k and a from Remainder
 
@@ -10,7 +11,6 @@ If the polynomial x⁴ − 6x³ + 16x² − 25x + 10 is divided by another polyn
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 9.4 (Optional), Question 5.
 
 ## Correct Answer
 

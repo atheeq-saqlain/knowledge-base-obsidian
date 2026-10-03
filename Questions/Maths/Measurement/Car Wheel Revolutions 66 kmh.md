@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-KF6P6RTS
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.1, Question 4."
 ---
 # Car Wheel Revolutions 66 kmh
 
@@ -10,7 +11,6 @@ The wheels of a car have a diameter of 80 cm each. How many complete revolutions
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.1, Question 4.
 
 ## Correct Answer
 

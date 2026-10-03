@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-BZPK0G05
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.4, Question 9."
 ---
 # Similar Triangles Side Area Ratio
 
@@ -14,7 +15,6 @@ Tick the correct answer and justify.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.4, Question 9.
 
 ## Correct Answer
 

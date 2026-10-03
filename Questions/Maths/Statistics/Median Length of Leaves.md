@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-P5H8HA9A
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.3, Question 4."
 ---
 # Median Length of Leaves
 
@@ -10,7 +11,6 @@ Find the median length of 40 leaves measured to the nearest millimetre: lengths 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.3, Question 4.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-FK2NJ4C8
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.3, Question 7."
 ---
 # Altitudes Intersect Similarity
 
@@ -30,8 +31,6 @@ In Fig. 2.38, altitudes AD and CE of ΔABC intersect each other at the point P. 
 ```
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 2.3, Question 7.
 
 ## Correct Answer
 

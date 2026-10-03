@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-TJRMXBSF
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.2, Question 5."
 ---
 # Can 6 to the n End with Zero
 
@@ -10,7 +11,6 @@ Check whether 6ⁿ can end with the digit 0 for any natural number n.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.2, Question 5.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-K2HT13RR
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 5."
 ---
 # First Last Term Sum 400
 
@@ -10,7 +11,6 @@ The first term of an AP is 5, the last term is 45 and the sum is 400. Find the n
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 5.
 
 ## Correct Answer
 

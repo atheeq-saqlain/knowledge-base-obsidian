@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-6C338Y2J
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.5, Question 12."
 ---
 # Distance Between Pole Tops
 
@@ -10,7 +11,6 @@ Two poles of heights 6 m and 11 m stand on a plane ground. If the distance betwe
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.5, Question 12.
 
 ## Correct Answer
 

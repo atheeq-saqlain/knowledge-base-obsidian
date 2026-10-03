@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-PDWWEKMQ
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.5, Question 4(v)."
 ---
 # Rectangle Dimensions Area Changes
 
@@ -10,7 +11,6 @@ The area of a rectangle gets reduced by 9 square units, if its length is reduced
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.5, Question 4(v).
 
 ## Correct Answer
 

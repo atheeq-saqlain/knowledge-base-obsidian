@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-VNKC2XCK
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.2, Question 4."
 ---
 # Mode and Mean Student Teacher Ratio
 
@@ -10,7 +11,6 @@ Find the mode and mean of the number of students per teacher across states: 15â€
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.2, Question 4.
 
 ## Correct Answer
 

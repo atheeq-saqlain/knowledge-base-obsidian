@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-37NFKNHJ
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.3, Question 3."
 ---
 # Median Age of Policyholders
 
@@ -10,7 +11,6 @@ Calculate the median age of 100 policyholders from the less-than cumulative data
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.3, Question 3.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-VFZ5NJA8
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.4, Question 3."
 ---
 # Rectangular Mango Grove
 
@@ -10,7 +11,6 @@ Is it possible to design a rectangular mango grove whose length is twice its bre
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.4, Question 3.
 
 ## Correct Answer
 

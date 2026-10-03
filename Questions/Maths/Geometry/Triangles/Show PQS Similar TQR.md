@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-RTFHWS39
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.3, Question 4."
 ---
 # Show PQS Similar TQR
 
@@ -26,7 +27,6 @@ In Fig. 2.36, QR/QS = QT/PR and ∠1 = ∠2. Show that ΔPQS ~ ΔTQR.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.3, Question 4.
 
 ## Correct Answer
 

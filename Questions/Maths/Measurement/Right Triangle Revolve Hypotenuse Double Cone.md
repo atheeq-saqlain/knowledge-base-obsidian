@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-8HEAHNGH
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.5 (Optional), Question 2."
 ---
 # Right Triangle Revolve Hypotenuse Double Cone
 
@@ -10,7 +11,7 @@ A right triangle, whose sides are 3 cm and 4 cm (other than hypotenuse), is made
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.5 (Optional), Question 2.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

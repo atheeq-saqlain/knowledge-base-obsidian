@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-PPZ5CZ6H
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.2, Question 6."
 ---
 # Pottery Articles Cost of Production
 
@@ -10,7 +11,6 @@ A cottage industry produces a certain number of pottery articles in a day. On a 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.2, Question 6.
 
 ## Correct Answer
 

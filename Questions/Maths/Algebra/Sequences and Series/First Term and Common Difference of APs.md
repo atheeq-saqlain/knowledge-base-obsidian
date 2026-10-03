@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-6NQVKXG9
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.1, Question 3."
 ---
 # First Term and Common Difference of APs
 
@@ -17,8 +18,6 @@ For the following APs, write the first term and the common difference:
 (iv) 0.6, 1.7, 2.8, 3.9, …
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 1.1, Question 3.
 
 ## Correct Answer
 

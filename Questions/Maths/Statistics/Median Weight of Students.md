@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-T32X9GSM
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.3, Question 7."
 ---
 # Median Weight of Students
 
@@ -10,7 +11,6 @@ Find the median weight of 30 students: weights 40–45, 45–50, 50–55, 55–6
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.3, Question 7.
 
 ## Correct Answer
 

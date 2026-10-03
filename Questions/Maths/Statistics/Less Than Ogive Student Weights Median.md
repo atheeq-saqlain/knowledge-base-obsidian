@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-BYPX2W0T
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.4, Question 2."
 ---
 # Less Than Ogive Student Weights Median
 
@@ -10,7 +11,6 @@ Plot a less-than ogive for the weights of 35 students given as less than 38, 40,
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.4, Question 2.
 
 ## Correct Answer
 

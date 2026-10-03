@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-RF8S3ZQS
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 6.1, Question 3."
 ---
 # Similar Triangle Scale Factor Seven Fifths
 
@@ -10,7 +11,6 @@ Construct a triangle with sides 5 cm, 6 cm and 7 cm and then another triangle wh
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 6.1, Question 3.
 
 ## Correct Answer
 

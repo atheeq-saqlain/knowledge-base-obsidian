@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-FED5EHDW
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.3, Question 7."
 ---
 # Express Sin 67 Plus Cos 75 Below 45
 
@@ -10,7 +11,6 @@ Express sin 67° + cos 75° in terms of trigonometric ratios of angles between 0
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.3, Question 7.
 
 ## Correct Answer
 

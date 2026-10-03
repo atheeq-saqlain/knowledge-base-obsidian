@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-G5RWF0PY
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.4, Question 4."
 ---
 # Frustum Container Milk and Metal Cost
 
@@ -10,7 +11,7 @@ A container, opened from the top and made up of a metal sheet, is in the form of
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.4, Question 4.
+
 Use π = 3.14 as stated.
 
 ## Correct Answer

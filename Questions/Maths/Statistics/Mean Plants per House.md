@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-06163C0X
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.1, Question 1."
 ---
 # Mean Plants per House
 
@@ -10,7 +11,6 @@ The number of plants in 20 houses of a locality is given by the classes 0–2, 2
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.1, Question 1.
 
 ## Correct Answer
 

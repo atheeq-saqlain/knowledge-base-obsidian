@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-2ZTGZP6Q
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.2 Optional, Question 4."
 ---
 # Black Balls Find x Double Probability
 
@@ -10,7 +11,6 @@ A box contains 12 balls out of which x are black. If one ball is drawn at random
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.2 Optional, Question 4.
 
 ## Correct Answer
 

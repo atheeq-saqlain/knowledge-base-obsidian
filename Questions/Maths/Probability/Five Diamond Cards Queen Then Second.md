@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-9DXHYBYW
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 15."
 ---
 # Five Diamond Cards Queen Then Second
 
@@ -14,7 +15,6 @@ Five cards—the ten, jack, queen, king, and ace of diamonds, are well-shuffled 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 15.
 
 ## Correct Answer
 

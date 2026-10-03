@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-GGXA2WDJ
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.4, Question 2(ii)."
 ---
 # Nuri and Sonu Ages
 
@@ -10,7 +11,6 @@ Five years ago, Nuri was thrice as old as Sonu. Ten years later, Nuri will be tw
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.4, Question 2(ii).
 
 ## Correct Answer
 

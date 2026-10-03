@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-G11VE8VR
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.1, Question 5."
 ---
 # Hemisphere Depression from Cube Remaining SA
 
@@ -10,7 +11,7 @@ A hemispherical depression is cut out from one face of a cubical wooden block su
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.1, Question 5.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

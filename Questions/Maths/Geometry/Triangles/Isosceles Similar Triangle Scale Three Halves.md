@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-CWVH8JWC
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 6.1, Question 4."
 ---
 # Isosceles Similar Triangle Scale Three Halves
 
@@ -10,7 +11,6 @@ Construct an isosceles triangle with base 8 cm and altitude 4 cm, then another t
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 6.1, Question 4.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-AQ7CY9XA
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.2, Question 8."
 ---
 # Point P with AP Three Sevenths AB
 
@@ -10,7 +11,6 @@ If A(−2, −2) and B(2, −4), find P on AB such that AP = (3/7) AB.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.2, Question 8.
 
 ## Correct Answer
 

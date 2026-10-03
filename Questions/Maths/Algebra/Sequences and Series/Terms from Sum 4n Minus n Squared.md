@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-6RDGEF59
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 11."
 ---
 # Terms from Sum 4n Minus n Squared
 
@@ -10,7 +11,6 @@ If the sum of the first n terms of an AP is 4n − n², what is the first term (
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 11.
 
 ## Correct Answer
 

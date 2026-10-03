@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-BAS1EHBD
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 17."
 ---
 # Trees Planted by Twelve Classes
 
@@ -10,7 +11,6 @@ In a school, students thought of planting trees in and around the school to redu
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 17.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-W0RMV2FD
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.1, Question 3."
 ---
 # Missing Frequency Pocket Allowance
 
@@ -10,7 +11,6 @@ The mean daily pocket allowance of children in a locality is ₹18. The distribu
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.1, Question 3.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-2QT1E1ZZ
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.6, Question 1."
 ---
 # Reciprocal Linear Equations
 
@@ -19,7 +20,6 @@ Solve the following pairs of equations by reducing them to a pair of linear equa
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.6, Question 1.
 
 ## Correct Answer
 

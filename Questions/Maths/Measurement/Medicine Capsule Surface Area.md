@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Z9JG0GD2
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.1, Question 6."
 ---
 # Medicine Capsule Surface Area
 
@@ -10,7 +11,6 @@ A medicine capsule is in the shape of a cylinder with two hemispheres stuck to e
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.1, Question 6.
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

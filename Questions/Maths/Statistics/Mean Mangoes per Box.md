@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-VZJ89H05
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.1, Question 5."
 ---
 # Mean Mangoes per Box
 
@@ -10,7 +11,6 @@ Calculate the mean number of mangoes kept in a packing box from the distribution
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.1, Question 5.
 
 ## Correct Answer
 

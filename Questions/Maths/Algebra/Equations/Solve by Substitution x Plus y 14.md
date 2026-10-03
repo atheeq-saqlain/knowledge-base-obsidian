@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-081E26VM
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.3, Question 1."
 ---
 # Solve by Substitution x Plus y 14
 
@@ -17,7 +18,6 @@ Solve the following pairs of linear equations by the substitution method:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.3, Question 1.
 
 ## Correct Answer
 

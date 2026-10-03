@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-1C1PQXA4
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.6, Question 2(i)."
 ---
 # Ritu Rowing Downstream Upstream
 
@@ -10,7 +11,6 @@ Ritu can row downstream 20 km in 2 hours, and upstream 4 km in 2 hours. Find her
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.6, Question 2(i).
 
 ## Correct Answer
 

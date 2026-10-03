@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-PMF66NJ6
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.2, Question 7."
 ---
 # Segment Radius 12 Angle 120
 
@@ -10,7 +11,6 @@ A chord of a circle of radius 12 cm subtends an angle of 120° at the centre. Fi
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.2, Question 7.
 
 ## Correct Answer
 

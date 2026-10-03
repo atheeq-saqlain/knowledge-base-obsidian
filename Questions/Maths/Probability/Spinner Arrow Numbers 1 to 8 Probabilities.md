@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-FTZ33FPD
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 12."
 ---
 # Spinner Arrow Numbers 1 to 8 Probabilities
 
@@ -18,7 +19,6 @@ A game of chance consists of spinning an arrow which comes to rest pointing at o
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 12.
 
 ## Correct Answer
 

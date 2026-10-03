@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-21GF0V4A
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.4, Question 8."
 ---
 # Equilateral ABC BDE Area Ratio
 
@@ -12,7 +13,6 @@ ABC and BDE are two equilateral triangles such that D is the mid-point of BC. Th
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.4, Question 8.
 
 ## Correct Answer
 

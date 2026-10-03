@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-77NA2ZVA
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.2, Question 2."
 ---
 # HCF and LCM of 26 and 91
 
@@ -13,7 +14,6 @@ Find the LCM and HCF of the following pairs of integers and verify that LCM × H
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.2, Question 2.
 
 ## Correct Answer
 

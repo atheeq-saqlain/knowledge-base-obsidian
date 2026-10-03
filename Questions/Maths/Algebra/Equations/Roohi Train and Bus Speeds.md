@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Z6SM596S
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.6, Question 2(iii)."
 ---
 # Roohi Train and Bus Speeds
 
@@ -10,7 +11,6 @@ Roohi travels 300 km to her home partly by train and partly by bus. She takes 4 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.6, Question 2(iii).
 
 ## Correct Answer
 

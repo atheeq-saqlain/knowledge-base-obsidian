@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-8HJJ66R6
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.1, Question 7."
 ---
 # Point on x-axis Equidistant
 
@@ -10,7 +11,6 @@ Find the point on the x-axis which is equidistant from (2, −5) and (−2, 9).
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.1, Question 7.
 
 ## Correct Answer
 

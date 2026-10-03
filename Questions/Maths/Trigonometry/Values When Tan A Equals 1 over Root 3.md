@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-8JA5ASX0
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.1, Question 9."
 ---
 # Values When Tan A Equals 1 over Root 3
 
@@ -12,7 +13,6 @@ In triangle ABC, right-angled at B, if tan A = 1/√3, find the value of:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.1, Question 9.
 
 ## Correct Answer
 

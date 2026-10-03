@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-BB0NR75W
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 12.1, Question 12."
 ---
 # Cable Tower from Building Top
 
@@ -10,7 +11,6 @@ From the top of a 7 m high building, the angle of elevation of the top of a cabl
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 12.1, Question 12.
 
 ## Correct Answer
 

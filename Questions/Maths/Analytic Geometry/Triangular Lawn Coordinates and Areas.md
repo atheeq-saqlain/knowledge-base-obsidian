@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-8WZ82KVN
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.4, Question 5 (Optional)."
 ---
 # Triangular Lawn Coordinates and Areas
 
@@ -10,7 +11,6 @@ In the textbook rectangular plot with a triangular lawn PQR: taking A as origin,
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.4, Question 5 (Optional).
 
 ## Correct Answer
 

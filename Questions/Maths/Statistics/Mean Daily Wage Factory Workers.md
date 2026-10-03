@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-EPF3F7D0
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.1, Question 2."
 ---
 # Mean Daily Wage Factory Workers
 
@@ -10,7 +11,6 @@ Find the mean daily wage of 50 factory workers from the distribution: daily wage
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.1, Question 2.
 
 ## Correct Answer
 

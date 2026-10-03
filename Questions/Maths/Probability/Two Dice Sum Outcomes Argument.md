@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-EKNBQWJ7
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 22."
 ---
 # Two Dice Sum Outcomes Argument
 
@@ -16,7 +17,6 @@ questionType: exercise
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 22.
 
 ## Correct Answer
 

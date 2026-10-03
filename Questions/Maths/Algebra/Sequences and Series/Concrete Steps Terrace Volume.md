@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-V67EA2JQ
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.4 (optional), Question 5."
 ---
 # Concrete Steps Terrace Volume
 
@@ -10,7 +11,6 @@ A small terrace at a football ground comprises 15 steps each of which is 50 m lo
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.4 (optional), Question 5.
 
 ## Correct Answer
 

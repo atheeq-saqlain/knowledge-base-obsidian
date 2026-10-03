@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ENPG5JB0
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.4 (optional), Question 1."
 ---
 # First Negative Term of AP 121 117
 
@@ -10,7 +11,6 @@ Which term of the AP: 121, 117, 113, … is its first negative term?
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.4 (optional), Question 1.
 
 ## Correct Answer
 

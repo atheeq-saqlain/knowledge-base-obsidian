@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Q5SR89MW
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.4, Question 2(i)."
 ---
 # Fraction Add Subtract Ones
 
@@ -10,7 +11,6 @@ If we add 1 to the numerator and subtract 1 from the denominator, a fraction red
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.4, Question 2(i).
 
 ## Correct Answer
 

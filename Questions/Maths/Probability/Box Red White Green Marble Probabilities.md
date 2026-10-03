@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-SMB17QVJ
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 9."
 ---
 # Box Red White Green Marble Probabilities
 
@@ -16,7 +17,6 @@ A box contains 5 red marbles, 8 white marbles, and 4 green marbles. One marble i
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 9.
 
 ## Correct Answer
 

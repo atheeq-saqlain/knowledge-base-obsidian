@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-P6J65DA9
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 12.1, Question 9."
 ---
 # Building and Tower Mutual Elevations
 
@@ -10,7 +11,6 @@ The angle of elevation of the top of a building from the foot of a tower is 30°
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 12.1, Question 9.
 
 ## Correct Answer
 

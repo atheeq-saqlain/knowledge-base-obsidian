@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-8K3BGB72
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.2, Question 4."
 ---
 # Ratio of Division by Point
 
@@ -10,7 +11,6 @@ Find the ratio in which the line segment joining the points (âˆ’3, 10) and (6, â
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.2, Question 4.
 
 ## Correct Answer
 

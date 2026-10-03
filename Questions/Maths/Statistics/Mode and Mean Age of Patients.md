@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-1VS1X8D1
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.2, Question 1."
 ---
 # Mode and Mean Age of Patients
 
@@ -10,7 +11,6 @@ Find the mode and mean age of patients admitted during a year: ages 5â€“15, 15â€
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.2, Question 1.
 
 ## Correct Answer
 

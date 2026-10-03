@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-7BDCBAQ1
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.3, Question 5."
 ---
 # Ice Cream Cones from Cylinder
 
@@ -10,7 +11,7 @@ A container shaped like a right circular cylinder having diameter 12 cm and heig
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.3, Question 5.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

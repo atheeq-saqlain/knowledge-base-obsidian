@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-M3AKWZXX
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.3, Question 14."
 ---
 # Proportional Sides Median Similarity Two
 
@@ -9,8 +10,6 @@ questionType: exercise
 Sides AB and AC and median AD of a triangle ABC are respectively proportional to sides PQ and PR and median PM of another triangle PQR. Show that ΔABC ~ ΔPQR.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 2.3, Question 14.
 
 ## Correct Answer
 

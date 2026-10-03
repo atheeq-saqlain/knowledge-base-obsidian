@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-BV2KX1AD
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.2, Question 5."
 ---
 # Arc Length and Sector Area 60
 
@@ -16,7 +17,6 @@ In a circle of radius 21 cm, an arc subtends an angle of 60° at the centre. Fin
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.2, Question 5.
 
 ## Correct Answer
 

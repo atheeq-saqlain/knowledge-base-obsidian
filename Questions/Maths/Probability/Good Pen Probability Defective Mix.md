@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-9ZJ0A2SG
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 16."
 ---
 # Good Pen Probability Defective Mix
 
@@ -10,7 +11,6 @@ questionType: exercise
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 16.
 
 ## Correct Answer
 

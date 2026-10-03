@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-EA8NYECN
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.2, Question 10."
 ---
 # Diagonal Ratio Implies Trapezium
 
@@ -9,8 +10,6 @@ questionType: exercise
 The diagonals of a quadrilateral ABCD intersect each other at the point O such that AO/BO = CO/DO. Show that ABCD is a trapezium.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 2.2, Question 10.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-S3JCB9C0
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.4, Question 3."
 ---
 # Evaluate Identity Style Expressions
 
@@ -12,7 +13,6 @@ Evaluate:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.4, Question 3.
 
 ## Correct Answer
 

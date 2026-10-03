@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-F0P6X9Y6
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.4, Question 4 (Optional)."
 ---
 # Other Vertices of Square Opposite
 
@@ -10,7 +11,6 @@ The opposite vertices of a square are (−1, 2) and (3, 2). Find the other two v
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.4, Question 4 (Optional).
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-0W1YMB5N
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.2, Question 3."
 ---
 # Minute Hand Area in 5 Minutes
 
@@ -10,7 +11,6 @@ The length of the minute hand of a clock is 14 cm. Find the area swept by the mi
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.2, Question 3.
 
 ## Correct Answer
 

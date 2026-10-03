@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-SS4NSWDN
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.1, Question 1."
 ---
 # HCF by Euclid Algorithm 135 225
 
@@ -13,7 +14,6 @@ Use Euclid's division algorithm to find the HCF of:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.1, Question 1.
 
 ## Correct Answer
 

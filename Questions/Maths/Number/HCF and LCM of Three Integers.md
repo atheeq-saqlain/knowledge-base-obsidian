@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-139BHX9H
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.2, Question 3."
 ---
 # HCF and LCM of Three Integers
 
@@ -13,7 +14,6 @@ Find the LCM and HCF of the following integers by applying the prime factorisati
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.2, Question 3.
 
 ## Correct Answer
 

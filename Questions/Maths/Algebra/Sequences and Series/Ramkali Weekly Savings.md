@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-WH5VV5VY
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 20."
 ---
 # Ramkali Weekly Savings
 
@@ -9,8 +10,6 @@ questionType: exercise
 Ramkali saved ₹5 in the first week of a year and then increased her weekly savings by ₹1.75. If in the nth week her weekly savings become ₹20.75, find n.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 20.
 
 ## Correct Answer
 

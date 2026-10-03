@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-QVETB2M5
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 4.2, Question 11."
 ---
 # Parallelogram Circumscribing Is Rhombus
 
@@ -10,7 +11,6 @@ Prove that the parallelogram circumscribing a circle is a rhombus.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 4.2, Question 11.
 
 ## Correct Answer
 

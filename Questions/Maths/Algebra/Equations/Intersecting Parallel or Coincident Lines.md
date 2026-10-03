@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-9ZA2Q71Q
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.2, Question 2."
 ---
 # Intersecting Parallel or Coincident Lines
 
@@ -13,8 +14,6 @@ On comparing the ratios a₁/a₂, b₁/b₂ and c₁/c₂, find out whether the
 (iii) 6x − 3y + 10 = 0 ; 2x − y + 9 = 0
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 3.2, Question 2.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-9KTTAA06
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.2, Question 3."
 ---
 # Gulab Jamun Syrup Volume
 
@@ -10,7 +11,7 @@ A gulab jamun contains sugar syrup up to about 30% of its volume. Find approxima
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.2, Question 3.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

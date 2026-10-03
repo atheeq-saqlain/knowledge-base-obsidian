@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-128BRVDF
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.1, Question 8."
 ---
 # Cylinder Conical Cavity Remaining SA
 
@@ -10,7 +11,7 @@ From a solid cylinder whose height is 2.4 cm and diameter 1.4 cm, a conical cavi
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.1, Question 8.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-9MY96AW8
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 1(i)."
 ---
 # Sum of AP 2 7 12 to 10 Terms
 
@@ -9,8 +10,6 @@ questionType: exercise
 Find the sum of the AP: 2, 7, 12, … to 10 terms.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 1(i).
 
 ## Correct Answer
 

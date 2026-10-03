@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-K11EWJG7
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.1, Question 7."
 ---
 # Mean SO2 Concentration
 
@@ -10,7 +11,6 @@ Calculate the mean concentration of SO₂ (in ppm) across 30 localities for clas
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.1, Question 7.
 
 ## Correct Answer
 

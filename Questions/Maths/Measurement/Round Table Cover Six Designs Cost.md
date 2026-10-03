@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-CVSZKDVE
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.2, Question 13."
 ---
 # Round Table Cover Six Designs Cost
 
@@ -10,7 +11,6 @@ A round table cover has six equal designs. If the radius of the cover is 28 cm, 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.2, Question 13.
 
 ## Correct Answer
 

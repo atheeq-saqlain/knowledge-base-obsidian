@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-EHG4W2D1
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.3, Question 2."
 ---
 # Show Complementary Product Identities
 
@@ -12,7 +13,6 @@ Show that:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.3, Question 2.
 
 ## Correct Answer
 

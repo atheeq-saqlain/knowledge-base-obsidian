@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-R5YBD2MQ
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.2, Question 4."
 ---
 # Pen Stand Wood Volume
 
@@ -10,7 +11,7 @@ A pen stand made of wood is in the shape of a cuboid with four conical depressio
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.2, Question 4.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

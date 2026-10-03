@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-25JK4SG9
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.4, Question 3."
 ---
 # Rational or Irrational from Decimal Expansion
 
@@ -14,7 +15,6 @@ The following real numbers have decimal expansions as given below. In each case,
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.4, Question 3.
 
 ## Correct Answer
 

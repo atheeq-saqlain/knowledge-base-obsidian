@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-MRGF8K6D
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.2, Question 4."
 ---
 # Consecutive Integers Squares Sum 365
 
@@ -10,7 +11,6 @@ Find two consecutive positive integers, the sum of whose squares is 365.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.2, Question 4.
 
 ## Correct Answer
 

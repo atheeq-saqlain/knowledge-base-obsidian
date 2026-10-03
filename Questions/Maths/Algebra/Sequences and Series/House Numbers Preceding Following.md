@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-93XAF1G0
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.4 (optional), Question 4."
 ---
 # House Numbers Preceding Following
 
@@ -10,7 +11,6 @@ The houses of a row are numbered consecutively from 1 to 49. Show that there is 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.4 (optional), Question 4.
 
 ## Correct Answer
 

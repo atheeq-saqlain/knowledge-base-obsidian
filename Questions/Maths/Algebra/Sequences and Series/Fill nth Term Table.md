@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-44B4R429
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 1."
 ---
 # Fill nth Term Table
 
@@ -19,8 +20,6 @@ Fill in the blanks in the following table, given that a is the first term, d the
 (v) a = 3.5, d = 0, n = 105, aₙ = …
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 1.
 
 ## Correct Answer
 

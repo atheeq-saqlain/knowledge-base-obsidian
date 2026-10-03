@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-M855J1WP
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 9.1, Question 1."
 ---
 # Number of Zeroes from Graphs
 
@@ -17,7 +18,6 @@ Find the number of zeroes of p(x) in each case from the given graphs (textbook F
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 9.1, Question 1.
 
 ## Correct Answer
 

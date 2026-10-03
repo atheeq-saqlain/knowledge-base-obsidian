@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-5FAY4C6V
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.2, Question 9."
 ---
 # Divide Segment into Four Equal Parts
 
@@ -10,7 +11,6 @@ Find the coordinates of the points which divide the segment joining A(−2, 2) a
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.2, Question 9.
 
 ## Correct Answer
 

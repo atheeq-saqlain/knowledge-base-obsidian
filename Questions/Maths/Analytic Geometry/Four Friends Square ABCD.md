@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-NQ8PHAQ0
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.1, Question 5."
 ---
 # Four Friends Square ABCD
 
@@ -10,7 +11,6 @@ In the textbook figure of four friends seated at A(1, 1), B(4, 2), C(6, 5) and D
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.1, Question 5.
 
 ## Correct Answer
 

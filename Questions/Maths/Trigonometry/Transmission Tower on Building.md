@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-9WHV6M11
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 12.1, Question 7."
 ---
 # Transmission Tower on Building
 
@@ -10,7 +11,6 @@ From a point on the ground, the angles of elevation of the bottom and the top of
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 12.1, Question 7.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ZRHGJP2M
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 6."
 ---
 # Bag Lemon Candies Only Probabilities
 
@@ -13,8 +14,6 @@ A bag contains lemon flavoured candies only. Malini takes out one candy without 
 (ii) a lemon flavoured candy?
 
 ## Description
-
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 6.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-N42FF4HB
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.1, Question 1."
 ---
 # Similar Figures Fill in Blanks
 
@@ -17,8 +18,6 @@ Fill in the blanks using the correct word given in brackets:
 (iv) Two polygons of the same number of sides are similar, if (a) their corresponding angles are ________ and (b) their corresponding sides are ________. (equal, proportional)
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 2.1, Question 1.
 
 ## Correct Answer
 

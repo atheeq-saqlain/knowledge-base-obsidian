@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-BXW6BS99
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.5, Question 14."
 ---
 # Perpendicular DB Three CD Identity
 
@@ -10,7 +11,6 @@ The perpendicular from A on side BC of a ΔABC intersects BC at D such that DB =
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.5, Question 14.
 
 ## Correct Answer
 

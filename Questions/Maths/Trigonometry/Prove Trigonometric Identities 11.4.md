@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-DTDY6DK9
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.4, Question 5."
 ---
 # Prove Trigonometric Identities 11.4
 
@@ -21,7 +22,6 @@ Prove the following identities (angles acute and expressions defined):
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.4, Question 5.
 
 ## Correct Answer
 

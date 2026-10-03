@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-6NF7BJ2A
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 4.2, Question 12."
 ---
 # Circumscribed Triangle Sides AB AC
 
@@ -10,7 +11,6 @@ A triangle ABC is drawn to circumscribe a circle of radius 4 cm such that the se
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 4.2, Question 12.
 
 ## Correct Answer
 

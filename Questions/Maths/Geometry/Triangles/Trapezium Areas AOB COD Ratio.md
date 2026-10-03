@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-7X9SCTZ9
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.4, Question 2."
 ---
 # Trapezium Areas AOB COD Ratio
 
@@ -10,7 +11,6 @@ Diagonals of a trapezium ABCD with AB ∥ DC intersect each other at the point O
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.4, Question 2.
 
 ## Correct Answer
 

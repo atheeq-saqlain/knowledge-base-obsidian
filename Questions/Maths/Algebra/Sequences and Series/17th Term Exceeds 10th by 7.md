@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-JSKTVT0G
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 10."
 ---
 # 17th Term Exceeds 10th by 7
 
@@ -10,7 +11,6 @@ The 17th term of an AP exceeds its 10th term by 7. Find the common difference.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 10.
 
 ## Correct Answer
 

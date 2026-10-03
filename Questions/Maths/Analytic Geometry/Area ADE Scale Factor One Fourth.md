@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-7NWDN3W0
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.4, Question 6 (Optional)."
 ---
 # Area ADE Scale Factor One Fourth
 
@@ -9,8 +10,6 @@ questionType: exercise
 Vertices A(4, 6), B(1, 5), C(7, 2). A line meets AB and AC at D and E with AD/AB = AE/AC = 1/4. Find area(ΔADE) and compare with area(ΔABC).
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 7.4, Question 6 (Optional).
 
 ## Correct Answer
 

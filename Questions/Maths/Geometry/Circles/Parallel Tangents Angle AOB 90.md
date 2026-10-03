@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-118TTYME
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 4.2, Question 9."
 ---
 # Parallel Tangents Angle AOB 90
 
@@ -10,7 +11,6 @@ XY and X′Y′ are two parallel tangents to a circle with centre O, and another
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 4.2, Question 9.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-BREWKF21
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.2, Question 2 (Example 1)."
 ---
 # John and Jivanti Marbles
 
@@ -10,7 +11,6 @@ John and Jivanti together have 45 marbles. Both of them lost 5 marbles each, and
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.2, Question 2 (Example 1).
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-YHBWYN38
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.2, Question 6."
 ---
 # Mode Cars Passing a Spot
 
@@ -10,7 +11,6 @@ Find the mode of the number of cars passing a spot: classes 0–10, 10–20, …
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.2, Question 6.
 
 ## Correct Answer
 

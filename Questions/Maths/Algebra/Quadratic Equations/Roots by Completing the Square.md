@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-7E1C16QZ
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.3, Question 1."
 ---
 # Roots by Completing the Square
 
@@ -15,7 +16,6 @@ Find the roots of the following quadratic equations, if they exist, by the metho
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.3, Question 1.
 
 ## Correct Answer
 

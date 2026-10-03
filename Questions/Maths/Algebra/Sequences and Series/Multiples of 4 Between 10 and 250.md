@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-973Y5N3D
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 14."
 ---
 # Multiples of 4 Between 10 and 250
 
@@ -10,7 +11,6 @@ How many multiples of 4 lie between 10 and 250?
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 14.
 
 ## Correct Answer
 

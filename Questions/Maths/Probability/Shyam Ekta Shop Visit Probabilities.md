@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Z0RB9P04
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.2 Optional, Question 1."
 ---
 # Shyam Ekta Shop Visit Probabilities
 
@@ -16,7 +17,6 @@ Two customers Shyam and Ekta are visiting a particular shop in the same week (Tu
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.2 Optional, Question 1.
 
 ## Correct Answer
 

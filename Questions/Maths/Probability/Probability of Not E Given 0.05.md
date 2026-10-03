@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-F7G1CGWX
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 5."
 ---
 # Probability of Not E Given 0.05
 
@@ -10,7 +11,6 @@ If P(E) = 0.05, what is the probability of "not E"?
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 5.
 
 ## Correct Answer
 

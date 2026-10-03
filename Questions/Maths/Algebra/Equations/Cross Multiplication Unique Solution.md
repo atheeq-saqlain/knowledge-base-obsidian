@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-HW53W1NN
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.5, Question 1."
 ---
 # Cross Multiplication Unique Solution
 
@@ -14,8 +15,6 @@ Which of the following pairs of linear equations has a unique solution, no solut
 (iv) x − 3y − 7 = 0 ; 3x − 3y − 15 = 0
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 3.5, Question 1.
 
 ## Correct Answer
 

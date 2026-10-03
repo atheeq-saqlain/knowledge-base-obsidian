@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-MGE07S4M
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.4, Question 8 (Optional)."
 ---
 # Midpoints of Rectangle Form Rhombus
 
@@ -10,7 +11,6 @@ Rectangle A(−1, −1), B(−1, 4), C(5, 4), D(5, −1). Mid-points P, Q, R, S 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.4, Question 8 (Optional).
 
 ## Correct Answer
 

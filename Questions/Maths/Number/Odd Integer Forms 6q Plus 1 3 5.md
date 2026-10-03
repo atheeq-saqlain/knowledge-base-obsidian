@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-58NBWSH3
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.1, Question 2."
 ---
 # Odd Integer Forms 6q Plus 1 3 5
 
@@ -10,7 +11,6 @@ Show that any positive odd integer is of the form 6q + 1, or 6q + 3, or 6q + 5, 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.1, Question 2.
 
 ## Correct Answer
 

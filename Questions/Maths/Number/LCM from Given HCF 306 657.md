@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-7RBAV77E
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.2, Question 4."
 ---
 # LCM from Given HCF 306 657
 
@@ -10,7 +11,6 @@ Given that HCF(306, 657) = 9, find LCM(306, 657).
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.2, Question 4.
 
 ## Correct Answer
 

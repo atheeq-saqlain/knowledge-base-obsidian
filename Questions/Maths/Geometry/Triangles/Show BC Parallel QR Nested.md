@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Q37SG7Z9
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.2, Question 6."
 ---
 # Show BC Parallel QR Nested
 
@@ -30,7 +31,6 @@ In Fig. 2.21, A, B and C are points on OP, OQ and OR respectively such that AB â
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.2, Question 6.
 
 ## Correct Answer
 

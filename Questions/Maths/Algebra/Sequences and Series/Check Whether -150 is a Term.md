@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-SEQDA9S4
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 6."
 ---
 # Check Whether -150 is a Term
 
@@ -9,8 +10,6 @@ questionType: exercise
 Check whether −150 is a term of the AP: 11, 8, 5, 2, …
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 6.
 
 ## Correct Answer
 

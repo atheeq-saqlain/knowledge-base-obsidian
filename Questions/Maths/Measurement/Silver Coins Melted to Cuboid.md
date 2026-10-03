@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-7S5GY595
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.3, Question 6."
 ---
 # Silver Coins Melted to Cuboid
 
@@ -10,7 +11,7 @@ How many silver coins, 1.75 cm in diameter and of thickness 2 mm, must be melted
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.3, Question 6.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

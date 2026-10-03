@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-K6253B5C
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.4, Question 4."
 ---
 # Equal Areas Similar Implies Congruent
 
@@ -10,7 +11,6 @@ If the areas of two similar triangles are equal, prove that they are congruent.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.4, Question 4.
 
 ## Correct Answer
 

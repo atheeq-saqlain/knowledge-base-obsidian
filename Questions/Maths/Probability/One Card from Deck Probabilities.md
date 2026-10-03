@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-RQ8RW422
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 14."
 ---
 # One Card from Deck Probabilities
 
@@ -22,7 +23,6 @@ One card is drawn from a well-shuffled deck of 52 cards. Find the probability of
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 14.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-6FEH3NKG
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.3, Question 1."
 ---
 # Evaluate Using Complementary Angles
 
@@ -14,7 +15,6 @@ Evaluate:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.3, Question 1.
 
 ## Correct Answer
 

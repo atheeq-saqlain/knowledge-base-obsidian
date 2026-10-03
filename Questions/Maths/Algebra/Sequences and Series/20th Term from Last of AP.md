@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ZK92ZBQG
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 17."
 ---
 # 20th Term from Last of AP
 
@@ -10,7 +11,6 @@ Find the 20th term from the last term of the AP: 3, 8, 13, …, 253.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 17.
 
 ## Correct Answer
 

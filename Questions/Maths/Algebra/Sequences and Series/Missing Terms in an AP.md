@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ATRDKY2X
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 3."
 ---
 # Missing Terms in an AP
 
@@ -19,8 +20,6 @@ Find the missing terms in the boxes:
 (v) □, 38, □, □, □, −22
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 3.
 
 ## Correct Answer
 

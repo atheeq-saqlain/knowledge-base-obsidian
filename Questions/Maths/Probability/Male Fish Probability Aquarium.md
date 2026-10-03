@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-D3QRWG5Q
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 11."
 ---
 # Male Fish Probability Aquarium
 
@@ -10,7 +11,6 @@ Gopi buys a fish from a shop for his aquarium. The shopkeeper takes out one fish
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 11.
 
 ## Correct Answer
 

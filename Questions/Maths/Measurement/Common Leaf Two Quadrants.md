@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-FNKQYFE7
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.3, Question 16."
 ---
 # Common Leaf Two Quadrants
 
@@ -10,7 +11,6 @@ Calculate the area of the designed region common between two quadrants of circle
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.3, Question 16.
 
 ## Correct Answer
 

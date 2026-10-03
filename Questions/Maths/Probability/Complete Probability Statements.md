@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-3XSE2N4Z
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 1."
 ---
 # Complete Probability Statements
 
@@ -20,7 +21,6 @@ Complete the following statements:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 1.
 
 ## Correct Answer
 

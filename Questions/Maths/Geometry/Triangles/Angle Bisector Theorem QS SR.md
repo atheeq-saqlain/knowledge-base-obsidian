@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-WZQJP34A
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.6, Question 1."
 ---
 # Angle Bisector Theorem QS SR
 
@@ -22,7 +23,6 @@ In Fig. 2.56, PS is the bisector of ∠QPR of ΔPQR. Prove that QS/SR = PQ/PR.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.6, Question 1.
 
 ## Correct Answer
 

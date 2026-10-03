@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-YC0JTXYF
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.5, Question 4(ii)."
 ---
 # Fraction Becomes One Third One Fourth
 
@@ -9,8 +10,6 @@ questionType: exercise
 A fraction becomes 1/3 when 1 is subtracted from the numerator and it becomes 1/4 when 8 is added to its denominator. Find the fraction.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 3.5, Question 4(ii).
 
 ## Correct Answer
 

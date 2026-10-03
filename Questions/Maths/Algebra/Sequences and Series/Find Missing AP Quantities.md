@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-KGEQW88A
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 3."
 ---
 # Find Missing AP Quantities
 
@@ -30,7 +31,6 @@ In an AP:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 3.
 
 ## Correct Answer
 

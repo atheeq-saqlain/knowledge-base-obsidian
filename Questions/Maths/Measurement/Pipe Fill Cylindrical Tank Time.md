@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-XEM8V7Z1
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.3, Question 9."
 ---
 # Pipe Fill Cylindrical Tank Time
 
@@ -10,7 +11,7 @@ A farmer connects a pipe of internal diameter 20 cm from a canal into a cylindri
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.3, Question 9.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

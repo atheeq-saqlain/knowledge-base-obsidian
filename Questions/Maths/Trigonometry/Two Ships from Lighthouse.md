@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-358YK2WF
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 12.1, Question 13."
 ---
 # Two Ships from Lighthouse
 
@@ -10,7 +11,6 @@ As observed from the top of a 75 m high lighthouse from sea-level, the angles of
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 12.1, Question 13.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-VFCBA3MJ
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 4.2, Question 6."
 ---
 # Radius Distance 5 Tangent 4
 
@@ -10,7 +11,6 @@ The length of a tangent from a point A at distance 5 cm from the centre of the c
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 4.2, Question 6.
 
 ## Correct Answer
 

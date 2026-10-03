@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-AV6E54QA
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.3, Question 11."
 ---
 # Handkerchief Nine Circular Designs
 
@@ -10,7 +11,6 @@ On a square handkerchief, nine circular designs each of radius 7 cm are made. Fi
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.3, Question 11.
 
 ## Correct Answer
 

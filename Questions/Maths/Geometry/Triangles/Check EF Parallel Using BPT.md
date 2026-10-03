@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-2M8HHVZM
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.2, Question 2."
 ---
 # Check EF Parallel Using BPT
 
@@ -26,8 +27,6 @@ E and F are points on the sides PQ and PR respectively of ΔPQR. For each case, 
 ```
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 2.2, Question 2.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-FWNP3MD8
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.2, Question 8."
 ---
 # Spherical Vessel Volume Check
 
@@ -10,7 +11,7 @@ A spherical glass vessel has a cylindrical neck 8 cm long, 2 cm in diameter; the
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.2, Question 8.
+
 Use π = 3.14 as stated.
 
 ## Correct Answer

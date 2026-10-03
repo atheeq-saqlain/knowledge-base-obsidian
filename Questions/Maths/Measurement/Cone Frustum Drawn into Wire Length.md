@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-5XQW9C87
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.4, Question 5."
 ---
 # Cone Frustum Drawn into Wire Length
 
@@ -10,7 +11,7 @@ A metallic right circular cone 20 cm high and whose vertical angle is 60° is cu
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.4, Question 5.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-XFRNC462
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.2, Question 6."
 ---
 # Minor Major Segments Radius 15 Angle 60
 
@@ -10,7 +11,6 @@ A chord of a circle of radius 15 cm subtends an angle of 60° at the centre. Fin
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.2, Question 6.
 
 ## Correct Answer
 

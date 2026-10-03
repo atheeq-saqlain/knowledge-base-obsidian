@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-T25GYM7R
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.1, Question 1."
 ---
 # Ratios in Triangle AB 24 BC 7
 
@@ -12,7 +13,6 @@ In ΔABC, right-angled at B, AB = 24 cm and BC = 7 cm. Determine:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.1, Question 1.
 
 ## Correct Answer
 

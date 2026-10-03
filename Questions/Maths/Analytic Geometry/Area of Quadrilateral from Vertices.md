@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-SP1X2JMB
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.3, Question 4."
 ---
 # Area of Quadrilateral from Vertices
 
@@ -9,8 +10,6 @@ questionType: exercise
 Find the area of the quadrilateral whose vertices in order are (−4, −2), (−3, −5), (3, −2) and (2, 3).
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 7.3, Question 4.
 
 ## Correct Answer
 

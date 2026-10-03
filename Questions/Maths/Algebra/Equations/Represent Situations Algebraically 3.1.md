@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-EJVH5R2K
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.1."
 ---
 # Represent Situations Algebraically 3.1
 
@@ -15,8 +16,6 @@ Represent each situation algebraically (and geometrically / graphically as asked
 3. The cost of 2 kg of apples and 1 kg of grapes was ₹160. After a month, the cost of 4 kg of apples and 2 kg of grapes is ₹300.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 3.1.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-G192CHA0
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.3, Question 9."
 ---
 # Perpendicular Diameters Smaller Circle Shaded
 
@@ -10,7 +11,6 @@ AB and CD are two diameters of a circle (with centre O) perpendicular to each ot
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.3, Question 9.
 
 ## Correct Answer
 

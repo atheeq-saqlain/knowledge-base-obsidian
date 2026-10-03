@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-4568KV82
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.3, Question 5."
 ---
 # Median Lifetime Neon Lamps
 
@@ -10,7 +11,6 @@ Find the median lifetime of 400 neon lamps: lifetimes 1500–2000, 2000–2500, 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.3, Question 5.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-R07TET5B
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 9.3, Question 1."
 ---
 # Divide Polynomials Find Quotient Remainder
 
@@ -14,7 +15,6 @@ Divide the polynomial p(x) by the polynomial g(x) and find the quotient and rema
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 9.3, Question 1.
 
 ## Correct Answer
 

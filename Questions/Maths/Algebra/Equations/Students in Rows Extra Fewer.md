@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-T41M6A4K
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.7, Question 4."
 ---
 # Students in Rows Extra Fewer
 
@@ -10,7 +11,6 @@ The students of a class are made to stand in rows. If 3 students are extra in a 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.7, Question 4.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-R59W98SW
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 4.1, Question 1."
 ---
 # How Many Tangents Can a Circle Have
 
@@ -10,7 +11,6 @@ How many tangents can a circle have?
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 4.1, Question 1.
 
 ## Correct Answer
 

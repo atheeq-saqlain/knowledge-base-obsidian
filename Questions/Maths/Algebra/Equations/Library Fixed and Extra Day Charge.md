@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-GZ8DSHQX
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.4, Question 2(v)."
 ---
 # Library Fixed and Extra Day Charge
 
@@ -10,7 +11,6 @@ A lending library has a fixed charge for the first three days and an additional 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.4, Question 2(v).
 
 ## Correct Answer
 

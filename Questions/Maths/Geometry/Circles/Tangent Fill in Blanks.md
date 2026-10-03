@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-K28RKGZF
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 4.1, Question 2."
 ---
 # Tangent Fill in Blanks
 
@@ -15,7 +16,6 @@ Fill in the blanks:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 4.1, Question 2.
 
 ## Correct Answer
 

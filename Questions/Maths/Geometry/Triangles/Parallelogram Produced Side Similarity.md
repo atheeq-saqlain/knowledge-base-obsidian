@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-GBRMW8P2
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.3, Question 8."
 ---
 # Parallelogram Produced Side Similarity
 
@@ -10,7 +11,6 @@ E is a point on the side AD produced of a parallelogram ABCD and BE intersects C
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.3, Question 8.
 
 ## Correct Answer
 

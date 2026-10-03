@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-1MBFDQES
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 9.4 (Optional), Question 3."
 ---
 # Zeroes in AP Find a and b
 
@@ -10,7 +11,6 @@ If the zeroes of the polynomial x³ − 3x² + x + 1 are a − b, a and a + b, f
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 9.4 (Optional), Question 3.
 
 ## Correct Answer
 

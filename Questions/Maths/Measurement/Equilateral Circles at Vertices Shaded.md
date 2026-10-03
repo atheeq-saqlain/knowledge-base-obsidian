@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-KBYMEMSM
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.3, Question 10."
 ---
 # Equilateral Circles at Vertices Shaded
 
@@ -10,7 +11,6 @@ The area of an equilateral triangle ABC is 17320.5 cm². With each vertex of the
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.3, Question 10.
 
 ## Correct Answer
 

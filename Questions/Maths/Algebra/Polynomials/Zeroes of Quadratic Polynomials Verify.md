@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-C84ZD4AZ
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 9.2, Question 1."
 ---
 # Zeroes of Quadratic Polynomials Verify
 
@@ -17,7 +18,6 @@ Find the zeroes of the following quadratic polynomials and verify the relationsh
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 9.2, Question 1.
 
 ## Correct Answer
 

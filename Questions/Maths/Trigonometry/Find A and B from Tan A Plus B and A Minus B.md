@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-S1MJ6PJV
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.2, Question 3."
 ---
 # Find A and B from Tan A Plus B and A Minus B
 
@@ -10,7 +11,6 @@ If tan(A + B) = √3 and tan(A − B) = 1/√3, where 0° < A + B ≤ 90° and A
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.2, Question 3.
 
 ## Correct Answer
 

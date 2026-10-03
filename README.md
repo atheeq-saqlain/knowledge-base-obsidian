@@ -137,8 +137,11 @@ npm run rewrite-catalog-codes    # one-shot vault + Mongo rewrite to the current
 | Section                  | Purpose                                        |
 | ------------------------ | ---------------------------------------------- |
 | **Note title**           | Human-readable title                           |
+| **`code`**               | Stable id (`Q-YYMMDDHHMM-XXXXXXXX`) — sync join key |
+| **`questionType`**       | Optional kind (e.g. `exercise`)                |
+| **`source`**             | Textbook / list citation (optional)            |
 | **Statement**            | What the learner sees                          |
-| **Description**          | Examples, constraints, context (optional)      |
+| **Description**          | Extra context (optional; not the citation)     |
 | **Correct Answer**       | Reference solution (optional)                  |
 | **Core Concept**         | Single `[[wikilink]]` → prefer a **schema**    |
 | **Assessment Checklist** | Table: `label`, `weight`, `required`, `role`   |

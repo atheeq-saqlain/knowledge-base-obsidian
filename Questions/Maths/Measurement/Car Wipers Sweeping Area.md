@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Y1ANG6QB
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.2, Question 11."
 ---
 # Car Wipers Sweeping Area
 
@@ -10,7 +11,6 @@ A car has two wipers which do not overlap. Each wiper has a blade of length 25 c
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.2, Question 11.
 
 ## Correct Answer
 

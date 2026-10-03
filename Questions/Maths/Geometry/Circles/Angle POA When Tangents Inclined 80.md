@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-NH0CQ2NM
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 4.2, Question 3."
 ---
 # Angle POA When Tangents Inclined 80
 
@@ -11,8 +12,6 @@ If tangents PA and PB from a point P to a circle with centre O are inclined to e
 (A) 50° (B) 60° (C) 70° (D) 80°
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 4.2, Question 3.
 
 ## Correct Answer
 

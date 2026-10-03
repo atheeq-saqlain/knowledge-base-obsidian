@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-WHQABSP0
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 2(i)."
 ---
 # 30th Term of AP 10 7 4
 
@@ -13,8 +14,6 @@ The 30th term of the AP: 10, 7, 4, … is
 (A) 97  (B) 77  (C) −77  (D) −87
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 2(i).
 
 ## Correct Answer
 

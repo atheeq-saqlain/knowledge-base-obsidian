@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-YVRS3WAP
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.6, Question 2(ii)."
 ---
 # Women Men Embroidery Work Days
 
@@ -10,7 +11,6 @@ questionType: exercise
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.6, Question 2(ii).
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-S2JFV2RM
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.2, Question 6."
 ---
 # Parallelogram Vertices Find x and y
 
@@ -10,7 +11,6 @@ If (1, 2), (4, y), (x, 6) and (3, 5) are vertices of a parallelogram taken in or
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.2, Question 6.
 
 ## Correct Answer
 

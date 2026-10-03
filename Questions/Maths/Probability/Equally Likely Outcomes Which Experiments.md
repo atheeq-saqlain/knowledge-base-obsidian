@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-TST7PYQK
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 2."
 ---
 # Equally Likely Outcomes Which Experiments
 
@@ -18,7 +19,6 @@ Which of the following experiments have equally likely outcomes? Explain.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 2.
 
 ## Correct Answer
 

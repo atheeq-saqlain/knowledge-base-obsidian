@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-THHYQ39K
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 2."
 ---
 # Sums of APs with Last Term
 
@@ -16,7 +17,6 @@ Find the sums given below:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 2.
 
 ## Correct Answer
 

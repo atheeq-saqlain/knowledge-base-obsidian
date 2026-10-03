@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-0RVYMKMM
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 12."
 ---
 # Difference of 1000th Terms Same d
 
@@ -10,7 +11,6 @@ Two APs have the same common difference. The difference between their 100th term
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 12.
 
 ## Correct Answer
 

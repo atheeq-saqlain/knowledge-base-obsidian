@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-MRQ93YPE
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.4, Question 3 (Optional)."
 ---
 # Centre of Circle Through Three Points
 
@@ -9,8 +10,6 @@ questionType: exercise
 Find the centre of a circle passing through (6, −6), (3, −7) and (3, 3).
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 7.4, Question 3 (Optional).
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-T2ZJ2VNB
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.3, Question 5."
 ---
 # Find A from Sec 4A Equals Csc A Minus 20
 
@@ -10,7 +11,6 @@ If sec 4A = csc(A − 20°), where 4A is an acute angle, find the value of A.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.3, Question 5.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-7JWWQHNZ
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.5 (Optional), Question 4."
 ---
 # Rainfall Equivalent Three Rivers
 
@@ -10,7 +11,7 @@ In one fortnight of a given month, there was a rainfall of 10 cm in a river vall
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.5 (Optional), Question 4.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-7FM8VRPH
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 13."
 ---
 # Sum of First 15 Multiples of 8
 
@@ -10,7 +11,6 @@ Find the sum of the first 15 multiples of 8.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 13.
 
 ## Correct Answer
 

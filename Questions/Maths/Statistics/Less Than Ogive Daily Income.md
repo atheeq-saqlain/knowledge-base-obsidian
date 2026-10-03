@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-DP60279R
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.4, Question 1."
 ---
 # Less Than Ogive Daily Income
 
@@ -10,7 +11,6 @@ Convert the daily income distribution of 50 factory workers into a less-than cum
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.4, Question 1.
 
 ## Correct Answer
 

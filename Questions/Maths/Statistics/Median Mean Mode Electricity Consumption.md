@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-45RVK52A
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.3, Question 1."
 ---
 # Median Mean Mode Electricity Consumption
 
@@ -10,7 +11,6 @@ Find the median, mean and mode for the monthly power consumption of 68 consumers
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.3, Question 1.
 
 ## Correct Answer
 

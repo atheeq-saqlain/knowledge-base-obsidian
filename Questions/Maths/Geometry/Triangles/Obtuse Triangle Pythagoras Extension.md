@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-V7DM5DMK
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.6, Question 3."
 ---
 # Obtuse Triangle Pythagoras Extension
 
@@ -23,7 +24,6 @@ In Fig. 2.58, ABC is a triangle in which ∠ABC > 90° and AD ⊥ CB produced. P
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.6, Question 3.
 
 ## Correct Answer
 

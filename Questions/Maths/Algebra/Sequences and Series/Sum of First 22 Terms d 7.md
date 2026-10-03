@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-W312BWM7
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 7."
 ---
 # Sum of First 22 Terms d 7
 
@@ -10,7 +11,6 @@ Find the sum of first 22 terms of an AP in which d = 7 and the 22nd term is 149.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 7.
 
 ## Correct Answer
 

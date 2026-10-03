@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-5R6CM4XJ
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 4.2, Question 2."
 ---
 # Angle Between Tangents PTQ
 
@@ -12,7 +13,6 @@ If TP and TQ are the two tangents to a circle with centre O so that ∠POQ = 110
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 4.2, Question 2.
 
 ## Correct Answer
 

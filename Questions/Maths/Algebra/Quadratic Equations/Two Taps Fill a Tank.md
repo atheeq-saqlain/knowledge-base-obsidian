@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-P9QNWDJ4
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.3, Question 9."
 ---
 # Two Taps Fill a Tank
 
@@ -10,7 +11,6 @@ Two water taps together can fill a tank in 9⅜ hours. The tap of larger diamete
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.3, Question 9.
 
 ## Correct Answer
 

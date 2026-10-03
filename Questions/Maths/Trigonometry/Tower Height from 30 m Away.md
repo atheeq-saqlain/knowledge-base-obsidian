@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-MWPAHHCC
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 12.1, Question 4."
 ---
 # Tower Height from 30 m Away
 
@@ -10,7 +11,6 @@ The angle of elevation of the top of a tower from a point on the ground 30 m awa
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 12.1, Question 4.
 
 ## Correct Answer
 

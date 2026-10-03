@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-DYBFMZ3X
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.2, Question 2."
 ---
 # Modal Lifetime Electrical Components
 
@@ -10,7 +11,6 @@ Find the modal lifetime of 225 electrical components: lifetimes 0–20, 20–40,
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.2, Question 2.
 
 ## Correct Answer
 

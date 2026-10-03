@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-239Z85YY
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.4 (optional), Question 2."
 ---
 # Third and Seventh Terms Product 8
 
@@ -10,7 +11,6 @@ The sum of the third and the seventh terms of an AP is 6 and their product is 8.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.4 (optional), Question 2.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ANZ7KMS8
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.1, Question 1."
 ---
 # Two Cubes Joined Surface Area
 
@@ -10,7 +11,6 @@ Two cubes each of volume 64 cm³ are joined end to end. Find the surface area of
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.1, Question 1.
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

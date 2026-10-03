@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ESMP8ETD
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.2, Question 7."
 ---
 # Sonia and Ravi Meet Again
 
@@ -10,7 +11,6 @@ Sonia takes 18 minutes to drive one round of a circular field, while Ravi takes 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.2, Question 7.
 
 ## Correct Answer
 

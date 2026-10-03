@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-VD64X651
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.4, Question 5."
 ---
 # Rectangular Park Perimeter 80 Area 400
 
@@ -10,7 +11,6 @@ Is it possible to design a rectangular park of perimeter 80 m and area 400 m²? 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.4, Question 5.
 
 ## Correct Answer
 

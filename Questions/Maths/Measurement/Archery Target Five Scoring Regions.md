@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-H09Y741V
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.1, Question 3."
 ---
 # Archery Target Five Scoring Regions
 
@@ -10,7 +11,6 @@ An archery target has five concentric scoring regions from the centre outwards: 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.1, Question 3.
 
 ## Correct Answer
 

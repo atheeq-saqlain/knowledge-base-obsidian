@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-8DWGGXDW
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.3, Question 1."
 ---
 # Area of Triangle from Vertices
 
@@ -11,8 +12,6 @@ Find the area of the triangle whose vertices are:
 (ii) (−5, −1), (3, −5) and (5, 2).
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 7.3, Question 1.
 
 ## Correct Answer
 

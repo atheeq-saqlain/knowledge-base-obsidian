@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-221NMYTM
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 9.4 (Optional), Question 2."
 ---
 # Cubic from Symmetric Sums of Zeroes
 
@@ -10,7 +11,6 @@ Find a cubic polynomial with the sum, sum of the product of its zeroes taken two
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 9.4 (Optional), Question 2.
 
 ## Correct Answer
 

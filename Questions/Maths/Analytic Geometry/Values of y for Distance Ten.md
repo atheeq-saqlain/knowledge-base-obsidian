@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-082E6S3E
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.1, Question 8."
 ---
 # Values of y for Distance Ten
 
@@ -10,7 +11,6 @@ Find the values of y for which the distance between P(2, −3) and Q(10, y) is 1
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.1, Question 8.
 
 ## Correct Answer
 

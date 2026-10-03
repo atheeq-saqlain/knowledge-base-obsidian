@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-0DFXRD12
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.4, Question 2."
 ---
 # Values of k for Equal Roots
 
@@ -13,7 +14,6 @@ Find the values of k for each of the following quadratic equations, so that they
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.4, Question 2.
 
 ## Correct Answer
 

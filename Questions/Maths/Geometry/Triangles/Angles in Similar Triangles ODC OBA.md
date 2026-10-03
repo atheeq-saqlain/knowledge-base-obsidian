@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-PYM02NSD
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.3, Question 2."
 ---
 # Angles in Similar Triangles ODC OBA
 
@@ -25,8 +26,6 @@ In Fig. 2.35, ΔODC ~ ΔOBA, ∠BOC = 125° and ∠CDO = 70°. Find ∠DOC, ∠D
 ```
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 2.3, Question 2.
 
 ## Correct Answer
 

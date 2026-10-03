@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-9HX86YDW
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.3, Question 8."
 ---
 # Canal Irrigate Area 30 Minutes
 
@@ -10,7 +11,7 @@ Water in a canal, 6 m wide and 1.5 m deep, is flowing with a speed of 10 km/h. H
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.3, Question 8.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

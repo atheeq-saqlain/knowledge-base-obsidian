@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-R23P055G
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.1, Question 6."
 ---
 # Prove Acute Cos A Equals Cos B Implies A Equals B
 
@@ -10,7 +11,6 @@ If ∠A and ∠B are acute angles such that cos A = cos B, then prove that ∠A 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.1, Question 6.
 
 ## Correct Answer
 

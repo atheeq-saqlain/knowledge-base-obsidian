@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ASYCDSW3
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.3, Question 13."
 ---
 # Square Inscribed in Quadrant Shaded
 
@@ -10,7 +11,6 @@ A square OABC is inscribed in a quadrant OPBQ. If OA = 20 cm, find the area of t
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.3, Question 13.
 
 ## Correct Answer
 

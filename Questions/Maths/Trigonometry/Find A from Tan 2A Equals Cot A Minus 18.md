@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-R7P3JWZQ
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.3, Question 3."
 ---
 # Find A from Tan 2A Equals Cot A Minus 18
 
@@ -10,7 +11,6 @@ If tan 2A = cot(A − 18°), where 2A is an acute angle, find the value of A.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.3, Question 3.
 
 ## Correct Answer
 

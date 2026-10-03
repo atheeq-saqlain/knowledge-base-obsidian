@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-DTFJHTHS
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 6.2, Question 2."
 ---
 # Tangent Length Concentric Circles
 
@@ -10,7 +11,6 @@ Construct a tangent to a circle of radius 4 cm from a point on the concentric ci
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 6.2, Question 2.
 
 ## Correct Answer
 

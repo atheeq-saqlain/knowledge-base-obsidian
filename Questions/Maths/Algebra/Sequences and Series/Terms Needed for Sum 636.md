@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-TMGGNV0D
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 4."
 ---
 # Terms Needed for Sum 636
 
@@ -10,7 +11,6 @@ How many terms of the AP: 9, 17, 25, … must be taken to give a sum of 636?
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 4.
 
 ## Correct Answer
 

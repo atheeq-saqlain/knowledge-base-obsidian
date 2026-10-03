@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-KD6DJM8V
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 19."
 ---
 # Log Stack 200 Logs
 
@@ -10,7 +11,6 @@ questionType: exercise
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 19.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-QFP3TNNN
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 6.2, Question 3."
 ---
 # Tangents from Points on Extended Diameter
 
@@ -10,7 +11,6 @@ Draw a circle of radius 3 cm. Take points P and Q on one extended diameter, each
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 6.2, Question 3.
 
 ## Correct Answer
 

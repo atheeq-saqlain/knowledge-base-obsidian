@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-P7WJQP48
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.3, Question 12."
 ---
 # Proportional Sides Median Similarity
 
@@ -10,7 +11,6 @@ Sides AB and BC and median AD of a triangle ABC are respectively proportional to
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.3, Question 12.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Q6HWXQ7A
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 12.1, Question 5."
 ---
 # Kite String Length at 60 Degrees
 
@@ -10,7 +11,6 @@ A kite is flying at a height of 60 m above the ground. The string attached to th
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 12.1, Question 5.
 
 ## Correct Answer
 

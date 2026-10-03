@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-YQR16S06
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.6, Question 9."
 ---
 # Converse Angle Bisector Theorem
 
@@ -22,7 +23,6 @@ In Fig. 2.63, D is a point on side BC of ΔABC such that BD/CD = AB/AC. Prove th
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.6, Question 9.
 
 ## Correct Answer
 

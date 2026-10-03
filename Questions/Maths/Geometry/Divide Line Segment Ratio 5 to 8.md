@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-NC7J6SQT
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 6.1, Question 1."
 ---
 # Divide Line Segment Ratio 5 to 8
 
@@ -9,8 +10,6 @@ questionType: exercise
 Draw a line segment of length 7.6 cm and divide it in the ratio 5 : 8. Measure the two parts. Give the justification of the construction.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 6.1, Question 1.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-NP9XYRVS
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.5, Question 11."
 ---
 # Two Planes Distance After Flight
 
@@ -10,7 +11,6 @@ An aeroplane leaves an airport and flies due north at a speed of 1000 km/h. At t
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.5, Question 11.
 
 ## Correct Answer
 

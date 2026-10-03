@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ZKYHDM9C
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.5, Question 15."
 ---
 # Equilateral BD One Third BC
 
@@ -10,7 +11,6 @@ In an equilateral triangle ABC, D is a point on side BC such that BD = (1/3) BC.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.5, Question 15.
 
 ## Correct Answer
 

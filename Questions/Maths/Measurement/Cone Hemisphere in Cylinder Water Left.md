@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-BXMXV27D
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.2, Question 7."
 ---
 # Cone Hemisphere in Cylinder Water Left
 
@@ -10,7 +11,7 @@ A solid consisting of a right circular cone of height 120 cm and radius 60 cm st
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.2, Question 7.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

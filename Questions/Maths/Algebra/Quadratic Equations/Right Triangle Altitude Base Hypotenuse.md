@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-D69GBH5G
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.2, Question 5."
 ---
 # Right Triangle Altitude Base Hypotenuse
 
@@ -10,7 +11,6 @@ The altitude of a right triangle is 7 cm less than its base. If the hypotenuse i
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.2, Question 5.
 
 ## Correct Answer
 

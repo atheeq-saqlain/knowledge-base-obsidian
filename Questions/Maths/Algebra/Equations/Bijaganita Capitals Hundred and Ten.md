@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-6HMY0EZT
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.7, Question 2."
 ---
 # Bijaganita Capitals Hundred and Ten
 
@@ -9,8 +10,6 @@ questionType: exercise
 One says, "Give me a hundred, friend! I shall then become twice as rich as you." The other replies, "If you give me ten, I shall be six times as rich as you." Tell me what is the amount of their (respective) capital? [From the Bijaganita of Bhaskara II]
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 3.7, Question 2.
 
 ## Correct Answer
 

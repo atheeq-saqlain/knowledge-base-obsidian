@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-8FQHJV0R
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 4.2, Question 5."
 ---
 # Perpendicular to Tangent Through Centre
 
@@ -10,7 +11,6 @@ Prove that the perpendicular at the point of contact to the tangent to a circle 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 4.2, Question 5.
 
 ## Correct Answer
 

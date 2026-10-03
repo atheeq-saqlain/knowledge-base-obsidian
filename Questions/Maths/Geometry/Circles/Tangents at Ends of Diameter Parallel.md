@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-RN20XS4B
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 4.2, Question 4."
 ---
 # Tangents at Ends of Diameter Parallel
 
@@ -10,7 +11,6 @@ Prove that the tangents drawn at the ends of a diameter of a circle are parallel
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 4.2, Question 4.
 
 ## Correct Answer
 

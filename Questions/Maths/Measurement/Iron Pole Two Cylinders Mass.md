@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-EB97C9GH
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.2, Question 6."
 ---
 # Iron Pole Two Cylinders Mass
 
@@ -10,7 +11,7 @@ A solid iron pole consists of a cylinder of height 220 cm and base diameter 24 c
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.2, Question 6.
+
 Use π = 3.14 as stated.
 
 ## Correct Answer

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-S7V8C6D0
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.3, Question 8."
 ---
 # Train Speed 360 km
 
@@ -10,7 +11,6 @@ A train travels 360 km at a uniform speed. If the speed had been 5 km/h more, it
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.3, Question 8.
 
 ## Correct Answer
 

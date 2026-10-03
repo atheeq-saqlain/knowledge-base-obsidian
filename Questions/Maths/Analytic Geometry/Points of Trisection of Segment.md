@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Z8E7AY0D
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.2, Question 2."
 ---
 # Points of Trisection of Segment
 
@@ -10,7 +11,6 @@ Find the coordinates of the points of trisection of the segment joining (4, −1
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.2, Question 2.
 
 ## Correct Answer
 

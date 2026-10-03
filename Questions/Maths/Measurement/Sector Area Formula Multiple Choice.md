@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-AB6DBQ7J
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.2, Question 14."
 ---
 # Sector Area Formula Multiple Choice
 
@@ -12,7 +13,6 @@ Area of a sector of angle p (in degrees) of a circle with radius R is:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.2, Question 14.
 
 ## Correct Answer
 

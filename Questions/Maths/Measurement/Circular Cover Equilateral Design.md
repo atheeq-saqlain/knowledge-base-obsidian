@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-8G54QWGF
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.3, Question 6."
 ---
 # Circular Cover Equilateral Design
 
@@ -10,7 +11,6 @@ In a circular table cover of radius 32 cm, a design is formed leaving an equilat
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.3, Question 6.
 
 ## Correct Answer
 

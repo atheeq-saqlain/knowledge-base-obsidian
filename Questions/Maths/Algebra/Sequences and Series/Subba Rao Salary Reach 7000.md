@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-SZ4RN228
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 19."
 ---
 # Subba Rao Salary Reach 7000
 
@@ -10,7 +11,6 @@ Subba Rao started work in 1995 at an annual salary of ₹5000 and received an in
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 19.
 
 ## Correct Answer
 

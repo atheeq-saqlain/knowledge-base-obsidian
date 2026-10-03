@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-F5682NCG
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.3, Question 4."
 ---
 # Prove Tan A Equals Cot B Implies A Plus B 90
 
@@ -10,7 +11,6 @@ If tan A = cot B, prove that A + B = 90°.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.3, Question 4.
 
 ## Correct Answer
 

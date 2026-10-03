@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-H2WAQ5HZ
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.4, Question 3."
 ---
 # Fez Cap Material Area
 
@@ -10,7 +11,7 @@ A fez, the cap used by the Turks, is shaped like the frustum of a cone. If its r
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.4, Question 3.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

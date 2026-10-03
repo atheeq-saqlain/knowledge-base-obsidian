@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-2Q0V90T6
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 12.1, Question 1."
 ---
 # Circus Artist Rope Height of Pole
 
@@ -10,7 +11,6 @@ A circus artist is climbing a 20 m long rope, which is tightly stretched and tie
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 12.1, Question 1.
 
 ## Correct Answer
 

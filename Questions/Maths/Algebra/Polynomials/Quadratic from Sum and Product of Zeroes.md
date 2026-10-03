@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Q7QQE4RX
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 9.2, Question 2."
 ---
 # Quadratic from Sum and Product of Zeroes
 
@@ -17,7 +18,6 @@ Find a quadratic polynomial each with the given numbers as the sum and product o
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 9.2, Question 2.
 
 ## Correct Answer
 

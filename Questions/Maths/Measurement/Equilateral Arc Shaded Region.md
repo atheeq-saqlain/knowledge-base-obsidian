@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ZY46ZGKD
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.3, Question 4."
 ---
 # Equilateral Arc Shaded Region
 
@@ -10,7 +11,6 @@ Find the area of the shaded region where a circular arc of radius 6 cm has been 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.3, Question 4.
 
 ## Correct Answer
 

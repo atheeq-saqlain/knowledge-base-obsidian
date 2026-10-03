@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-EXPX8B2Q
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.1, Question 5."
 ---
 # Cube of Integer Form 9m 9m Plus 1 or 9m Plus 8
 
@@ -10,7 +11,6 @@ Use Euclid’s division lemma to show that the cube of any positive integer is o
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.1, Question 5.
 
 ## Correct Answer
 

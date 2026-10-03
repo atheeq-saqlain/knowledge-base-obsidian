@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-D2F93YZF
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.3, Question 2."
 ---
 # Missing Frequencies Median 28.5
 
@@ -10,7 +11,6 @@ The median of the following distribution is 28.5 and the total frequency is 60. 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.3, Question 2.
 
 ## Correct Answer
 

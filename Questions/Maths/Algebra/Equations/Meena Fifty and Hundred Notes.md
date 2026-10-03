@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Q4TENDJM
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.4, Question 2(iv)."
 ---
 # Meena Fifty and Hundred Notes
 
@@ -10,7 +11,6 @@ Meena went to a bank to withdraw ₹2000. She asked the cashier to give her ₹5
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.4, Question 2(iv).
 
 ## Correct Answer
 

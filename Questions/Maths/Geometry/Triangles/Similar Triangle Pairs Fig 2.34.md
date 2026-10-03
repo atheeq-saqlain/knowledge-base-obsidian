@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-PNAQFGE1
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.3, Question 1."
 ---
 # Similar Triangle Pairs Fig 2.34
 
@@ -105,7 +106,6 @@ State which pairs of triangles in Fig. 2.34 are similar. Write the similarity cr
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.3, Question 1.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-0TKHS9Q8
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.3, Question 11."
 ---
 # Sides of Two Squares
 
@@ -10,7 +11,6 @@ The sum of the areas of two squares is 468 m². If the difference of their perim
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.3, Question 11.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-RNSDEBE7
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 10."
 ---
 # Sequences Defined by nth Term are APs
 
@@ -14,7 +15,6 @@ Show that a₁, a₂, …, aₙ, … form an AP where aₙ is defined as below. 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 10.
 
 ## Correct Answer
 

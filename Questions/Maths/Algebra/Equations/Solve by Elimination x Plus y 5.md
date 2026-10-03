@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-TSKV08Y1
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.4, Question 1."
 ---
 # Solve by Elimination x Plus y 5
 
@@ -15,7 +16,6 @@ Solve the following pairs of linear equations by the elimination method and the 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.4, Question 1.
 
 ## Correct Answer
 

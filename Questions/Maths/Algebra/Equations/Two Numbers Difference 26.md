@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-NX11A0FS
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.3, Question 3(i)."
 ---
 # Two Numbers Difference 26
 
@@ -10,7 +11,6 @@ The difference between two numbers is 26 and one number is three times the other
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.3, Question 3(i).
 
 ## Correct Answer
 

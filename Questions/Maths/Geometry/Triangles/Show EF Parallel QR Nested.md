@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-65FTTEKH
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.2, Question 5."
 ---
 # Show EF Parallel QR Nested
 
@@ -30,7 +31,6 @@ In Fig. 2.20, DE ∥ OQ and DF ∥ OR. Show that EF ∥ QR.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.2, Question 5.
 
 ## Correct Answer
 

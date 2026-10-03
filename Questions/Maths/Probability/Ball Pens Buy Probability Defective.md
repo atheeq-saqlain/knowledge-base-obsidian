@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Y3XP7V9K
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 21."
 ---
 # Ball Pens Buy Probability Defective
 
@@ -14,7 +15,6 @@ A lot consists of 144 ball pens of which 20 are defective and the others are goo
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 21.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-51JDD8SB
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 12.1, Question 14."
 ---
 # Balloon Distance Travelled
 
@@ -10,7 +11,6 @@ A 1.2 m tall girl spots a balloon moving with the wind in a horizontal line at a
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 12.1, Question 14.
 
 ## Correct Answer
 

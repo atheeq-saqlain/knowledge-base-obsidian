@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-QE6MSCTR
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.6, Question 7."
 ---
 # Intersecting Chords Inside Circle
 
@@ -27,7 +28,6 @@ In Fig. 2.61, two chords AB and CD intersect each other at the point P. Prove th
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.6, Question 7.
 
 ## Correct Answer
 

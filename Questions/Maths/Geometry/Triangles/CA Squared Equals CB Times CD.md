@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-NWE7MSSS
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.3, Question 13."
 ---
 # CA Squared Equals CB Times CD
 
@@ -10,7 +11,6 @@ D is a point on the side BC of a triangle ABC such that ∠ADC = ∠BAC. Show th
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.3, Question 13.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-QDNJRV36
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.3, Question 16."
 ---
 # Corresponding Medians Similar Triangles
 
@@ -10,7 +11,6 @@ If AD and PM are medians of triangles ABC and PQR, respectively, where Î”ABC ~ Î
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.3, Question 16.
 
 ## Correct Answer
 

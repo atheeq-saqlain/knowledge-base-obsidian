@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-REK5PF6S
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.2, Question 1."
 ---
 # Roots by Factorisation
 
@@ -16,7 +17,6 @@ Find the roots of the following quadratic equations by factorisation:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.2, Question 1.
 
 ## Correct Answer
 

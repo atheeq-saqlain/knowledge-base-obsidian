@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-C8D9ST2M
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.2."
 ---
 # Graphical Formulation and Nature 3.2
 
@@ -25,8 +26,6 @@ questionType: exercise
 7. Draw x − y + 1 = 0 and 3x + 2y − 12 = 0. Find the vertices of the triangle formed with the x-axis and shade the region.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 3.2.
 
 ## Correct Answer
 

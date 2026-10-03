@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-SC3K7JSK
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.1, Question 10."
 ---
 # Sin Cos Tan P in Triangle PR Plus QR 25
 
@@ -10,7 +11,6 @@ In ΔPQR, right-angled at Q, PR + QR = 25 cm and PQ = 5 cm. Determine sin P, cos
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.1, Question 10.
 
 ## Correct Answer
 

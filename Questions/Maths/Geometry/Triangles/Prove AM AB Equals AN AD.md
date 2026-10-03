@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-26GHKWQK
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.2, Question 3."
 ---
 # Prove AM AB Equals AN AD
 
@@ -27,7 +28,6 @@ In Fig. 2.18, if LM ∥ CB and LN ∥ CD, prove that AM/AB = AN/AD.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.2, Question 3.
 
 ## Correct Answer
 

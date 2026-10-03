@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-CMTPWWJX
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 12.1, Question 10."
 ---
 # Two Equal Poles Across a Road
 
@@ -10,7 +11,6 @@ Two poles of equal heights stand opposite each other on either side of an 80 m w
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 12.1, Question 10.
 
 ## Correct Answer
 

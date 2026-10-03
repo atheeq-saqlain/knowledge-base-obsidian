@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-G7H661WF
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.5 (Optional), Question 1."
 ---
 # Copper Wire Wound on Cylinder
 
@@ -10,7 +11,7 @@ A copper wire, 3 mm in diameter, is wound about a cylinder whose length is 12 cm
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.5 (Optional), Question 1.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

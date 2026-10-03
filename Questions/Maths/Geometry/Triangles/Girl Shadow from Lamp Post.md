@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-A1VARVS4
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Example 3 (Chapter 2)."
 ---
 # Girl Shadow from Lamp Post
 
@@ -28,8 +29,6 @@ A girl of height 90 cm is walking away from the base of a lamp-post at a speed o
 ```
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Example 3 (Chapter 2).
 
 ## Correct Answer
 

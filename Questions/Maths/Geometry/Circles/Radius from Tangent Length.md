@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-E2FAAN11
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 4.2, Question 1."
 ---
 # Radius from Tangent Length
 
@@ -12,7 +13,6 @@ From a point Q, the length of the tangent to a circle is 24 cm and the distance 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 4.2, Question 1.
 
 ## Correct Answer
 

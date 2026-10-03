@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-9AZMYK08
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.2 Optional, Question 5."
 ---
 # Blue Marbles Given Green Probability Two Thirds
 
@@ -10,7 +11,6 @@ A jar contains 24 marbles, some are green and others are blue. If a marble is dr
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.2 Optional, Question 5.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-GF1P2J8C
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.3, Question 1."
 ---
 # Sphere Recast to Cylinder Height
 
@@ -10,7 +11,7 @@ A metallic sphere of radius 4.2 cm is melted and recast into the shape of a cyli
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.3, Question 1.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

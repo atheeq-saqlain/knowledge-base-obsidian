@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-JA84GEAB
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 12.1, Question 15."
 ---
 # Car Approaching Tower Time
 
@@ -10,7 +11,6 @@ A straight highway leads to the foot of a tower. A man at the top observes a car
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 12.1, Question 15.
 
 ## Correct Answer
 

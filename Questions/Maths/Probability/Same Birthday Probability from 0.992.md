@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ACQPTCAM
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 7."
 ---
 # Same Birthday Probability from 0.992
 
@@ -10,7 +11,6 @@ It is given that in a group of 3 students, the probability of 2 students not hav
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 7.
 
 ## Correct Answer
 

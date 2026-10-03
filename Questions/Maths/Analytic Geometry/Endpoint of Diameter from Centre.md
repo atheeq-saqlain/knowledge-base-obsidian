@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ES3EPQ5M
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.2, Question 7."
 ---
 # Endpoint of Diameter from Centre
 
@@ -9,8 +10,6 @@ questionType: exercise
 Find coordinates of A if AB is a diameter of a circle with centre (2, −3) and B is (1, 4).
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 7.2, Question 7.
 
 ## Correct Answer
 

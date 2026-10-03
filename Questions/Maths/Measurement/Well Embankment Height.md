@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-GCAM20G5
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.3, Question 4."
 ---
 # Well Embankment Height
 
@@ -10,7 +11,7 @@ A well of diameter 3 m is dug 14 m deep. The earth taken out of it has been spre
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.3, Question 4.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

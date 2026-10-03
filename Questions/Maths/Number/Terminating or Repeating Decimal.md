@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-X0A2NEJE
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.4, Question 1."
 ---
 # Terminating or Repeating Decimal
 
@@ -21,7 +22,6 @@ Without actually performing the long division, state whether the following ratio
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.4, Question 1.
 
 ## Correct Answer
 

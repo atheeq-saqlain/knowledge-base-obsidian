@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-TDYCX76A
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 9.3, Question 3."
 ---
 # Other Zeroes Given Two Zeroes
 
@@ -10,7 +11,6 @@ Obtain all other zeroes of 3x⁴ + 6x³ − 2x² − 10x − 5, if two of its ze
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 9.3, Question 3.
 
 ## Correct Answer
 

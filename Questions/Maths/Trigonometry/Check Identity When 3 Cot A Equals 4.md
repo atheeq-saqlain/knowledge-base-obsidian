@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-576CWC9H
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.1, Question 8."
 ---
 # Check Identity When 3 Cot A Equals 4
 
@@ -10,7 +11,6 @@ If 3 cot A = 4, check whether (1 − tan² A)/(1 + tan² A) = cos² A − sin² 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.1, Question 8.
 
 ## Correct Answer
 

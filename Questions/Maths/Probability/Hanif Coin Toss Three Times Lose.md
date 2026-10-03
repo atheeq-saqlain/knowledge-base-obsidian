@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-XHZKVEBY
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 23."
 ---
 # Hanif Coin Toss Three Times Lose
 
@@ -10,7 +11,6 @@ A game consists of tossing a one rupee coin 3 times and noting its outcome each 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 23.
 
 ## Correct Answer
 

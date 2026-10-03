@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-CCC71GEP
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.2 Optional, Question 2."
 ---
 # Special Numbered Die Two Throws Probabilities
 
@@ -16,7 +17,6 @@ A die is numbered in such a way that its faces show the numbers 1, 2, 2, 3, 3, 6
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.2 Optional, Question 2.
 
 ## Correct Answer
 

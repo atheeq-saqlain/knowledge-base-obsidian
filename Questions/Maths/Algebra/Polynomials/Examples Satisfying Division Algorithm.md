@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-106PQ47T
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 9.3, Question 5."
 ---
 # Examples Satisfying Division Algorithm
 
@@ -14,7 +15,6 @@ Give examples of polynomials p(x), g(x), q(x) and r(x), which satisfy the divisi
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 9.3, Question 5.
 
 ## Correct Answer
 

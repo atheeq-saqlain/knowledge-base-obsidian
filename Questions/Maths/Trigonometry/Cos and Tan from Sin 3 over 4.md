@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-2GNWR5PG
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.1, Question 3."
 ---
 # Cos and Tan from Sin 3 over 4
 
@@ -10,7 +11,6 @@ If sin A = 3/4, calculate cos A and tan A.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.1, Question 3.
 
 ## Correct Answer
 

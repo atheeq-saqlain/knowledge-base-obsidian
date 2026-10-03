@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-9Y8EEWXK
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.7, Question 8."
 ---
 # Cyclic Quadrilateral Angles
 
@@ -9,8 +10,6 @@ questionType: exercise
 ABCD is a cyclic quadrilateral. Find the angles of the cyclic quadrilateral (angles given as 3y − 5, 4y + 20, −4x, and −7x + 5).
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 3.7, Question 8.
 
 ## Correct Answer
 

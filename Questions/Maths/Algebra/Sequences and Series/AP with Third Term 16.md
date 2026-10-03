@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-5AYE7D3W
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 16."
 ---
 # AP with Third Term 16
 
@@ -10,7 +11,6 @@ Determine the AP whose third term is 16 and the 7th term exceeds the 5th term by
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 16.
 
 ## Correct Answer
 

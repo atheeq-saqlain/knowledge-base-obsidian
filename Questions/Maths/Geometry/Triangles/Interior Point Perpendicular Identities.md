@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-T0W7DRP6
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.5, Question 8."
 ---
 # Interior Point Perpendicular Identities
 
@@ -31,7 +32,6 @@ In Fig. 2.54, O is a point in the interior of a triangle ABC, OD ⊥ BC, OE ⊥ 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.5, Question 8.
 
 ## Correct Answer
 

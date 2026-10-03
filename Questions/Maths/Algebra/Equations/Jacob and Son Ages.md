@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-RGH0WPJ7
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.3, Question 3(vi)."
 ---
 # Jacob and Son Ages
 
@@ -10,7 +11,6 @@ Five years hence, the age of Jacob will be three times that of his son. Five yea
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.3, Question 3(vi).
 
 ## Correct Answer
 

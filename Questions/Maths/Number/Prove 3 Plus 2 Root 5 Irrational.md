@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-N6R3WXY1
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.3, Question 2."
 ---
 # Prove 3 Plus 2 Root 5 Irrational
 
@@ -10,7 +11,6 @@ Prove that 3 + 2√5 is irrational.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.3, Question 2.
 
 ## Correct Answer
 

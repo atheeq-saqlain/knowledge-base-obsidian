@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-3HHNTYM7
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.5 (Optional), Question 5."
 ---
 # Oil Funnel Tin Sheet Area
 
@@ -10,7 +11,7 @@ An oil funnel made of tin sheet consists of a 10 cm long cylindrical portion att
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.5 (Optional), Question 5.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-386R5ZFE
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.1, Question 4."
 ---
 # Mean Heartbeats per Minute
 
@@ -10,7 +11,6 @@ Thirty women were examined in a hospital. Find the mean heartbeats per minute fo
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.1, Question 4.
 
 ## Correct Answer
 

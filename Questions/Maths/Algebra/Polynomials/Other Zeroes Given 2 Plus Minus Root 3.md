@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ZSG5CWEA
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 9.4 (Optional), Question 4."
 ---
 # Other Zeroes Given 2 Plus Minus Root 3
 
@@ -10,7 +11,6 @@ If two zeroes of the polynomial x⁴ − 6x³ − 26x² + 138x − 35 are 2 ± �
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 9.4 (Optional), Question 4.
 
 ## Correct Answer
 

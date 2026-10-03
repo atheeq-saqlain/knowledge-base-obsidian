@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-DHE43Q1F
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.2, Question 5."
 ---
 # X-axis Divides Segment Ratio
 
@@ -10,7 +11,6 @@ Find the ratio in which the x-axis divides the segment joining A(1, −5) and B(
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.2, Question 5.
 
 ## Correct Answer
 

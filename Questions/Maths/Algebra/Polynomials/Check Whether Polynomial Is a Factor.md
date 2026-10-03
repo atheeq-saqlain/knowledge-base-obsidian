@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-3XEJCNGE
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 9.3, Question 2."
 ---
 # Check Whether Polynomial Is a Factor
 
@@ -14,7 +15,6 @@ Check whether the first polynomial is a factor of the second polynomial by divid
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 9.3, Question 2.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-165RZ13Y
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 4.2, Question 13."
 ---
 # Opposite Sides Supplementary at Centre
 
@@ -10,7 +11,6 @@ Prove that opposite sides of a quadrilateral circumscribing a circle subtend sup
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 4.2, Question 13.
 
 ## Correct Answer
 

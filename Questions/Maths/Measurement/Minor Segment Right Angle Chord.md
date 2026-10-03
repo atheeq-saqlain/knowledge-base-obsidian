@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-24X699AQ
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.2, Question 4."
 ---
 # Minor Segment Right Angle Chord
 
@@ -15,7 +16,6 @@ A chord of a circle of radius 10 cm subtends a right angle at the centre. Find t
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.2, Question 4.
 
 ## Correct Answer
 

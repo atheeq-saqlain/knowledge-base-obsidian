@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ZW4MYWMW
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 4.1, Question 3."
 ---
 # Tangent Length from Centre Distance
 
@@ -12,7 +13,6 @@ A tangent PQ at a point P of a circle of radius 5 cm meets a line through the ce
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 4.1, Question 3.
 
 ## Correct Answer
 

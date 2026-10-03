@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-T94NC20V
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.5, Question 13."
 ---
 # AE BD Squares Identity
 
@@ -9,8 +10,6 @@ questionType: exercise
 D and E are points on the sides CA and CB respectively of a triangle ABC right-angled at C. Prove that AE² + BD² = AB² + DE².
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 2.5, Question 13.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-5FKCMKFJ
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 4.2, Question 8."
 ---
 # Circumscribed Quadrilateral Opposite Sides
 
@@ -10,7 +11,6 @@ A quadrilateral ABCD is drawn to circumscribe a circle. Prove that AB + CD = AD 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 4.2, Question 8.
 
 ## Correct Answer
 

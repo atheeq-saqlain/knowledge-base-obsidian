@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-DWG3DHEW
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 12.1, Question 16."
 ---
 # Complementary Elevations Prove Height 6
 
@@ -10,7 +11,6 @@ The angles of elevation of the top of a tower from two points at distances 4 m a
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 12.1, Question 16.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-8QBESQP7
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.5, Question 3."
 ---
 # Right Triangle Altitude Geometric Means
 
@@ -27,7 +28,6 @@ In Fig. 2.53, ABD is a triangle right-angled at A and AC ⊥ BD. Show that:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.5, Question 3.
 
 ## Correct Answer
 

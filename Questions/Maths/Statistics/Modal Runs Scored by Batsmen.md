@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-S1VK3J3J
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.2, Question 5."
 ---
 # Modal Runs Scored by Batsmen
 
@@ -10,7 +11,6 @@ Find the modal runs scored by batsmen: runs 3000–4000, …, 10000–11000 with
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.2, Question 5.
 
 ## Correct Answer
 

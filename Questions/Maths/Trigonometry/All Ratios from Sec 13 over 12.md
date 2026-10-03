@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-PH43QVGB
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.1, Question 5."
 ---
 # All Ratios from Sec 13 over 12
 
@@ -10,7 +11,6 @@ Given sec θ = 13/12, calculate all other trigonometric ratios of θ.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.1, Question 5.
 
 ## Correct Answer
 

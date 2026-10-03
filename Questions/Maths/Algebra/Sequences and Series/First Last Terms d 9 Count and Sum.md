@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-QA0MQTHM
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 6."
 ---
 # First Last Terms d 9 Count and Sum
 
@@ -10,7 +11,6 @@ The first and the last terms of an AP are 17 and 350 respectively. If the common
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 6.
 
 ## Correct Answer
 

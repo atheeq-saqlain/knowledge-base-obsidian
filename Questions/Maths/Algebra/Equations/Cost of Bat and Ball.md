@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-12Q07G9W
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.3, Question 3(iii)."
 ---
 # Cost of Bat and Ball
 
@@ -9,8 +10,6 @@ questionType: exercise
 The coach of a cricket team buys 7 bats and 6 balls for ₹3800. Later, she buys 3 bats and 5 balls for ₹1750. Find the cost of each bat and each ball.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 3.3, Question 3(iii).
 
 ## Correct Answer
 

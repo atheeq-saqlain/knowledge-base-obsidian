@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-NGXR85AH
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 9.3, Question 4."
 ---
 # Find Divisor from Quotient and Remainder
 
@@ -10,7 +11,6 @@ On dividing x³ − 3x² + x + 2 by a polynomial g(x), the quotient and remainde
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 9.3, Question 4.
 
 ## Correct Answer
 

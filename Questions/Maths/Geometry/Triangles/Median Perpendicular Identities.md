@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-VE9K07DJ
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.6, Question 5."
 ---
 # Median Perpendicular Identities
 
@@ -28,7 +29,6 @@ In Fig. 2.60, AD is a median of a triangle ABC and AM ⊥ BC. Prove that:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.6, Question 5.
 
 ## Correct Answer
 

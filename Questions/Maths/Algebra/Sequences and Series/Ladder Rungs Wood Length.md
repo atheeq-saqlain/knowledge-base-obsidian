@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-T70SG654
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.4 (optional), Question 3."
 ---
 # Ladder Rungs Wood Length
 
@@ -10,7 +11,6 @@ A ladder has rungs 25 cm apart (Fig. 1.7). The rungs decrease uniformly in lengt
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.4 (optional), Question 3.
 
 ## Correct Answer
 

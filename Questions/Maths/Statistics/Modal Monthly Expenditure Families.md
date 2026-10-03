@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-6P2GWGPJ
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.2, Question 3."
 ---
 # Modal Monthly Expenditure Families
 
@@ -10,7 +11,6 @@ Find the modal monthly expenditure of 200 families: expenditure (₹) 1000–150
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.2, Question 3.
 
 ## Correct Answer
 

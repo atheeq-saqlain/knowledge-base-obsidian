@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-EFAEQVD7
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 15."
 ---
 # Construction Penalty 30 Days
 
@@ -10,7 +11,6 @@ A contract on a construction job specifies a penalty for delay of completion bey
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 15.
 
 ## Correct Answer
 

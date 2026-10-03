@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-P6W9NPJA
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.3, Question 5."
 ---
 # Square Quadrants Central Circle Remaining
 
@@ -10,7 +11,6 @@ From each corner of a square of side 4 cm, a quadrant of a circle of radius 1 cm
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.3, Question 5.
 
 ## Correct Answer
 

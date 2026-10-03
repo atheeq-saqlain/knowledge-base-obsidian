@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-B92ZNQE6
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.1, Question 3."
 ---
 # Army Marching Columns
 
@@ -10,7 +11,6 @@ An army contingent of 616 members is to march behind an army band of 32 members 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.1, Question 3.
 
 ## Correct Answer
 

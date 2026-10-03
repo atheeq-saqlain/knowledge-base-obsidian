@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-ENQM3SK2
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.6, Question 6."
 ---
 # Parallelogram Diagonals Squares
 
@@ -10,7 +11,6 @@ Prove that the sum of the squares of the diagonals of a parallelogram is equal t
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.6, Question 6.
 
 ## Correct Answer
 

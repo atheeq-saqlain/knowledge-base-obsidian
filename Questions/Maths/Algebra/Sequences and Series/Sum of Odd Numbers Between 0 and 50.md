@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-2HD0TRB6
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 14."
 ---
 # Sum of Odd Numbers Between 0 and 50
 
@@ -10,7 +11,6 @@ Find the sum of the odd numbers between 0 and 50.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 14.
 
 ## Correct Answer
 

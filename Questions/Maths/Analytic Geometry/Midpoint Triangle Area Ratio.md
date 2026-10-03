@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-QCYWX849
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.3, Question 3."
 ---
 # Midpoint Triangle Area Ratio
 
@@ -10,7 +11,6 @@ Find the area of the triangle formed by joining the mid-points of the sides of t
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.3, Question 3.
 
 ## Correct Answer
 

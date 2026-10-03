@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-8W26ZN0N
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.4, Question 3."
 ---
 # Same Base Area Ratio AO DO
 
@@ -24,7 +25,6 @@ In Fig. 2.44, ABC and DBC are two triangles on the same base BC. If AD intersect
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.4, Question 3.
 
 ## Correct Answer
 

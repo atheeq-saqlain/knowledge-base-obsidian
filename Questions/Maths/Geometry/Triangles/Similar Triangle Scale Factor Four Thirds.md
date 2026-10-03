@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-5Q2J71E7
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 6.1, Question 6."
 ---
 # Similar Triangle Scale Factor Four Thirds
 
@@ -10,7 +11,6 @@ Draw ΔABC with BC = 7 cm, ∠B = 45°, ∠A = 105°. Construct a triangle whose
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 6.1, Question 6.
 
 ## Correct Answer
 

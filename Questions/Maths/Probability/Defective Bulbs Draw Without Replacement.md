@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-5VH7VMQ7
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 17."
 ---
 # Defective Bulbs Draw Without Replacement
 
@@ -12,7 +13,6 @@ questionType: exercise
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 17.
 
 ## Correct Answer
 

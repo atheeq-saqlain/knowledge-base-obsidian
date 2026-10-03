@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-WE36J78V
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.4, Question 7."
 ---
 # Equilateral on Side vs Diagonal
 
@@ -10,7 +11,6 @@ Prove that the area of an equilateral triangle described on one side of a square
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.4, Question 7.
 
 ## Correct Answer
 

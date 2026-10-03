@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-85EJWHJH
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 5."
 ---
 # Number of Terms in APs
 
@@ -14,7 +15,6 @@ Find the number of terms in each of the following APs:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 5.
 
 ## Correct Answer
 

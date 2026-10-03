@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-VAV79DN5
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 4."
 ---
 # Which Term of AP is 78
 
@@ -9,8 +10,6 @@ questionType: exercise
 Which term of the AP: 3, 8, 13, 18, … is 78?
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 4.
 
 ## Correct Answer
 

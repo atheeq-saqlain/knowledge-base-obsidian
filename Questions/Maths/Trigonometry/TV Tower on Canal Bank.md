@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-5F78BHX4
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 12.1, Question 11."
 ---
 # TV Tower on Canal Bank
 
@@ -10,7 +11,6 @@ A TV tower stands vertically on a bank of a canal. From a point on the other ban
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 12.1, Question 11.
 
 ## Correct Answer
 

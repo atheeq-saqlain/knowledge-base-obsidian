@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-FFRQYWQG
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.1, Question 3."
 ---
 # Check Collinear Points
 
@@ -9,8 +10,6 @@ questionType: exercise
 Determine if the points (1, 5), (2, 3) and (−2, −11) are collinear.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 7.1, Question 3.
 
 ## Correct Answer
 

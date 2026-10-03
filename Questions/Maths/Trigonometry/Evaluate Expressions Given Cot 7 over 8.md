@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-0AF69W81
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.1, Question 7."
 ---
 # Evaluate Expressions Given Cot 7 over 8
 
@@ -12,7 +13,6 @@ If cot θ = 7/8, evaluate:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.1, Question 7.
 
 ## Correct Answer
 

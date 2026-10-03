@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-7TAZ9PH6
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.3, Question 12."
 ---
 # Quadrant OACB Shaded OD 2
 
@@ -13,7 +14,6 @@ OACB is a quadrant of a circle with centre O and radius 3.5 cm. If OD = 2 cm, fi
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.3, Question 12.
 
 ## Correct Answer
 

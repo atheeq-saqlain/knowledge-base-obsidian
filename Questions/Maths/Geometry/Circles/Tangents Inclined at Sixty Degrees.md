@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-529PM3HC
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 6.2, Question 4."
 ---
 # Tangents Inclined at Sixty Degrees
 
@@ -10,7 +11,6 @@ Draw a pair of tangents to a circle of radius 5 cm that are inclined to each oth
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 6.2, Question 4.
 
 ## Correct Answer
 

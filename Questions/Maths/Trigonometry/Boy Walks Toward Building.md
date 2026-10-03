@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-988594D0
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 12.1, Question 6."
 ---
 # Boy Walks Toward Building
 
@@ -10,7 +11,6 @@ A 1.5 m tall boy is standing at some distance from a 30 m tall building. The ang
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 12.1, Question 6.
 
 ## Correct Answer
 

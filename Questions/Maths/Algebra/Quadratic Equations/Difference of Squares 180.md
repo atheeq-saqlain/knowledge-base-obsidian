@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-93JRQ549
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.3, Question 7."
 ---
 # Difference of Squares 180
 
@@ -10,7 +11,6 @@ The difference of squares of two numbers is 180. The square of the smaller numbe
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.3, Question 7.
 
 ## Correct Answer
 

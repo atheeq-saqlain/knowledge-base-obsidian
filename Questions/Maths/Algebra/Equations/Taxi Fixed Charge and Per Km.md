@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-DGDD9V36
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.3, Question 3(iv)."
 ---
 # Taxi Fixed Charge and Per Km
 
@@ -10,7 +11,6 @@ The taxi charges in a city consist of a fixed charge together with the charge fo
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.3, Question 3(iv).
 
 ## Correct Answer
 

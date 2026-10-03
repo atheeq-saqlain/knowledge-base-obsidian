@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-XXEX1QH0
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.4, Question 1."
 ---
 # Express Sin Sec Tan in Terms of Cot
 
@@ -10,7 +11,6 @@ Express the trigonometric ratios sin A, sec A and tan A in terms of cot A.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.4, Question 1.
 
 ## Correct Answer
 

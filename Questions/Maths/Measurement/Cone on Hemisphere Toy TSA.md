@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-S72B8ZN3
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.1, Question 3."
 ---
 # Cone on Hemisphere Toy TSA
 
@@ -10,7 +11,7 @@ A toy is in the form of a cone of radius 3.5 cm mounted on a hemisphere of same 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.1, Question 3.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-8VWX0HW4
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.3, Question 2."
 ---
 # Roots by Quadratic Formula
 
@@ -10,7 +11,6 @@ Find the roots of the quadratic equations given in Exercise 10.3 Question 1 by a
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.3, Question 2.
 
 ## Correct Answer
 

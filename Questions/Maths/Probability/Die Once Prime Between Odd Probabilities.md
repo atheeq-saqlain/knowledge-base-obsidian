@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-CR905EJJ
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 13."
 ---
 # Die Once Prime Between Odd Probabilities
 
@@ -16,7 +17,6 @@ A die is thrown once. Find the probability of getting:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 13.
 
 ## Correct Answer
 

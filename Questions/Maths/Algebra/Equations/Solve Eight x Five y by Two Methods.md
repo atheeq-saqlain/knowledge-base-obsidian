@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-FT2DQQC1
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.5, Question 3."
 ---
 # Solve Eight x Five y by Two Methods
 
@@ -12,7 +13,6 @@ Solve the following pair of linear equations by the substitution and cross-multi
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.5, Question 3.
 
 ## Correct Answer
 

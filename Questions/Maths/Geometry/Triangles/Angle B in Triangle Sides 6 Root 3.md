@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-GGTW28V6
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.5, Question 17."
 ---
 # Angle B in Triangle Sides 6 Root 3
 
@@ -12,7 +13,6 @@ In ΔABC, AB = 6√3 cm, AC = 12 cm and BC = 6 cm. The angle B is:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.5, Question 17.
 
 ## Correct Answer
 

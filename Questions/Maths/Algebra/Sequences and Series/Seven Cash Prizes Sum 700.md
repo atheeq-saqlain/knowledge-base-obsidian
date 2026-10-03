@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-KP52DVCD
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 16."
 ---
 # Seven Cash Prizes Sum 700
 
@@ -10,7 +11,6 @@ A sum of ₹700 is to be used to give seven cash prizes to students of a school 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 16.
 
 ## Correct Answer
 

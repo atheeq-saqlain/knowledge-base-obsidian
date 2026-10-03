@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-97Z6XFW7
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.5, Question 5."
 ---
 # Isosceles AB Squared Implies Right
 
@@ -10,7 +11,6 @@ ABC is an isosceles triangle with AC = BC. If AB² = 2 AC², prove that ABC is a
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.5, Question 5.
 
 ## Correct Answer
 

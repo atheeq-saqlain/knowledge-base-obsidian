@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-N8P940ZV
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 9.4 (Optional), Question 1."
 ---
 # Verify Cubic Zeroes and Coefficients
 
@@ -13,7 +14,6 @@ Verify that the numbers given alongside each of the cubic polynomials below are 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 9.4 (Optional), Question 1.
 
 ## Correct Answer
 

@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-5ZDCXTC4
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 6.2, Question 7."
 ---
 # Tangents to Freehand Bangle Circle
 
@@ -10,7 +11,6 @@ Draw a circle with the help of a bangle. Take a point outside the circle and con
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 6.2, Question 7.
 
 ## Correct Answer
 

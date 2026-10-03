@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-565MCW6Y
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.1, Question 2."
 ---
 # Radius Equal Area Sum
 
@@ -10,7 +11,6 @@ The radii of two circles are 8 cm and 6 cm respectively. Find the radius of the 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.1, Question 2.
 
 ## Correct Answer
 

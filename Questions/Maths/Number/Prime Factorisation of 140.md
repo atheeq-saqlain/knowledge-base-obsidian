@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-316KNZTV
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.2, Question 1."
 ---
 # Prime Factorisation of 140
 
@@ -15,7 +16,6 @@ Express each number as a product of its prime factors:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.2, Question 1.
 
 ## Correct Answer
 

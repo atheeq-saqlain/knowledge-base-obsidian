@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-B2G5T202
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.3, Question 3."
 ---
 # Square Semicircles Shaded Area
 
@@ -10,7 +11,6 @@ Find the area of the shaded region if ABCD is a square of side 14 cm and APD and
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.3, Question 3.
 
 ## Correct Answer
 

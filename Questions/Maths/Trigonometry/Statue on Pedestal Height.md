@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-DPTQBWZ8
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 12.1, Question 8."
 ---
 # Statue on Pedestal Height
 
@@ -10,7 +11,6 @@ A statue 1.6 m tall stands on the top of a pedestal. From a point on the ground,
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 12.1, Question 8.
 
 ## Correct Answer
 

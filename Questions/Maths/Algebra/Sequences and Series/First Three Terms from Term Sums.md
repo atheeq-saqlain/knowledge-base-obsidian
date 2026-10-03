@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-C788E2JB
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.2, Question 18."
 ---
 # First Three Terms from Term Sums
 
@@ -10,7 +11,6 @@ The sum of the 4th and 8th terms of an AP is 24 and the sum of the 6th and 10th 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.2, Question 18.
 
 ## Correct Answer
 

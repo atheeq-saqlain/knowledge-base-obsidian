@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-FHPDBJZJ
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.1, Question 8."
 ---
 # Mean Days Student Absent
 
@@ -10,7 +11,6 @@ A class teacher has the absentee record of 40 students for a full term: number o
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.1, Question 8.
 
 ## Correct Answer
 

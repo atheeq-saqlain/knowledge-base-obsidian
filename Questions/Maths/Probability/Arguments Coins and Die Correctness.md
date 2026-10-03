@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-J7CVJVWF
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 25."
 ---
 # Arguments Coins and Die Correctness
 
@@ -14,7 +15,6 @@ Which of the following arguments are correct and which are not correct? Give rea
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 25.
 
 ## Correct Answer
 

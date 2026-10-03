@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-FX5AE7T5
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.2, Question 6."
 ---
 # Why These Expressions Are Composite
 
@@ -10,7 +11,6 @@ Explain why 7 × 11 × 13 + 13 and 7 × 6 × 5 × 4 × 3 × 2 × 1 + 5 are compo
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.2, Question 6.
 
 ## Correct Answer
 

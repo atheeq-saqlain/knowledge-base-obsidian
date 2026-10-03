@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-VVMKK0GY
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.1, Question 4."
 ---
 # Which Lists Form an AP
 
@@ -39,8 +40,6 @@ Which of the following are APs? If they form an AP, find the common difference d
 (xv) 1², 5², 7², 73, …
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 1.1, Question 4.
 
 ## Correct Answer
 

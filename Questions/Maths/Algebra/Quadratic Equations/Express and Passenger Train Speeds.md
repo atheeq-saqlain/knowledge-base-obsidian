@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-Z54JX9H4
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.3, Question 10."
 ---
 # Express and Passenger Train Speeds
 
@@ -10,7 +11,6 @@ An express train takes 1 hour less than a passenger train to travel 132 km betwe
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.3, Question 10.
 
 ## Correct Answer
 

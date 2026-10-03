@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-M8AJQ6JP
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.5 (Optional), Question 3."
 ---
 # Cistern Porous Bricks Count
 
@@ -10,7 +11,7 @@ A cistern, internally measuring 150 cm × 120 cm × 110 cm, has 129600 cm³ of w
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.5 (Optional), Question 3.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

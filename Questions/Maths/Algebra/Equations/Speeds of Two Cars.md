@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-X5GAHSZ9
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.5, Question 4(iv)."
 ---
 # Speeds of Two Cars
 
@@ -10,7 +11,6 @@ Places A and B are 100 km apart on a highway. One car starts from A and another 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 3.5, Question 4(iv).
 
 ## Correct Answer
 

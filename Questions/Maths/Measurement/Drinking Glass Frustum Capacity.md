@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-4HE6M7GG
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.4, Question 1."
 ---
 # Drinking Glass Frustum Capacity
 
@@ -10,7 +11,7 @@ A drinking glass is in the shape of a frustum of a cone of height 14 cm. The dia
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.4, Question 1.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

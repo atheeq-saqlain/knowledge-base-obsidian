@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-D39JCGZD
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 15.2, Question 1."
 ---
 # Cone on Hemisphere Volume Pi
 
@@ -10,7 +11,7 @@ A solid is in the shape of a cone standing on a hemisphere with both their radii
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 15.2, Question 1.
+
 Unless stated otherwise, use π = 22/7.
 
 ## Correct Answer

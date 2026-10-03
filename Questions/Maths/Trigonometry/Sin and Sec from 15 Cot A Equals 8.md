@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-5C6BJP1C
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 11.1, Question 4."
 ---
 # Sin and Sec from 15 Cot A Equals 8
 
@@ -10,7 +11,6 @@ Given 15 cot A = 8, find sin A and sec A.
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 11.1, Question 4.
 
 ## Correct Answer
 

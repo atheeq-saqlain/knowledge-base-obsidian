@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-QAGJCTM8
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 13.3, Question 6."
 ---
 # Median Mean Mode Surname Size
 
@@ -10,7 +11,6 @@ In a survey of 100 surnames, the number of letters are in classes 1–4, 4–7, 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 13.3, Question 6.
 
 ## Correct Answer
 

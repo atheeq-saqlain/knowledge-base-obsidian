@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-SM7XXMFR
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 6.1, Question 2."
 ---
 # Similar Triangle Scale Factor Two Thirds
 
@@ -10,7 +11,6 @@ Construct a triangle of sides 4 cm, 5 cm and 6 cm and then a triangle similar to
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 6.1, Question 2.
 
 ## Correct Answer
 

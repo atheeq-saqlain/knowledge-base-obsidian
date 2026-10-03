@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-WP34CMAA
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 3.5, Question 4(i)."
 ---
 # Hostel Fixed Charge Food Per Day
 
@@ -9,8 +10,6 @@ questionType: exercise
 A part of monthly hostel charges is fixed and the remaining depends on the number of days one has taken food in the mess. When a student A takes food for 20 days she has to pay ₹1000 as hostel charges whereas a student B, who takes food for 26 days, pays ₹1180 as hostel charges. Find the fixed charges and the cost of food per day.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 3.5, Question 4(i).
 
 ## Correct Answer
 

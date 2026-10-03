@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-XTXG0SQY
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 5.1, Question 5."
 ---
 # Perimeter Area Numerically Equal
 
@@ -12,7 +13,6 @@ If the perimeter and the area of a circle are numerically equal, then the radius
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 5.1, Question 5.
 
 ## Correct Answer
 

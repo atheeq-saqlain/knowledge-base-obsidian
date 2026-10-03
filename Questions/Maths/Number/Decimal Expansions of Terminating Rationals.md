@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-506KKZS1
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 8.4, Question 2."
 ---
 # Decimal Expansions of Terminating Rationals
 
@@ -10,7 +11,6 @@ Write down the decimal expansions of those rational numbers in Exercise 8.4 Ques
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 8.4, Question 2.
 
 ## Correct Answer
 

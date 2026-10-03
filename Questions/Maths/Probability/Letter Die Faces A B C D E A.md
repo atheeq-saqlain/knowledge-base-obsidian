@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-5WAWPPDY
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 14.1, Question 19."
 ---
 # Letter Die Faces A B C D E A
 
@@ -14,7 +15,6 @@ The die is thrown once. What is the probability of getting: (i) A? (ii) D?
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 14.1, Question 19.
 
 ## Correct Answer
 

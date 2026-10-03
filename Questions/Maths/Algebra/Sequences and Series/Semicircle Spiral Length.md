@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-13FG9ZRQ
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 1.3, Question 18."
 ---
 # Semicircle Spiral Length
 
@@ -10,7 +11,6 @@ A spiral is made up of successive semicircles, with centres alternately at A and
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 1.3, Question 18.
 
 ## Correct Answer
 

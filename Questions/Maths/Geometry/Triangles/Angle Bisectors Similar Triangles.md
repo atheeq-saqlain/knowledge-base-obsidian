@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-QCP88HK3
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 2.3, Question 10."
 ---
 # Angle Bisectors Similar Triangles
 
@@ -14,7 +15,6 @@ CD and GH are respectively the bisectors of ∠ACB and ∠EGF such that D and H 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 2.3, Question 10.
 
 ## Correct Answer
 

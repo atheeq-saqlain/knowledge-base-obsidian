@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-21F712CE
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 4.2, Question 10."
 ---
 # Tangents Supplementary Central Angle
 
@@ -10,7 +11,6 @@ Prove that the angle between the two tangents drawn from an external point to a 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 4.2, Question 10.
 
 ## Correct Answer
 

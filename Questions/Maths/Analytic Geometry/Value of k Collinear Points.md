@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-5B7RYR20
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.3, Question 2."
 ---
 # Value of k Collinear Points
 
@@ -12,7 +13,6 @@ In each of the following find the value of k for which the points are collinear:
 
 ## Description
 
-Source: KTBS Class 10 Maths Part I, Exercise 7.3, Question 2.
 
 ## Correct Answer
 

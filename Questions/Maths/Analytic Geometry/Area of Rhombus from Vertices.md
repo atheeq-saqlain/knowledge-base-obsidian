@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-6K75HX7T
 questionType: exercise
+source: "KTBS Class 10 Maths Part I, Exercise 7.2, Question 10."
 ---
 # Area of Rhombus from Vertices
 
@@ -9,8 +10,6 @@ questionType: exercise
 Find the area of the rhombus with vertices (3, 0), (4, 5), (−1, 4) and (−2, −1) taken in order.
 
 ## Description
-
-Source: KTBS Class 10 Maths Part I, Exercise 7.2, Question 10.
 
 ## Correct Answer
 

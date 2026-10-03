@@ -1,6 +1,7 @@
 ---
 code: Q-2609221829-E1M8Y0X9
 questionType: exercise
+source: "KTBS Class 10 Maths Part II, Exercise 10.3, Question 5."
 ---
 # Shefali Marks in Two Subjects
 
@@ -10,7 +11,6 @@ In a class test, the sum of Shefali’s marks in Mathematics and English is 30. 
 
 ## Description
 
-Source: KTBS Class 10 Maths Part II, Exercise 10.3, Question 5.
 
 ## Correct Answer
 
