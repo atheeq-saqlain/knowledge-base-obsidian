@@ -12,6 +12,19 @@ E and F are points on the sides PQ and PR respectively of ΔPQR. For each case, 
 (ii) PE = 4 cm, QE = 4.5 cm, PF = 8 cm, RF = 9 cm
 (iii) PQ = 1.28 cm, PR = 2.56 cm, PE = 0.18 cm, PF = 0.36 cm
 
+```svg
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="220" viewBox="0 0 320 220">
+  <rect width="320" height="220" fill="#f8fafc" stroke="#e2e8f0"/>
+  <polygon points="160,24 40,190 280,190" fill="#fff" stroke="#0f172a" stroke-width="2.5"/>
+  <line x1="100" y1="107" x2="220" y2="107" stroke="#0284c7" stroke-width="2.5"/>
+  <text x="154" y="18" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">P</text>
+  <text x="24" y="206" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">Q</text>
+  <text x="284" y="206" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="bold" fill="#0f172a">R</text>
+  <text x="80" y="104" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="bold" fill="#0284c7">E</text>
+  <text x="224" y="104" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="bold" fill="#0284c7">F</text>
+</svg>
+```
+
 ## Description
 
 Source: KTBS Class 10 Maths Part I, Exercise 2.2, Question 2.
