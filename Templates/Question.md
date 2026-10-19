@@ -2,6 +2,7 @@
 code:
 questionType:
 source:
+status: draft
 ---
 # {{title}}
 ## Statement
@@ -30,5 +31,6 @@ roles : primary | supporting
 
 <!-- Link concepts in labels with [[wikilinks]]. role: primary | supporting -->
 <!-- code: Q-YYMMDDHHMM-XXXXXXXX. Set once; never change on move/rename. -->
+<!-- status: draft | flagged | ai_fixed | approved — see Concept template / README -->
 <!-- source: textbook / list citation (e.g. KTBS Class 10 Maths Part I, Exercise 2.5, Question 13). -->
 <!-- Place the file in the same topic folder as the Core Concept. -->

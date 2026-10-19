@@ -1,0 +1,15 @@
+---
+description: Knowledge Tracker vault catalog conventions (codes, status, sync)
+alwaysApply: true
+---
+
+# Catalog authoring
+
+- This vault is the authoring source of truth. Sync is **one-way**: vault → MongoDB by frontmatter `code`.
+- Never change `code` after create. Folder moves/renames must keep the same `code`.
+- `status` on concepts/questions: `draft` | `flagged` | `ai_fixed` | `approved`.
+  - Learners see all except `flagged`.
+  - After an AI fix, set `status: ai_fixed` only — never `approved`.
+  - Only a human moderator sets `approved` (app or vault).
+- Do not put board/grade/exam names in `Concepts/` or `Questions/` paths.
+- Prefer README.md and Templates/ for note structure details.

@@ -1,6 +1,7 @@
 ---
 code:
 kind: schema
+status: draft
 ---
 # {{title}}
 
@@ -19,5 +20,10 @@ kind: fact | representation | operation | schema | principle
   representation / operation = foundations
   principle    = why / when / tradeoffs
   fact         = declarative knowledge
+status: draft | flagged | ai_fixed | approved
+  draft     = visible; not formally reviewed
+  flagged   = hidden from learners; waiting for AI fix
+  ai_fixed  = AI changed this; moderator must re-review
+  approved  = moderator signed off
 code: C-YYMMDDHHMM-XXXXXXXX. Set once (or via backfill/sync); never change on move/rename.
 -->

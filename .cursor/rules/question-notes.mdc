@@ -1,0 +1,14 @@
+---
+description: Question note structure and checklist rules
+globs: Questions/**/*.md
+alwaysApply: false
+---
+
+# Question notes
+
+- Frontmatter: `code`, optional `questionType` / `source`, `status`.
+- Sections: Statement, Description, Correct Answer, Core Concept, Assessment Checklist.
+- Core Concept: one `[[wikilink]]` — prefer a **schema** concept.
+- Checklist table columns: `label`, `weight`, `required`, `role` (`primary` | `supporting`).
+- Put concept links in checklist **labels** with `[[wikilinks]]`.
+- Place the file under the same topic folder as the core concept.

@@ -1,0 +1,13 @@
+---
+description: Concept note structure and kinds
+globs: Concepts/**/*.md
+alwaysApply: false
+---
+
+# Concept notes
+
+- Title → concept name.
+- Frontmatter: `code`, `kind`, `status`.
+- **Definition**: precise statement; `[[wikilinks]]` only for required prerequisites.
+- **Description**: examples/context — **no wikilinks**.
+- `kind`: `fact` | `representation` | `operation` | `schema` | `principle` (prefer schema as question core).

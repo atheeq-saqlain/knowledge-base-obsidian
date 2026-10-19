@@ -129,8 +129,20 @@ npm run rewrite-catalog-codes    # one-shot vault + Mongo rewrite to the current
 | **Note title**  | Human-readable name → `Concept.name` |
 | **`code`**      | Stable id (`C-YYMMDDHHMM-XXXXXXXX`) — sync join key |
 | **`kind`**      | See table above → `Concept.kind` |
+| **`status`**    | `draft` \| `flagged` \| `ai_fixed` \| `approved` (review lifecycle) |
 | **Definition**  | Precise, generic statement. Prefer standalone; add `[[wikilinks]]` only when another concept is **required**. Those links become `preRequisitConcepts` on sync |
 | **Description** | Elaboration and examples — **no wikilinks** |
+
+### Review status
+
+| `status` | Learners | Meaning |
+|----------|----------|---------|
+| `draft` | Visible | Not formally reviewed |
+| `flagged` | Hidden | Needs AI/human fix |
+| `ai_fixed` | Visible | AI changed it; moderator must re-review |
+| `approved` | Visible | Moderator signed off |
+
+Missing `status` on sync defaults to `draft` for new notes; existing DB status is kept if the vault omits it. AI agents set `ai_fixed` only — never `approved`.
 
 ## Question notes
 
@@ -138,6 +150,7 @@ npm run rewrite-catalog-codes    # one-shot vault + Mongo rewrite to the current
 | ------------------------ | ---------------------------------------------- |
 | **Note title**           | Human-readable title                           |
 | **`code`**               | Stable id (`Q-YYMMDDHHMM-XXXXXXXX`) — sync join key |
+| **`status`**             | `draft` \| `flagged` \| `ai_fixed` \| `approved` |
 | **`questionType`**       | Optional kind (e.g. `exercise`)                |
 | **`source`**             | Textbook / list citation (optional)            |
 | **Statement**            | What the learner sees                          |
